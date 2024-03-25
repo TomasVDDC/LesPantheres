@@ -31,8 +31,29 @@ Please, fill the following sections about your project.
 
 ### Exploratory Data Analysis
 
-> Pre-processing of the data set you chose
-> - Show some basic statistics and get insights about the data
+The analysis of flight delay data reveals key insights: the average delay is 12.7 minutes, with a high standard deviation of 44 minutes indicating varied delay lengths. Most flights are on time, as the median delay is 0 minutes, yet the maximum delay recorded is significantly high at 7,223 minutes. Notably, 37.25% of the data on departure delays is missing, highlighting the need for careful data handling. 
+
+Here is a table summarising the key insights:
+
+
+| Statistic                 | Departure Delays (minutes)   | 
+|---------------------------|-------------------|
+| Mean                      | 12.7           | 
+| Standard Deviation        | 44            | 
+| Minimum                   | 0                 | 
+| 25%                       | 0             | 
+| 50% (Median)              | 0            | 
+| 75%                       | 5            | 
+| Maximum                   | 7.223            | 
+| Missing Values (%)        | 37.25            | 
+
+
+The accompanying visualization showcases trends in average flight delays from 2018 to 2022, providing a basis for understanding delay patterns and aiding in improving airline operational efficiency. Notice the effect of the Covid-19 pandemic during 2020!
+
+<div style="text-align:center; margin-top:-180px; margin-bottom:-180px;">
+    <img src="./plots/Average_Flight_Delays_2018-2022.svg" alt="Alt text" width="800" height="800" >
+</div>
+ 
 
 ### Related work
 
