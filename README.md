@@ -50,8 +50,12 @@ Here is a table summarising the key insights:
 
 The accompanying visualization showcases trends in average flight delays from 2018 to 2022, providing a basis for understanding delay patterns and aiding in improving airline operational efficiency. Notice the effect of the Covid-19 pandemic during 2020!
 
-<div style="text-align:center; margin-top:-180px; margin-bottom:-180px;">
+<!--<div style="text-align:center; margin-top:-180px; margin-bottom:-180px;">
     <img src="./plots/Average_Flight_Delays_2018-2022.svg" alt="Alt text" width="800" height="800" >
+</div> -->
+
+<div style="text-align:center;">
+<img src="./plots/Average_Flight_Delays_2018-2022.png" alt="Alt text" width="800" height="400" >
 </div>
  
 
