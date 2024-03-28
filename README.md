@@ -64,9 +64,40 @@ The accompanying visualization showcases trends in average flight delays from 20
 
 
 > - What others have already done with the data?
+
+Many flight data visualizations using this data used tools like Tableau or a visualization library like d3.js. The visualization focused on showcasing airline performance, including delays and cancellations. This data was often reported as a dashboard and data dense. 
+
+Analysis of flights delay data showing diverse data, for example:
+
+<div style="text-align:center;">
+<img src="./images/image4.png" width="500" height="200" >
+</div>
+
+From https://www.heavy.ai/demos/flights or 
+
+<div style="text-align:center;">
+<img src="./images/image1.png" width="500" height="200" >
+</div>
+
 > - Why is your approach original?
+
+We will focus on making the data as interactive as possible, making the data less dense to digest. For example, they can look for data of a particular route or the punctuality of planes departing from a specific airport. By doing this, we enable users to find insights pertinent to their travel habits and satisfy their own curiosity while simultaneously making the data less dense and easier to understand.
+
+
+
+
 > - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-> - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
+I’ve put images of some visualizations that we liked:
+
+<div style="text-align:center;">
+<img src="./images/image2.png" width="500" height="200" >
+</div>
+<div style="text-align:center;">
+<img src="./images/image3.png" width="500" height="200" >
+</div>
+<div style="text-align:center;">
+<img src="./images/image5.png" width="500" height="200" >
+</div>
 
 ## Milestone 2 (26th April, 5pm)
 
