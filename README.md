@@ -2,9 +2,9 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| | |
-| | |
-| | |
+| Diogo Valdivieso Damasio Da Costa | 311673 |
+| Tomas Valdivieso Damasio Da Costa | 300086 |
+| Armance Nouvel | 330729 |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
