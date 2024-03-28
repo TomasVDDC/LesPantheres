@@ -26,10 +26,21 @@ The dataset source : https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ
 
 ### Problematic
 
-> Frame the general topic of your visualization and the main axis that you want to develop.
->
-> - What am I trying to show with my visualization?
-> - Think of an overview for the project, your motivation, and the target audience.
+In today's interconnected world, air travel plays a crucial role. However, the complexity of flight data makes it often difficult to analyze and understand for ordinary users. This presents an opportunity for insightful analysis and visualization. Visualizations in this domain are particularly interesting because it offers an intuitive way to comprehend vast amounts of data related to flights, including routes, frequencies, delays, and passenger volumes. By presenting this information visually through charts, graphs, and maps, stakeholders such as airlines, airport authorities, and travelers can quickly identify patterns, trends, and anomalies. Our primary aim is to provide a user-friendly interface that allows users to explore various flight and airport details, facilitating informed decision-making and improving overall air travel experiences. Our target audience consists of individual travelers providing them comprehensive and easily accessible flight information.
+ 
+Through our analysis and visualizations, we will address the following types of questions :
+-       Are there any noticeable seasonal trends in flight delays for specific destinations?
+-       What is the busiest time of day for flight departures at a particular airport?
+-       Which airport experiences the highest frequency of delays?
+-       What is the average delay time for flights departing from a specific airport?
+-       What is the typical duration of flights between two specific airports?
+ 
+ 
+We will focus on two main axes : 
+-       The first part will involve exploration, featuring an interactive map allowing users to select departure and arrival airports. This section will provide various flight and airport details, including departure time, delays, and flight frequency, cancellations…. We will also incorporate dynamic visualizations for every trip, complete with animated flight data.
+ 
+-       The second part will focus on analysis, presenting correlations between different flight features. As an example, we could present a graph demonstrating how the frequency of flight delays correlates with the date of the flight. By examining the results, we can establish connections between events during specific periods. For instance, as shown in the exploratory graph below, we observe a significant decrease in delays during the Covid period, corresponding to the substantial reduction in flight volume during that time.
+
 
 ### Exploratory Data Analysis
 
