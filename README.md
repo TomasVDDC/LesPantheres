@@ -19,8 +19,11 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-> We are using a dataset from the Bureau of Transportation Statistics : "On-Time : Marketing Carrier On-Time Performance". It includes scheduled and actual departure and arrival times, canceled and diverted flights, causes of delay and cancellation, air time among others. Because of the provided interface we can directly pick which features to keep before downloadin the data, which reduces the amount of filtering needed. The data is well kept and sources by the US government so we expect minimal data cleaning to be necessary. Although during our preliminary exploratory data analysis, we identified significant gaps in data across several variables.
-> The dataset source : https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGK&QO_fu146_anzr=b0-gvzr
+We are using a dataset from the Bureau of Transportation Statistics : "On-Time : Marketing Carrier On-Time Performance". It includes scheduled and actual departure and arrival times, canceled and diverted flights, causes of delay and cancellation, air time among others. Because of the provided interface we can directly pick which features to keep before downloadin the data, which reduces the amount of filtering needed.
+
+The data is well kept and sources by the US government so we expect minimal data cleaning to be necessary. Although during our preliminary exploratory data analysis, we identified significant gaps in data across several variables.
+
+The dataset source : https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGK&QO_fu146_anzr=b0-gvzr
 ### Problematic
 
 > Frame the general topic of your visualization and the main axis that you want to develop.
