@@ -71,8 +71,6 @@ The accompanying visualization showcases trends in average flight delays from 20
 
 ### Related work
 
-> - What others have already done with the data?
-
 Many flight data visualizations using this data used tools like Tableau or a visualization library like d3.js. The visualization focused on showcasing airline performance, including delays and cancellations. This data was often reported as a dashboard and data dense.
 
 Analysis of flights delay data showing diverse data, for example:
