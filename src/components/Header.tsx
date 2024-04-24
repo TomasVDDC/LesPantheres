@@ -3,8 +3,6 @@
 import React from "react"
 import Link from "next/link"
 import { useRouter, usePathname } from "next/navigation"
-import { header } from "@/app/layout"
-import NavLink from "./NavLink"
 import { Zoom } from "react-awesome-reveal"
 
 const Header = () => {
@@ -22,10 +20,7 @@ const Header = () => {
 					className={`flex flex-col sm:text-center  md:text-left md:flex-row justify-between items-center  mx-auto py-4  mt-[30px]  md:mt-[80px]`}
 				>
 					<div>
-						<Link
-							className={`text-[60px]  ${header.className} font-bold text-white`}
-							href="/"
-						>
+						<Link className={`text-[60px]  font-bold text-white`} href="/">
 							Plane visualization
 						</Link>
 						<p className="text-[20px] text-zinc-300">
