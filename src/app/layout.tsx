@@ -1,6 +1,5 @@
 import Header from "../components/Header"
 import "./globals.css"
-import Header2 from "../components/Header2"
 import { Inter, Roboto, Poppins, Roboto_Slab } from "next/font/google"
 import { Metadata } from "next"
 import Footer from "@/components/Footer"

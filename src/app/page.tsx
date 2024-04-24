@@ -1,5 +1,4 @@
 "use client"
-import { header } from "./layout"
 
 export default function Home() {
 	return (
