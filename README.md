@@ -98,6 +98,7 @@ I’ve put images of some visualizations that we liked:
 </div>
 
 ## Milestone 2 (26th April, 5pm)
+### Project Goal
 
 Our final product will include the following visualizations:
 
@@ -112,6 +113,7 @@ Our final product will include the following visualizations:
 <p align="center">
 <img src="./images/Statistics_visualisation.JPEG" height="500" >
 </div>
+### Functional Project Prototype
 
 
 ## Milestone 3 (31st May, 5pm)
