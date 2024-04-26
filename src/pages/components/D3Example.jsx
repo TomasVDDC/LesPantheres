@@ -153,7 +153,6 @@ export default function D3Example({ width, height }) {
   return (
     <div>
       <div class="viz"></div>
-      <ToastContainer />
     </div>
   );
 }
