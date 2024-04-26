@@ -8,7 +8,7 @@ export default function IndexPage() {
   return (
     <>
       <Head>
-        <title>My page title</title>
+        <title>Dataviz Project</title>
         <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
         <script type="module"></script>
       </Head>
