@@ -113,6 +113,7 @@ Our final product will include the following visualizations:
 <p align="center">
 <img src="./images/Statistics_visualisation.JPEG" height="500" >
 </div>
+
 ### Functional Project Prototype
 
 
