@@ -99,7 +99,16 @@ I’ve put images of some visualizations that we liked:
 
 ## Milestone 2 (26th April, 5pm)
 
-**10% of the final grade**
+Our final product will include the following visualizations:
+> -	A dynamic map of the United States, serving as the focal point of our website. It will display various flight routes along with detailed information like departure/arrival times, dates, and airline carriers. Users can interact with the map by selecting specific dates, departure and arrival airports, with the relevant flight data updating accordingly.
+<div style="text-align:center;">
+<img src="./images/Map_visualisation.JPEG" height="600" >
+</div>
+> -	Another component of our project will present statistical insights into flights, focusing particularly on factors like dates, airlines, and airports. Our emphasis will be on analyzing delays and cancellations, leveraging the abundant data available in our dataset. Below is a glimpse of the statistical visualizations we aim to provide. Once again, users will have the flexibility to customize their view by selecting parameters such as the year to observe relevant statistics
+<div style="text-align:center;">
+<img src="./images/Statistics_visualisation.JPEG" height="400" >
+</div>
+
 
 ## Milestone 3 (31st May, 5pm)
 
