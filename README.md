@@ -98,20 +98,38 @@ I’ve put images of some visualizations that we liked:
 </div>
 
 ## Milestone 2 (26th April, 5pm)
+### Project Goal
 
+The goal of this data visualization project is to analyze and highlights trends of flights inside the USA from 2018 to 2022 using a dataset from the Bureau of Transportation Statistics. Through visually engaging presentations, our objective is to furnish a user-friendly interface enabling exploration of various flights and airport details. By empowering users with comprehensive insights, we strive to enhance decision-making and enrich overall air travel experiences. Our primary audience comprises individual travelers, ensuring they have seamless access to comprehensive flight information.
+
+### Visualizations 
 Our final product will include the following visualizations:
 
  -	A dynamic map of the United States, serving as the focal point of our website. It will display various flight routes along with detailed information like departure/arrival times, dates, and airline carriers. Users can interact with the map by selecting specific dates, departure and arrival airports, with the relevant flight data updating accordingly.
    
 <p align="center">
-    <img src="./images/Map_visualisation.JPEG" height="600" style="display:block; margin:auto;">
+    <img src="./images/Map_visualisation.JPEG" height="700" style="display:block; margin:auto;">
 </div>
 
  -	Another component of our project will present statistical insights into flights, focusing particularly on factors like dates, airlines, and airports. Our emphasis will be on analyzing delays and cancellations, leveraging the abundant data available in our dataset. Below is a glimpse of the statistical visualizations we aim to provide. Once again, users will have the flexibility to customize their view by selecting parameters such as the year to observe relevant statistics
 
-<div style="text-align:center;">
-<img src="./images/Statistics_visualisation.JPEG" height="400" >
+<p align="center">
+<img src="./images/Statistics_visualisation.JPEG" height="500" >
 </div>
+
+- Extra creative or challenging ideas : A challenging proposition could involve expanding our flight analysis globally, incorporating an additional dataset to enhance our existing one. By doing so, we can create a more comprehensive visualization on a global scale, potentially enabling comparisons between flight data from the USA and other countries. This approach opens up avenues for broader insights and a deeper understanding of worldwide air travel patterns. Another extra idea would be to incorporate predictive models to forecast future flight trends, delays, or cancellations based on historical data. Users can benefit from insights into potential disruptions and plan their travels accordingly.
+
+
+### Functional Project Prototype
+
+
+You can find the prototype at this link : https://les-pantheres-git-master-tomas-projects-569b5f47.vercel.app/
+
+The initial website showcases the basic skeleton of our visualization and widgets, built with the Next.js framework alongside React and D3.js. This prototype displays the core look of the final website and provides the foundation for further development.
+
+For the statistics visualization we are considering using Chart.js due to its focus on chart-centric displays.  Chart.js is currently the most popular open source charting library and makes it easier to create beautiful and interactive charts.  
+
+
 
 
 ## Milestone 3 (31st May, 5pm)
