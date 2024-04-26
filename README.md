@@ -117,7 +117,7 @@ Our final product will include the following visualizations:
 <img src="./images/Statistics_visualisation.JPEG" height="500" >
 </div>
 
-- Extra creative or challenging ideas : A challenging proposition could involve expanding our flight analysis globally, incorporating an additional dataset to enhance our existing one. By doing so, we can create a more comprehensive visualization on a global scale, potentially enabling comparisons between flight data from the USA and other countries. This approach opens up avenues for broader insights and a deeper understanding of worldwide air travel patterns.
+- Extra creative or challenging ideas : A challenging proposition could involve expanding our flight analysis globally, incorporating an additional dataset to enhance our existing one. By doing so, we can create a more comprehensive visualization on a global scale, potentially enabling comparisons between flight data from the USA and other countries. This approach opens up avenues for broader insights and a deeper understanding of worldwide air travel patterns. Another extra idea would be to incorporate predictive models to forecast future flight trends, delays, or cancellations based on historical data. Users can benefit from insights into potential disruptions and plan their travels accordingly.
 
 
 ### Functional Project Prototype
