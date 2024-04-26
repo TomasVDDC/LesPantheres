@@ -117,6 +117,15 @@ Our final product will include the following visualizations:
 ### Functional Project Prototype
 
 
+You can find the prototype at this link : https://les-pantheres-git-master-tomas-projects-569b5f47.vercel.app/
+
+The initial website showcases the basic skeleton of our visualization and widgets, built with the Next.js framework alongside React and D3.js. This prototype displays the core look of the final website and provides the foundation for further development.
+
+For the statistics visualization we are considering using Chart.js due to its focus on chart-centric displays.  Chart.js is currently the most popular open source charting library and makes it easier to create beautiful and interactive charts.  
+
+
+
+
 ## Milestone 3 (31st May, 5pm)
 
 **80% of the final grade**
