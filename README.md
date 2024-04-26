@@ -100,6 +100,9 @@ I’ve put images of some visualizations that we liked:
 ## Milestone 2 (26th April, 5pm)
 ### Project Goal
 
+The goal of this data visualization project is to analyze and highlights trends of flights inside the USA from 2018 to 2022 using a dataset from the Bureau of Transportation Statistics. Through visually engaging presentations, our objective is to furnish a user-friendly interface enabling exploration of various flights and airport details. By empowering users with comprehensive insights, we strive to enhance decision-making and enrich overall air travel experiences. Our primary audience comprises individual travelers, ensuring they have seamless access to comprehensive flight information.
+
+### Visualizations 
 Our final product will include the following visualizations:
 
  -	A dynamic map of the United States, serving as the focal point of our website. It will display various flight routes along with detailed information like departure/arrival times, dates, and airline carriers. Users can interact with the map by selecting specific dates, departure and arrival airports, with the relevant flight data updating accordingly.
