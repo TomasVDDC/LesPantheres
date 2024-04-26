@@ -129,6 +129,8 @@ The initial website showcases the basic skeleton of our visualization and widget
 
 For the statistics visualization we are considering using Chart.js due to its focus on chart-centric displays.  Chart.js is currently the most popular open source charting library and makes it easier to create beautiful and interactive charts.  
 
+The lectures that will help us the most are the ones on D3.js and the one this week on Maps!
+
 
 
 
