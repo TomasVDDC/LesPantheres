@@ -103,7 +103,7 @@ Our final product will include the following visualizations:
 
  -	A dynamic map of the United States, serving as the focal point of our website. It will display various flight routes along with detailed information like departure/arrival times, dates, and airline carriers. Users can interact with the map by selecting specific dates, departure and arrival airports, with the relevant flight data updating accordingly.
    
-<div style="text-align:center;">
+<p align="center">
     <img src="./images/Map_visualisation.JPEG" height="600" style="display:block; margin:auto;">
 </div>
 
