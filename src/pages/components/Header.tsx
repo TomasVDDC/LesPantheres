@@ -17,9 +17,9 @@ const Header = () => {
         className={`flex flex-col sm:text-center  md:text-left md:flex-row justify-between items-center  mx-auto py-4  mt-[30px]  md:mt-[80px]`}
       >
         <div>
-          <Link className={`text-[60px]  font-bold text-white`} href="/">
+          <p className={`text-[60px] font-bold text-white`} >
             Plane visualization
-          </Link>
+          </p>
           <p className="text-[20px] text-zinc-300">
             Data Visualization EPFL 2024
           </p>
