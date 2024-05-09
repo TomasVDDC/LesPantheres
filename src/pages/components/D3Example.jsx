@@ -5,6 +5,8 @@ import "react-toastify/dist/ReactToastify.css";
 //import countyData from "../data/counties.json";
 import stateData from "../data/states.json";
 
+import airports from "../data/airports.json";
+
 import { ToastContainer, toast } from "react-toastify";
 // example based on https://gnithyanantham.medium.com/creating-maps-using-d3-js-in-react-f42b8a292580
 
@@ -21,6 +23,20 @@ const colorScale = ["#B9EDDD", "#87CBB9", "#569DAA", "#577D86"];
 
 export default function D3Example({ width, height }) {
   // A random color generator
+  const airports_data = {
+    type: "FeatureCollection",
+    features: airports.map((airport) => ({
+      type: "Feature",
+      geometry: {
+        type: "Point",
+        coordinates: [
+          parseFloat(airport.longitude),
+          parseFloat(airport.latitude),
+        ],
+      },
+    })),
+  };
+
   const colorGenerator = () => {
     return colorScale[Math.floor(Math.random() * 4)];
   };
@@ -29,7 +45,7 @@ export default function D3Example({ width, height }) {
     let width = parseInt(d3.select(".viz").style("width"));
 
     let height = width * mapRatio;
-    let active = d3.select(null);
+    //let active = d3.select(null);
 
     width = width - margin.left - margin.right;
 
@@ -76,6 +92,23 @@ export default function D3Example({ width, height }) {
       .attr("class", "state")
       // Here's an example of what I was saying in my previous comment.
       .attr("fill", colorGenerator);
+
+    const airport_projection = d3
+      .geoAlbersUsa()
+      .scale(width)
+      .translate([width / 2 + margin.left, height / 2 + margin.top]);
+
+    // Append airports to the map
+    const airportsGroup = svg.append("g").attr("class", "airports");
+
+    airportsGroup
+      .selectAll("path")
+      .data(airports_data.features)
+      .enter()
+      .append("path")
+      .attr("d", d3.geoPath(airport_projection).pointRadius(1.5))
+      .attr("fill", "red"); // Change as needed
+
     //.on("click", handleZoom);
   }, []);
 
