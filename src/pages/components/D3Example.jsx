@@ -5,7 +5,7 @@ import "react-toastify/dist/ReactToastify.css";
 //import countyData from "../data/counties.json";
 import stateData from "../data/states.json";
 
-import airports from "../data/airports.json";
+import airports from "../data/filtered_airports.json";
 
 import { ToastContainer, toast } from "react-toastify";
 // example based on https://gnithyanantham.medium.com/creating-maps-using-d3-js-in-react-f42b8a292580
@@ -106,7 +106,7 @@ export default function D3Example({ width, height }) {
       .data(airports_data.features)
       .enter()
       .append("path")
-      .attr("d", d3.geoPath(airport_projection).pointRadius(1.5))
+      .attr("d", d3.geoPath(airport_projection).pointRadius(5))
       .attr("fill", "red"); // Change as needed
 
     //.on("click", handleZoom);

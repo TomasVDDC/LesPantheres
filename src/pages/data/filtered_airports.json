@@ -1,0 +1,587 @@
+[
+    {
+        "iata": "ABQ",
+        "name": "Albuquerque International",
+        "city": "Albuquerque",
+        "state": "NM",
+        "country": "USA",
+        "latitude": "35.04022222",
+        "longitude": "-106.6091944"
+    },
+    {
+        "iata": "ANC",
+        "name": "Ted Stevens Anchorage International",
+        "city": "Anchorage",
+        "state": "AK",
+        "country": "USA",
+        "latitude": "61.17432028",
+        "longitude": "-149.9961856"
+    },
+    {
+        "iata": "ATL",
+        "name": "William B Hartsfield-Atlanta Intl",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "USA",
+        "latitude": "33.64044444",
+        "longitude": "-84.42694444"
+    },
+    {
+        "iata": "AUS",
+        "name": "Austin-Bergstrom International",
+        "city": "Austin",
+        "state": "TX",
+        "country": "USA",
+        "latitude": "30.19453278",
+        "longitude": "-97.66987194"
+    },
+    {
+        "iata": "BDL",
+        "name": "Bradley International",
+        "city": "Windsor Locks",
+        "state": "CT",
+        "country": "USA",
+        "latitude": "41.93887417",
+        "longitude": "-72.68322833"
+    },
+    {
+        "iata": "BNA",
+        "name": "Nashville International",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "USA",
+        "latitude": "36.12447667",
+        "longitude": "-86.67818222"
+    },
+    {
+        "iata": "BOI",
+        "name": "Boise Air Terminal",
+        "city": "Boise",
+        "state": "ID",
+        "country": "USA",
+        "latitude": "43.56444444",
+        "longitude": "-116.2227778"
+    },
+    {
+        "iata": "BOS",
+        "name": "Gen Edw L Logan Intl",
+        "city": "Boston",
+        "state": "MA",
+        "country": "USA",
+        "latitude": "42.3643475",
+        "longitude": "-71.00517917"
+    },
+    {
+        "iata": "BUR",
+        "name": "Burbank-Glendale-Pasadena",
+        "city": "Burbank",
+        "state": "CA",
+        "country": "USA",
+        "latitude": "34.20061917",
+        "longitude": "-118.3584969"
+    },
+    {
+        "iata": "BWI",
+        "name": "Baltimore-Washington International",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "USA",
+        "latitude": "39.17540167",
+        "longitude": "-76.66819833"
+    },
+    {
+        "iata": "CHS",
+        "name": "Charleston AFB/International",
+        "city": "Charleston",
+        "state": "SC",
+        "country": "USA",
+        "latitude": "32.89864639",
+        "longitude": "-80.04050583"
+    },
+    {
+        "iata": "CLE",
+        "name": "Cleveland-Hopkins Intl",
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "USA",
+        "latitude": "41.41089417",
+        "longitude": "-81.84939667"
+    },
+    {
+        "iata": "CLT",
+        "name": "Charlotte/Douglas International",
+        "city": "Charlotte",
+        "state": "NC",
+        "country": "USA",
+        "latitude": "35.21401111",
+        "longitude": "-80.94312583"
+    },
+    {
+        "iata": "CMH",
+        "name": "Port Columbus Intl",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "USA",
+        "latitude": "39.99798528",
+        "longitude": "-82.89188278"
+    },
+    {
+        "iata": "CVG",
+        "name": "Cincinnati Northern Kentucky Intl",
+        "city": "Covington",
+        "state": "KY",
+        "country": "USA",
+        "latitude": "39.04614278",
+        "longitude": "-84.6621725"
+    },
+    {
+        "iata": "DAL",
+        "name": "Dallas Love",
+        "city": "Dallas",
+        "state": "TX",
+        "country": "USA",
+        "latitude": "32.84711389",
+        "longitude": "-96.85177222"
+    },
+    {
+        "iata": "DCA",
+        "name": "Ronald Reagan Washington National",
+        "city": "Arlington",
+        "state": "VA",
+        "country": "USA",
+        "latitude": "38.85208333",
+        "longitude": "-77.03772222"
+    },
+    {
+        "iata": "DEN",
+        "name": "Denver Intl",
+        "city": "Denver",
+        "state": "CO",
+        "country": "USA",
+        "latitude": "39.85840806",
+        "longitude": "-104.6670019"
+    },
+    {
+        "iata": "DFW",
+        "name": "Dallas-Fort Worth International",
+        "city": "Dallas-Fort Worth",
+        "state": "TX",
+        "country": "USA",
+        "latitude": "32.89595056",
+        "longitude": "-97.0372"
+    },
+    {
+        "iata": "DTW",
+        "name": "Detroit Metropolitan-Wayne County",
+        "city": "Detroit",
+        "state": "MI",
+        "country": "USA",
+        "latitude": "42.21205889",
+        "longitude": "-83.34883583"
+    },
+    {
+        "iata": "EWR",
+        "name": "Newark Intl",
+        "city": "Newark",
+        "state": "NJ",
+        "country": "USA",
+        "latitude": "40.69249722",
+        "longitude": "-74.16866056"
+    },
+    {
+        "iata": "FLL",
+        "name": "Fort Lauderdale-Hollywood Int'l",
+        "city": "Ft. Lauderdale",
+        "state": "FL",
+        "country": "USA",
+        "latitude": "26.07258333",
+        "longitude": "-80.15275"
+    },
+    {
+        "iata": "HNL",
+        "name": "Honolulu International",
+        "city": "Honolulu",
+        "state": "HI",
+        "country": "USA",
+        "latitude": "21.31869111",
+        "longitude": "-157.9224072"
+    },
+    {
+        "iata": "HOU",
+        "name": "William P Hobby",
+        "city": "Houston",
+        "state": "TX",
+        "country": "USA",
+        "latitude": "29.64541861",
+        "longitude": "-95.27888889"
+    },
+    {
+        "iata": "IAD",
+        "name": "Washington Dulles International",
+        "city": "Chantilly",
+        "state": "VA",
+        "country": "USA",
+        "latitude": "38.94453194",
+        "longitude": "-77.45580972"
+    },
+    {
+        "iata": "IAH",
+        "name": "George Bush Intercontinental",
+        "city": "Houston",
+        "state": "TX",
+        "country": "USA",
+        "latitude": "29.98047222",
+        "longitude": "-95.33972222"
+    },
+    {
+        "iata": "IND",
+        "name": "Indianapolis International",
+        "city": "Indianapolis",
+        "state": "IN",
+        "country": "USA",
+        "latitude": "39.71732917",
+        "longitude": "-86.29438417"
+    },
+    {
+        "iata": "JAX",
+        "name": "Jacksonville International",
+        "city": "Jacksonville",
+        "state": "FL",
+        "country": "USA",
+        "latitude": "30.49405556",
+        "longitude": "-81.68786111"
+    },
+    {
+        "iata": "JFK",
+        "name": "John F Kennedy Intl",
+        "city": "New York",
+        "state": "NY",
+        "country": "USA",
+        "latitude": "40.63975111",
+        "longitude": "-73.77892556"
+    },
+    {
+        "iata": "LAS",
+        "name": "McCarran International",
+        "city": "Las Vegas",
+        "state": "NV",
+        "country": "USA",
+        "latitude": "36.08036111",
+        "longitude": "-115.1523333"
+    },
+    {
+        "iata": "LAX",
+        "name": "Los Angeles International",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "USA",
+        "latitude": "33.94253611",
+        "longitude": "-118.4080744"
+    },
+    {
+        "iata": "LGA",
+        "name": "LaGuardia",
+        "city": "New York",
+        "state": "NY",
+        "country": "USA",
+        "latitude": "40.77724306",
+        "longitude": "-73.87260917"
+    },
+    {
+        "iata": "MCI",
+        "name": "Kansas City International",
+        "city": "Kansas City",
+        "state": "MO",
+        "country": "USA",
+        "latitude": "39.29760528",
+        "longitude": "-94.71390556"
+    },
+    {
+        "iata": "MCO",
+        "name": "Orlando International",
+        "city": "Orlando",
+        "state": "FL",
+        "country": "USA",
+        "latitude": "28.42888889",
+        "longitude": "-81.31602778"
+    },
+    {
+        "iata": "MDW",
+        "name": "Chicago Midway",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "USA",
+        "latitude": "41.7859825",
+        "longitude": "-87.75242444"
+    },
+    {
+        "iata": "MEM",
+        "name": "Memphis International",
+        "city": "Memphis",
+        "state": "TN",
+        "country": "USA",
+        "latitude": "35.04241667",
+        "longitude": "-89.97666667"
+    },
+    {
+        "iata": "MIA",
+        "name": "Miami International",
+        "city": "Miami",
+        "state": "FL",
+        "country": "USA",
+        "latitude": "25.79325",
+        "longitude": "-80.29055556"
+    },
+    {
+        "iata": "MKE",
+        "name": "General Mitchell International",
+        "city": "Milwaukee",
+        "state": "WI",
+        "country": "USA",
+        "latitude": "42.94722222",
+        "longitude": "-87.89658333"
+    },
+    {
+        "iata": "MSP",
+        "name": "Minneapolis-St Paul Intl",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "USA",
+        "latitude": "44.88054694",
+        "longitude": "-93.2169225"
+    },
+    {
+        "iata": "MSY",
+        "name": "New Orleans International",
+        "city": "New Orleans",
+        "state": "LA",
+        "country": "USA",
+        "latitude": "29.99338889",
+        "longitude": "-90.25802778"
+    },
+    {
+        "iata": "OAK",
+        "name": "Metropolitan Oakland International",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "USA",
+        "latitude": "37.72129083",
+        "longitude": "-122.2207167"
+    },
+    {
+        "iata": "OGG",
+        "name": "Kahului",
+        "city": "Kahului",
+        "state": "HI",
+        "country": "USA",
+        "latitude": "20.89864972",
+        "longitude": "-156.4304578"
+    },
+    {
+        "iata": "OMA",
+        "name": "Eppley Airfield",
+        "city": "Omaha",
+        "state": "NE",
+        "country": "USA",
+        "latitude": "41.30251861",
+        "longitude": "-95.89417306"
+    },
+    {
+        "iata": "ONT",
+        "name": "Ontario International",
+        "city": "Ontario",
+        "state": "CA",
+        "country": "USA",
+        "latitude": "34.056",
+        "longitude": "-117.6011944"
+    },
+    {
+        "iata": "ORD",
+        "name": "Chicago O'Hare International",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "USA",
+        "latitude": "41.979595",
+        "longitude": "-87.90446417"
+    },
+    {
+        "iata": "PBI",
+        "name": "Palm Beach International",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "country": "USA",
+        "latitude": "26.68316194",
+        "longitude": "-80.09559417"
+    },
+    {
+        "iata": "PDX",
+        "name": "Portland Intl",
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "latitude": "45.58872222",
+        "longitude": "-122.5975"
+    },
+    {
+        "iata": "PHL",
+        "name": "Philadelphia Intl",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "USA",
+        "latitude": "39.87195278",
+        "longitude": "-75.24114083"
+    },
+    {
+        "iata": "PHX",
+        "name": "Phoenix Sky Harbor International",
+        "city": "Phoenix",
+        "state": "AZ",
+        "country": "USA",
+        "latitude": "33.43416667",
+        "longitude": "-112.0080556"
+    },
+    {
+        "iata": "PIT",
+        "name": "Pittsburgh International",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "USA",
+        "latitude": "40.49146583",
+        "longitude": "-80.23287083"
+    },
+    {
+        "iata": "RDU",
+        "name": "Raleigh-Durham International",
+        "city": "Raleigh",
+        "state": "NC",
+        "country": "USA",
+        "latitude": "35.87763889",
+        "longitude": "-78.78747222"
+    },
+    {
+        "iata": "RIC",
+        "name": "Richmond International",
+        "city": "Richmond",
+        "state": "VA",
+        "country": "USA",
+        "latitude": "37.50516667",
+        "longitude": "-77.31966667"
+    },
+    {
+        "iata": "RNO",
+        "name": "Reno/Tahoe International",
+        "city": "Reno",
+        "state": "NV",
+        "country": "USA",
+        "latitude": "39.49857611",
+        "longitude": "-119.7680647"
+    },
+    {
+        "iata": "RSW",
+        "name": "Southwest Florida International",
+        "city": "Ft. Myers",
+        "state": "FL",
+        "country": "USA",
+        "latitude": "26.53616667",
+        "longitude": "-81.75516667"
+    },
+    {
+        "iata": "SAN",
+        "name": "San Diego International-Lindbergh",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA",
+        "latitude": "32.73355611",
+        "longitude": "-117.1896567"
+    },
+    {
+        "iata": "SAT",
+        "name": "San Antonio International",
+        "city": "San Antonio",
+        "state": "TX",
+        "country": "USA",
+        "latitude": "29.53369444",
+        "longitude": "-98.46977778"
+    },
+    {
+        "iata": "SEA",
+        "name": "Seattle-Tacoma Intl",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA",
+        "latitude": "47.44898194",
+        "longitude": "-122.3093131"
+    },
+    {
+        "iata": "SFO",
+        "name": "San Francisco International",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "latitude": "37.61900194",
+        "longitude": "-122.3748433"
+    },
+    {
+        "iata": "SJC",
+        "name": "San Jose International",
+        "city": "San Jose",
+        "state": "CA",
+        "country": "USA",
+        "latitude": "37.36186194",
+        "longitude": "-121.9290089"
+    },
+    {
+        "iata": "SJU",
+        "name": "Luis Munoz Marin International",
+        "city": "San Juan",
+        "state": "PR",
+        "country": "USA",
+        "latitude": "18.43941667",
+        "longitude": "-66.00183333"
+    },
+    {
+        "iata": "SLC",
+        "name": "Salt Lake City Intl",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "country": "USA",
+        "latitude": "40.78838778",
+        "longitude": "-111.9777731"
+    },
+    {
+        "iata": "SMF",
+        "name": "Sacramento International",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "USA",
+        "latitude": "38.69542167",
+        "longitude": "-121.5907669"
+    },
+    {
+        "iata": "SNA",
+        "name": "John Wayne /Orange Co",
+        "city": "Santa Ana",
+        "state": "CA",
+        "country": "USA",
+        "latitude": "33.67565861",
+        "longitude": "-117.8682225"
+    },
+    {
+        "iata": "STL",
+        "name": "Lambert-St Louis International",
+        "city": "St Louis",
+        "state": "MO",
+        "country": "USA",
+        "latitude": "38.74768694",
+        "longitude": "-90.35998972"
+    },
+    {
+        "iata": "TPA",
+        "name": "Tampa International",
+        "city": "Tampa",
+        "state": "FL",
+        "country": "USA",
+        "latitude": "27.97547222",
+        "longitude": "-82.53325"
+    }
+]
