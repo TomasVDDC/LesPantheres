@@ -136,9 +136,6 @@ The lectures that will help us the most are the ones on D3.js and the one this w
 
 ## Milestone 3 (31st May, 5pm)
 
-**80% of the final grade**
+### Data structures
 
-## Late policy
-
-- < 24h: 80% of the grade for the milestone
-- < 48h: 70% of the grade for the milestone
+We are using data from the US Bureau of Transportation. This data is 

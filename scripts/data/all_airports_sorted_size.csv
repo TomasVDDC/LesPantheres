@@ -1,0 +1,1006 @@
+ORIGIN_AIRPORT_ID,Description,Sum(PASSENGERS)
+10397,"Atlanta, GA: Hartsfield-Jackson Atlanta International",3605342
+11298,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",2909149
+11292,"Denver, CO: Denver International",2736283
+13204,"Orlando, FL: Orlando International",2189359
+13930,"Chicago, IL: Chicago O'Hare International",2159546
+12892,"Los Angeles, CA: Los Angeles International",2115320
+11057,"Charlotte, NC: Charlotte Douglas International",2056473
+12889,"Las Vegas, NV: Harry Reid International",1994385
+13303,"Miami, FL: Miami International",1970929
+14107,"Phoenix, AZ: Phoenix Sky Harbor International",1873870
+11618,"Newark, NJ: Newark Liberty International",1587080
+12266,"Houston, TX: George Bush Intercontinental/Houston",1567529
+12478,"New York, NY: John F. Kennedy International",1512605
+14747,"Seattle, WA: Seattle/Tacoma International",1483800
+11697,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1430142
+14771,"San Francisco, CA: San Francisco International",1372888
+13487,"Minneapolis, MN: Minneapolis-St Paul International",1239996
+10721,"Boston, MA: Logan International",1130205
+12953,"New York, NY: LaGuardia",1114952
+14869,"Salt Lake City, UT: Salt Lake City International",1068566
+11433,"Detroit, MI: Detroit Metro Wayne County",1062617
+15304,"Tampa, FL: Tampa International",920512
+14100,"Philadelphia, PA: Philadelphia International",916055
+10821,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",853328
+11278,"Washington, DC: Ronald Reagan Washington National",839817
+14679,"San Diego, CA: San Diego International",833419
+12173,"Honolulu, HI: Daniel K Inouye International",744172
+10693,"Nashville, TN: Nashville International",704419
+10423,"Austin, TX: Austin - Bergstrom International",691858
+12264,"Washington, DC: Washington Dulles International",631441
+11032,"Cancun, Mexico: Cancun International",616660
+11259,"Dallas, TX: Dallas Love Field",616312
+13232,"Chicago, IL: Chicago Midway International",572663
+14635,"Fort Myers, FL: Southwest Florida International",526994
+14843,"San Juan, PR: Luis Munoz Marin International",525572
+12191,"Houston, TX: William P Hobby",521239
+14057,"Portland, OR: Portland International",515212
+15016,"St. Louis, MO: St Louis Lambert International",485725
+13495,"New Orleans, LA: Louis Armstrong New Orleans International",467493
+14492,"Raleigh/Durham, NC: Raleigh-Durham International",455647
+14893,"Sacramento, CA: Sacramento International",432551
+14908,"Santa Ana, CA: John Wayne Airport-Orange County",422041
+14831,"San Jose, CA: Norman Y. Mineta San Jose International",380369
+14027,"West Palm Beach/Palm Beach, FL: Palm Beach International",372611
+13198,"Kansas City, MO: Kansas City International",372525
+13796,"Oakland, CA: Metro Oakland International",370987
+14683,"San Antonio, TX: San Antonio International",366233
+12339,"Indianapolis, IN: Indianapolis International",337724
+11042,"Cleveland, OH: Cleveland-Hopkins International",319994
+14122,"Pittsburgh, PA: Pittsburgh International",297226
+11193,"Cincinnati, OH: Cincinnati/Northern Kentucky International",279023
+11066,"Columbus, OH: John Glenn Columbus International",278438
+13830,"Kahului, HI: Kahului Airport",266604
+12451,"Jacksonville, FL: Jacksonville International",256853
+10800,"Burbank, CA: Bob Hope",228418
+12972,"London, United Kingdom: London Heathrow",224903
+13342,"Milwaukee, WI: General Mitchell International",215505
+10529,"Hartford, CT: Bradley International",212142
+13891,"Ontario, CA: Ontario International",211884
+14293,"Punta Cana, Dominican Republic: Punta Cana International",210495
+14986,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",198035
+14832,"San Jose del Cabo, Mexico: San Jose del Cabo International",195802
+10994,"Charleston, SC: Charleston AFB/International",180404
+13180,"Montego Bay, Jamaica: Sangster International",178473
+10713,"Boise, ID: Boise Air Terminal",173274
+13871,"Omaha, NE: Eppley Airfield",173052
+10140,"Albuquerque, NM: Albuquerque International Sunport",168716
+12758,"Kona, HI: Ellison Onizuka Kona International at Keahole",167721
+14570,"Reno, NV: Reno/Tahoe International",166387
+14312,"Puerto Vallarta, Mexico: Puerto Vallarta International",162606
+14739,"Santo Domingo, Dominican Republic: De Las Americas International",161588
+15376,"Tucson, AZ: Tucson International",161542
+14524,"Richmond, VA: Richmond International",157344
+10299,"Anchorage, AK: Ted Stevens Anchorage International",155418
+13244,"Memphis, TN: Memphis International",150334
+13931,"Norfolk, VA: Norfolk International",149226
+11986,"Grand Rapids, MI: Gerald R. Ford International",148538
+14730,"Louisville, KY: Louisville Muhammad Ali International",147919
+14262,"Palm Springs, CA: Palm Springs International",144563
+12954,"Long Beach, CA: Long Beach Airport",144390
+11884,"Spokane, WA: Spokane International",144379
+13252,"Mexico City, Mexico: Mexico City International",143917
+12982,"Lihue, HI: Lihue Airport",142566
+10792,"Buffalo, NY: Buffalo Niagara International",142514
+13851,"Oklahoma City, OK: Will Rogers World",140947
+11540,"El Paso, TX: El Paso International",139790
+14838,"San Jose, Costa Rica: Juan Santamaria International",133278
+16271,"Toronto, Canada: Lester B. Pearson International",128501
+10292,"Amsterdam, Netherlands: Schiphol",125153
+14307,"Providence, RI: Rhode Island Tf Green International",116854
+14685,"Savannah, GA: Savannah/Hilton Head International",112770
+11423,"Des Moines, IA: Des Moines International",109998
+13605,"Nassau, The Bahamas: Lynden Pindling International",109629
+10920,"Paris, France: Charles de Gaulle",108753
+15370,"Tulsa, OK: Tulsa International",104449
+14761,"Sanford, FL: Orlando Sanford International",103793
+15096,"Syracuse, NY: Syracuse Hancock International",102074
+12169,"Tokyo, Japan: Tokyo International",99406
+10599,"Birmingham, AL: Birmingham-Shuttlesworth International",99077
+10257,"Albany, NY: Albany International",98872
+15013,"Santiago, Dominican Republic: Cibao International",97246
+15412,"Knoxville, TN: McGhee Tyson",95475
+10411,"Aruba, Aruba: Reina Beatrix International",94390
+10849,"Bozeman, MT: Bozeman Yellowstone International",92686
+14576,"Rochester, NY: Frederick Douglass Grtr Rochester International",91770
+11988,"Sao Paulo, Brazil: Guarulhos Gov Andre Franco Montoro",90671
+12010,"Guatemala City, Guatemala: La Aurora International",87739
+11996,"Greer, SC: Greenville-Spartanburg International",87597
+12197,"White Plains, NY: Westchester County",86761
+14112,"St. Petersburg, FL: St Pete Clearwater International",86628
+11109,"Colorado Springs, CO: City of Colorado Springs Municipal",86624
+14193,"Pensacola, FL: Pensacola International",85640
+12990,"Liberia, Costa Rica: Daniel Oduber International",81785
+14082,"Punta Gorda, FL: Punta Gorda Airport",81681
+11760,"Frankfurt, Germany: Frankfurt Main",80265
+13485,"Madison, WI: Dane County Regional-Truax Field",77880
+11624,"Key West, FL: Key West International",77449
+15024,"Charlotte Amalie, VI: Cyril E King",77094
+10466,"Phoenix, AZ: Phoenix - Mesa Gateway",75916
+12992,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",73165
+11638,"Fresno, CA: Fresno Yosemite International",72414
+16229,"Vancouver, Canada: Vancouver International",70473
+13577,"Myrtle Beach, SC: Myrtle Beach International",70385
+10431,"Asheville, NC: Asheville Regional",69896
+15919,"Fayetteville, AR: Northwest Arkansas National",68233
+11625,"Ezeiza, Argentina: Ministro Pistarini",67724
+14677,"San Salvador, El Salvador: San Oscar A Romero and Galdamez International",64740
+13744,"Tokyo, Japan: Narita International",61962
+11995,"Greensboro/High Point, NC: Piedmont Triad International",61344
+10711,"Bogota, Colombia: El Dorado International",60462
+12278,"Wichita, KS: Wichita Dwight D Eisenhower National",59462
+14321,"Portland, ME: Portland International Jetport",58031
+12073,"Havana, Cuba: Jose Marti International",57749
+12402,"Hilo, HI: Hilo International",56226
+12391,"Islip, NY: Long Island MacArthur",54430
+12277,"Seoul, South Korea: Incheon International",53154
+11003,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",52592
+11775,"Sioux Falls, SD: Joe Foss Field",52467
+11503,"Eagle, CO: Eagle County Regional",51684
+12217,"Huntsville, AL: Huntsville International-Carl T Jones Field",50406
+14153,"Providenciales, Turks and Caicos Islands: Providenciales International",50294
+13158,"Midland/Odessa, TX: Midland International Air and Space Port",48493
+15624,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",48270
+11603,"Eugene, OR: Mahlon Sweet Field",47460
+13230,"Harrisburg, PA: Harrisburg International",47132
+11874,"Guadalajara, Mexico: Guadalajara International",47037
+10846,"Belize City, Belize: Philip S. W. Goldson International",46207
+12441,"Jackson, WY: Jackson Hole",46152
+12206,"Harlingen/San Benito, TX: Valley International",45764
+16217,"Montreal, Canada: Pierre Elliott Trudeau International",45663
+13156,"Madrid, Spain: Adolfo Suarez Madrid Barajas",45526
+15092,"Sydney, Australia: Sydney International",44771
+12693,"Kingston, Jamaica: Norman Manley International",44714
+12945,"Lexington, KY: Blue Grass",44713
+15084,"Philipsburg, Sint Maarten: Princess Juliana International",44703
+10372,"Aspen, CO: Aspen Pitkin County Sardy Field",44496
+14783,"Springfield, MO: Springfield-Branson National",44404
+12094,"Hayden, CO: Yampa Valley",44070
+11267,"Dayton, OH: James M Cox/Dayton International",44054
+12986,"Lima, Peru: Jorge Chavez International",44024
+11481,"Panama City, FL: Northwest Florida Beaches International",43325
+14689,"Santa Barbara, CA: Santa Barbara Municipal",43199
+16257,"Calgary, Canada: Yyc Calgary International",43044
+11637,"Fargo, ND: Hector International",42978
+13256,"Mission/McAllen/Edinburg, TX: McAllen International",42728
+12323,"Wilmington, NC: Wilmington International",42469
+12016,"Guam, TT: Guam International",42362
+14489,"Bend/Redmond, OR: Roberts Field",41967
+10785,"Burlington, VT: Burlington International",41926
+10868,"Columbia, SC: Columbia Metropolitan",41753
+12448,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",40733
+10408,"Appleton, WI: Appleton International",39388
+11868,"Grand Cayman, Cayman Islands: Owen Roberts International",37697
+14681,"San Pedro Sula, Honduras: Ramon Villeda Morales International",37228
+13296,"Manchester, NH: Manchester Boston Regional",37193
+11630,"Fairbanks, AK: Fairbanks International",36989
+11915,"Rio de Janeiro, Brazil: Galeao Antonio Carlos Jobim International",35535
+10980,"Chattanooga, TN: Lovell Field",35309
+12896,"Lubbock, TX: Lubbock Preston Smith International",35204
+14314,"Provo, UT: Provo Municipal",34848
+14286,"Panama City, Panama: Tocumen International",34607
+11651,"Rome, Italy: Fiumicino",34413
+13518,"Munich, Germany: Muenchen",34002
+13264,"Medford, OR: Rogue Valley International - Medford",33967
+14252,"Pasco/Kennewick/Richland, WA: Tri Cities",33739
+13218,"Medellin, Colombia: Jose Maria Cordova",33418
+10158,"Atlantic City, NJ: Atlantic City International",33174
+13514,"Monterrey, Mexico: Monterrey International",32776
+10732,"Aguadilla, PR: Rafael Hernandez",32591
+12244,"New Haven, CT: Tweed New Haven",32241
+15249,"Tallahassee, FL: Tallahassee International",31901
+10620,"Billings, MT: Billings Logan International",31699
+10135,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",31547
+13502,"Montrose/Delta, CO: Montrose Regional",31184
+14696,"South Bend, IN: South Bend International",31169
+10244,"Auckland, New Zealand: Auckland International",30825
+14717,"Santiago, Chile: Arturo Merino Benitez International",30452
+11823,"Fort Wayne, IN: Fort Wayne International",29724
+11164,"Cartagena, Colombia: Rafael Nunez",29530
+11648,"Kalispell, MT: Glacier Park International",29177
+11973,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",28577
+13486,"Missoula, MT: Missoula Montana",28299
+10517,"Barcelona, Spain: Barcelona Airport",28235
+10752,"Brussels, Belgium: Brussels National",27757
+15356,"Trenton, NJ: Trenton Mercer",27553
+15027,"Christiansted, VI: Henry E. Rohlsen",27114
+10874,"Akron, OH: Akron-Canton Regional",26965
+10781,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",26553
+10279,"Amarillo, TX: Rick Husband Amarillo International",26189
+11140,"Corpus Christi, TX: Corpus Christi International",26058
+14309,"Shanghai, China: Pudong",25520
+11244,"Cozumel, Mexico: Cozumel International",25194
+11252,"Daytona Beach, FL: Daytona Beach International",24887
+11977,"Green Bay, WI: Green Bay Austin Straubel International",24750
+14004,"Everett, WA: Snohomish County",24722
+11435,"Dublin, Ireland: Dublin Airport",24265
+12143,"Hong Kong, Hong Kong: Hong Kong International",24064
+14108,"Peoria, IL: General Downing - Peoria International",24047
+14574,"Roanoke, VA: Roanoke Blacksburg Regional",23476
+13367,"Moline, IL: Quad Cities International",23195
+15455,"Quito, Ecuador: Old Mariscal Sucre International",23176
+10575,"Barbados/Bridgetown, Barbados: Grantley Adams International",22958
+15513,"St. Lucia, Saint Lucia: Hewanorra International",22925
+11721,"Flint, MI: Bishop International",22864
+14207,"Puerto Plata, Dominican Republic: Gregorio Luperon International",22819
+14457,"Rapid City, SD: Rapid City Regional",22741
+14698,"San Luis Obispo, CA: San Luis County Regional",22551
+12051,"Guayaquil, Ecuador: Jose Joaquin de Olmedo International",22382
+14814,"Shreveport, LA: Shreveport Regional",21824
+13269,"Managua, Nicaragua: Augusto Cesar Sandino International",21485
+16477,"Queretaro, Mexico: Queretaro International",21415
+10627,"Bismarck/Mandan, ND: Bismarck Municipal",21306
+10990,"Charlottesville, VA: Charlottesville Albemarle",21254
+12991,"Lisbon, Portugal: Lisboa",21201
+14012,"Port-au-Prince, Haiti: Port Au Prince International",20891
+13360,"Melbourne, FL: Melbourne Orlando International",20793
+13422,"Mobile, AL: Mobile Regional",20763
+13560,"Milan, Italy: Malpensa",20589
+10208,"Augusta, GA: Augusta Regional at Bush Field",20498
+11953,"Gainesville, FL: Gainesville Regional",20489
+12280,"Idaho Falls, ID: Idaho Falls Regional",20396
+15923,"Comayagua, Honduras: Palmerola International",20147
+10666,"Bellingham, WA: Bellingham International",19636
+15380,"Traverse City, MI: Cherry Capital",19434
+15023,"Santa Rosa, CA: Charles M. Schulz - Sonoma County",19267
+12523,"Juneau, AK: Juneau International",19212
+11290,"Delhi, India: Indira Gandhi International",18696
+10581,"Bangor, ME: Bangor International",17988
+11921,"Grand Junction, CO: Grand Junction Regional",17776
+10312,"St. Johns, Antigua and Barbuda: V C Bird International",17742
+10638,"Leon/Guanajuato, Mexico: Leon International",17690
+14210,"Port of Spain, Trinidad and Tobago: Piarco",17599
+12951,"Lafayette, LA: Lafayette Regional Paul Fournet Field",17522
+13476,"Monterey, CA: Monterey Regional",17490
+16321,"Zurich, Switzerland: Zurich Airport",17266
+15306,"Taipei, Taiwan: Taiwan Taoyuan International",17146
+11413,"Durango, CO: Durango La Plata County",17048
+11185,"Willemstad, Curacao: Hato",16267
+11052,"Cali, Colombia: Alfonso Bonilla Aragon International",15566
+12699,"Osaka, Japan: Kansai International",15483
+10747,"Brownsville, TX: Brownsville South Padre Island International",15333
+15323,"Bristol/Johnson City/Kingsport, TN: Tri Cities",15107
+13408,"Manila, Philippines: Ninoy Aquino International",14904
+11888,"Georgetown, Guyana: Cheddi Jagan International",14559
+15041,"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",14482
+10434,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",13439
+11641,"Fayetteville, NC: Fayetteville Regional/Grannis Field",13265
+11146,"Charleston/Dunbar, WV: West Virginia International Yeager",13254
+16304,"Ixtapa/Zihuatanejo, Mexico: Ixtapa-Zihuatanejo International",13235
+12003,"Great Falls, MT: Great Falls International",13163
+13277,"Montgomery, AL: Montgomery Regional",13039
+10561,"Bakersfield, CA: Meadows Field",13019
+14254,"Ponce, PR: Mercedita",12743
+14824,"Singapore, Singapore: Singapore Changi International",12541
+13433,"Minot, ND: Minot International",12441
+10150,"Accra, Ghana: Kotoka International",12428
+13594,"Mazatlan, Mexico: Mazatlan International",11807
+11612,"Evansville, IN: Evansville Regional",11622
+10685,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",11574
+16149,"Ottawa, Canada: Ottawa Macdonald Cartier International",11519
+13243,"Melbourne, Australia: Melbourne International",11471
+14637,"Roatan Island, Honduras: Juan Manuel Galvez International",11426
+13061,"Laredo, TX: Laredo International",11411
+11124,"Cape Town, South Africa: Cape Town International",11323
+10521,"Hamilton, Bermuda: L. F. Wade International",11049
+13306,"Merida, Mexico: Merida International",10995
+14794,"St. George, UT: St George Regional",10650
+12320,"Wilmington, DE: New Castle",10642
+14512,"Rockford, IL: Chicago/Rockford International",10594
+10486,"Barranquilla, Colombia: Ernesto Cortissoz",10587
+11950,"Grenada, Grenada: Maurice Bishop International",10577
+10185,"Alexandria, LA: Alexandria International",10516
+14674,"Santa Fe, NM: Santa Fe Municipal",10329
+10551,"Bethel, AK: Bethel Airport",10318
+14849,"St. Kitts, Saint Kitts and Nevis: Robert L Bradshaw International",9993
+13043,"Lagos, Nigeria: Murtala Muhammed",9879
+14879,"San Luis Potosi, Mexico: San Luis Potosi International",9423
+10157,"Arcata/Eureka, CA: California Redwood Coast Humboldt County",9308
+14711,"State College, PA: University Park",9243
+12544,"Concord, NC: Concord Padgett Regional",9138
+13795,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",9124
+13029,"Lincoln, NE: Lincoln Airport",9070
+14066,"Beijing, China: Capital International",9015
+15628,"Vero Beach, FL: Vero Beach Regional",8769
+11898,"Grand Forks, ND: Grand Forks International",8713
+12012,"Gunnison, CO: Gunnison-Crested Butte Regional",8458
+12884,"Lansing, MI: Capital Region International",8383
+11369,"Doha, Qatar:  Hamad International",8340
+12917,"Columbus, OH: Rickenbacker International",8339
+12520,"Johannesburg, South Africa: Oliver Reginald Tambo International",8295
+11337,"Duluth, MN: Duluth International",8241
+10676,"Belleville, IL: Scott AFB MidAmerica St Louis",7898
+14025,"Plattsburgh, NY: Plattsburgh International",7762
+12156,"Helena, MT: Helena Regional",7490
+13933,"Worcester, MA: Worcester Regional",7443
+10210,"Aguascalientes, Mexico: Aguascalientes International",7304
+14924,"Santa Clara, Cuba: Abel Santamaria International",7273
+11455,"Dubai, United Arab Emirates: Dubai International",7185
+13347,"Hoolehua, HI: Molokai",7159
+14709,"Deadhorse, AK: Deadhorse Airport",6959
+14955,"Saipan, TT: Francisco C. Ada Saipan International",6944
+11534,"North Eleuthera, The Bahamas: North Eleuthera Airport",6923
+11203,"Mosinee, WI: Central Wisconsin",6914
+13377,"Monroe, LA: Monroe Regional",6847
+11519,"Road Town, British Virgin Islands: Terrance B Lettsome",6812
+11122,"Casper, WY: Casper/Natrona County International",6783
+11907,"Moss Town, The Bahamas: Exuma International",6763
+10136,"Abilene, TX: Abilene Regional",6737
+12026,"Geneva, Switzerland: Geneva Airport",6731
+14633,"Rochester, MN: Rochester International",6674
+13184,"Saginaw/Bay City/Midland, MI: MBS International",6624
+12819,"Ketchikan, AK: Ketchikan International",6411
+13799,"Oaxaca, Mexico: Oaxaca International",6383
+16869,"Williston, ND: Williston Basin International",6340
+12180,"Holguin, Cuba: Frank Pais International",6299
+12915,"Lake Charles, LA: Lake Charles Regional",6248
+10469,"Kalamazoo, MI: Kalamazoo/Battle Creek International",6199
+11075,"Camaguey, Cuba: Ignacio Agramonte International",6140
+11982,"Killeen, TX: Robert Gray AAF",6125
+13290,"Manhattan/Ft. Riley, KS: Manhattan Regional",6107
+13289,"Marsh Harbour, The Bahamas: Leonard M Thompson International",6105
+13370,"Morelia, Mexico: Morelia International",6035
+11537,"Elmira/Corning, NY: Elmira/Corning Regional",5971
+15295,"Toledo, OH: Eugene F Kranz Toledo Express",5953
+16042,"Edmonton, Canada: Edmonton International",5870
+14487,"Redding, CA: Redding Regional",5841
+10549,"Berlin, Germany: Berlin Metropolitan Area",5824
+10696,"Brisbane, Australia: Brisbane International",5810
+16218,"Yuma, AZ: Yuma MCAS/Yuma International",5788
+11111,"Columbia, MO: Columbia Regional",5747
+12265,"Niagara Falls, NY: Niagara Falls International",5523
+10878,"Cap-Haitien, Haiti: Cap-Haitien International",5489
+11488,"Edinburgh, United Kingdom: Edinburgh Airport",5466
+11980,"Grand Island, NE: Central Nebraska Regional",5325
+14228,"Papeete, French Polynesia: Tahiti Faa'a",5070
+16232,"Winnipeg, Canada: James Armstrong Richardson International",5050
+10717,"Bonaire, Bonaire, Sint Eustatius, and Saba: Flamingo International",4955
+13139,"Lynchburg, VA: Lynchburg Regional/Preston Glenn Field",4882
+10590,"Bullhead City, AZ: Laughlin/Bullhead International",4866
+14952,"Springfield, IL: Abraham Lincoln Capital",4865
+14303,"Pullman, WA: Pullman Moscow Regional",4820
+12223,"Ashland, WV: Tri-State/Milton J. Ferguson Field",4795
+11049,"College Station/Bryan, TX: Easterwood Field",4758
+15070,"Newburgh/Poughkeepsie, NY: New York Stewart International",4605
+14098,"Newport News/Williamsburg, VA: Newport News/Williamsburg International",4562
+13095,"Loreto, Mexico: Loreto International",4505
+11067,"Champaign/Urbana, IL: University of Illinois/Willard",4368
+10170,"Kodiak, AK: Kodiak Airport",4160
+11695,"Flagstaff, AZ: Flagstaff Pulliam",4120
+14716,"Stockton, CA: Stockton Metro",4093
+13970,"Kotzebue, AK: Ralph Wien Memorial",3994
+12898,"Latrobe, PA: Arnold Palmer Regional",3975
+14828,"Sitka, AK: Sitka Rocky Gutierrez",3957
+13873,"Nome, AK: Nome Airport",3941
+12397,"Ithaca/Cortland, NY: Ithaca Tompkins International",3936
+16306,"Manzanillo, Mexico: Manzanillo International",3910
+12966,"London, United Kingdom: London Gatwick",3902
+13532,"Montevideo, Uruguay: Carrasco International",3882
+13127,"Lewiston, ID: Lewiston Nez Perce County",3859
+11778,"Fort Smith, AR: Fort Smith Regional",3857
+11617,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",3838
+14065,"Pereira, Colombia: Matecana",3814
+11793,"Fukuoka, Japan: Fukuoka Airport",3788
+11731,"Freeport, The Bahamas: Grand Bahama International",3787
+14259,"Portsmouth, NH: Portsmouth International at Pease",3763
+14704,"Salisbury, MD: Salisbury-Ocean City/Wicomico Regional",3743
+11150,"Columbus, GA: Columbus Airport",3742
+15411,"Tyler, TX: Tyler Pounds Regional",3731
+11470,"Wenatchee, WA: Pangborn Memorial",3683
+16101,"Yakima, WA: Yakima Air Terminal/McAllister Field",3650
+12124,"Hilton Head, SC: Hilton Head Airport",3588
+10444,"The Valley, Anguilla: Clayton J Lloyd",3578
+15584,"Veracruz, Mexico: Veracruz International",3573
+16163,"Quebec, Canada: Jean Lesage International",3569
+11187,"Chihuahua, Mexico: Chihuahua International",3507
+10155,"Waco, TX: Waco Regional",3419
+11555,"Kenai, AK: Kenai Municipal",3308
+15607,"Valdosta, GA: Valdosta Regional",3247
+14842,"San Angelo, TX: San Angelo Regional/Mathis Field",3229
+15008,"St. Cloud, MN: St. Cloud Regional",3213
+12164,"Hermosillo, Mexico: Hermosillo International",3192
+10287,"Amman, Jordan: Queen Alia International",3127
+12007,"Columbus, MS: Golden Triangle Regional",3116
+14588,"Roswell, NM: Roswell Air Center",3111
+14092,"Greenville, NC: Pitt Greenville",3047
+10448,"Armenia, Colombia: El Eden",2889
+10731,"Brunswick, GA: Brunswick Golden Isles",2842
+15389,"Twin Falls, ID: Joslin Field - Magic Valley Regional",2837
+14722,"Santiago, Cuba: Antonio Maceo International",2836
+11577,"Erie, PA: Erie International/Tom Ridge Field",2824
+13694,"Nagoya, Japan: Chubu Centrair International",2811
+16263,"Victoria, Canada: Victoria International",2809
+11308,"Dothan, AL: Dothan Regional",2792
+10754,"Barrow, AK: Wiley Post/Will Rogers Memorial",2791
+15401,"Texarkana, AR: Texarkana Regional-Webb Field",2783
+11301,"Durango, Mexico: Durango International",2764
+13459,"Marquette, MI: Marquette Sawyer Regional",2760
+12891,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",2728
+15627,"Varadero, Cuba: Juan Gualberto Gomez International",2671
+11097,"Cody, WY: Yellowstone Regional",2659
+14222,"Pago Pago, TT: Pago Pago International",2643
+10728,"Beaumont/Port Arthur, TX: Jack Brooks Regional",2581
+11905,"Longview, TX: East Texas Regional",2519
+11027,"Clarksburg/Fairmont, WV: North Central West Virginia",2449
+16782,"Dakar Thies, Senegal: Blaise Diagne International",2435
+12184,"Homer, AK: Homer Airport",2425
+12119,"Hagerstown, MD: Hagerstown Regional-Richard A. Henson Field",2401
+10275,"Walla Walla, WA: Walla Walla Regional",2372
+14692,"Saint Barthelemy, Saint Barthelemy: Saint Barthelemy Airport",2335
+11471,"Eau Claire, WI: Chippewa Valley Regional",2301
+13034,"Lanai, HI: Lanai Airport",2250
+10630,"Broomfield, CO: Rocky Mountain Metro",2237
+11865,"Gillette, WY: Northeast Wyoming Regional",2227
+15317,"Torreon, Mexico: Torreon International",2201
+14691,"San Bernardino, CA: San Bernardino International",2168
+15052,"St. Vincent, Saint Vincent and the Grenadines: E. T. Joshua",2162
+15074,"Stillwater, OK: Stillwater Regional",2153
+10146,"Albany, GA: Southwest Georgia Regional",2139
+14113,"Pocatello, ID: Pocatello Regional",2123
+10631,"Bemidji, MN: Bemidji Regional",2097
+14812,"Sheridan, WY: Sheridan County",2071
+15125,"Tampico, Mexico: Tampico International",2055
+14278,"Pointe A Pitre, Guadeloupe: Le Raizet",2052
+13076,"La Crosse, WI: La Crosse Regional",2041
+15215,"Tinian, TT: Tinian International",1975
+11372,"Marigot, Dominica: Douglas Charles",1963
+11867,"Garden City, KS: Garden City Regional",1957
+10141,"Aberdeen, SD: Aberdeen Regional",1956
+10981,"Christchurch, New Zealand: Christchurch International",1950
+12177,"Hobbs, NM: Lea County Regional",1942
+11336,"Dillingham, AK: Dillingham Airport",1896
+15048,"Sioux City, IA: Sioux Gateway Brig Gen Bud Day Field",1880
+14237,"Prescott, AZ: Prescott Regional Ernest A Love Field",1879
+14712,"Phoenix, AZ: Scottsdale",1836
+14583,"Koror, Palau: Babelthuap",1835
+14960,"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",1803
+13898,"Miami, FL: Miami Opa Locka Executive",1800
+11233,"Cheyenne, WY: Cheyenne Regional/Jerry Olson Field",1799
+14470,"Fort Jefferson, FL: Fort Jefferson Airport",1798
+14871,"Salem, OR: McNary Field",1795
+11699,"Florence, SC: Florence Regional",1742
+10577,"Binghamton, NY: Greater Binghamton/Edwin A. Link Field",1740
+10617,"Bishop, CA: Bishop Airport",1739
+11315,"Dickinson, ND: Dickinson - Theodore Roosevelt Regional",1738
+10559,"Seattle, WA: Boeing Field/King County International",1720
+16115,"Kelowna, Canada: Kelowna Airport",1614
+11013,"Sault Ste. Marie, MI: Chippewa County International",1546
+11654,"Fort de France, Martinique: Martinique Aime Cesaire",1524
+16293,"Zacatecas, Mexico: Zacatecas International",1443
+15626,"Vieques, PR: Antonio Rivera Rodriguez",1420
+14231,"Presque Isle/Houlton, ME: Presque Isle International",1418
+11076,"Hancock/Houghton, MI: Houghton County Memorial",1397
+14520,"Rhinelander, WI: Rhinelander/Oneida County",1385
+10394,"Athens, Greece: Eleftherios Venizelos International",1350
+12899,"North Platte, NE: North Platte Regional Airport Lee Bird Field",1340
+14543,"Rock Springs, WY: Southwest Wyoming Regional",1328
+12239,"Santa Cruz/Huatulco, Mexico: Bahias de Huatulco International",1326
+11126,"Culebra, PR: Benjamin Rivera Noriega",1320
+14534,"Riverton/Lander, WY: Central Wyoming Regional",1299
+10661,"Boulder City, NV: Boulder City Municipal",1234
+12335,"Iron Mountain/Kingsfd, MI: Ford",1232
+10570,"Bucaramanga, Colombia: Palonegro",1228
+10540,"Bedford, MA: Laurence G Hanscom Field",1226
+14256,"Petersburg, AK: Petersburg James A Johnson",1193
+10739,"Brainerd, MN: Brainerd Lakes Regional",1192
+11869,"Grand Canyon, AZ: Grand Canyon National Park",1183
+11525,"Elko, NV: Elko Regional",1169
+13203,"Macon, GA: Middle Georgia Regional",1147
+10361,"Watertown, NY: Watertown International",1132
+15582,"Vernal, UT: Vernal Regional",1097
+10779,"Butte, MT: Bert Mooney",1079
+16443,"Cabo San Lucas, Mexico: Cabo San Lucas International",1079
+12888,"Laramie, WY: Laramie Regional",1060
+14186,"Pohnpei, Federated States of Micronesia: Pohnpei International",1059
+11274,"Dubuque, IA: Dubuque Regional",1051
+15237,"Chuuk, Federated States of Micronesia: Chuuk International",1047
+13241,"Meridian, MS: Key Field",973
+11041,"Carlsbad, CA: McClellan-Palomar",953
+14485,"Red Dog, AK: Red Dog Airport",932
+10910,"Concord, CA: Buchanan Field",931
+10154,"Nantucket, MA: Nantucket Memorial",924
+11587,"Escanaba, MI: Delta County",906
+14905,"Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",897
+12559,"Johnstown, PA: John Murtha Johnstown-Cambria County",888
+11844,"Galena, AK: Edward G. Pitka Sr.",874
+12129,"Hibbing, MN: Range Regional",860
+14109,"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",855
+13176,"Mayaguez, PR: Eugenio Maria de Hostos",839
+15569,"Victoria, TX: Victoria Regional",825
+13964,"North Bend/Coos Bay, OR: Southwest Oregon Regional",814
+14006,"Paducah, KY: Barkley Regional",801
+12343,"International Falls, MN: Falls International Einarson Field",794
+10268,"Waterloo, IA: Waterloo Regional",783
+11827,"Fort Lauderdale, FL: Fort Lauderdale Executive",778
+14877,"Salina, KS: Salina Regional",775
+15841,"Wrangell, AK: Wrangell Airport",772
+12511,"Joplin, MO: Joplin Regional",770
+15374,"Tupelo, MS: Tupelo Regional",767
+10558,"Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",766
+10926,"Cordova, AK: Merle K Mudhole Smith",766
+14150,"Pellston, MI: Pellston Regional Airport of Emmet County",764
+14582,"Rota, TT: Benjamin Taisacan Manglona International",747
+10519,"Boca Raton, FL: Boca Raton Public",731
+11550,"Emmonak, AK: Emmonak Airport",725
+12255,"Hays, KS: Hays Regional",721
+10918,"Cedar City, UT: Cedar City Regional",716
+11288,"Decatur, IL: Decatur Airport",709
+13162,"Majuro, Marshall Islands: Amata Kabua International",709
+13543,"Marion/Herrin, IL: Veterans Airport of Southern Illinois",702
+12932,"Lebanon-Hanover, NH: Lebanon Municipal",701
+13388,"Mammoth Lakes, CA: Mammoth Lakes Airport",685
+13541,"Martha's Vineyard, MA: Martha's Vineyard Airport",639
+10562,"Mobile, AL: Mobile International",634
+12519,"Jamestown, ND: Jamestown Regional",632
+15342,"Taos, NM: Taos Regional",624
+10245,"King Salmon, AK: King Salmon Airport",617
+10654,"Beckley, WV: Raleigh County Memorial",600
+10613,"Block Island, RI: Block Island State",596
+11283,"Dodge City, KS: Dodge City Regional",592
+10333,"Alpena, MI: Alpena County Regional",579
+12728,"Klawock, AK: Klawock Airport",564
+10011,"Peach Springs, AZ: Grand Canyon West",563
+13166,"Manaus, Brazil: Eduardo Gomes International",562
+15478,"Unalakleet, AK: Unalakleet Airport",562
+11762,"Friday Harbor, WA: Friday Harbor Airport",559
+15051,"Silver City/Hurley, NM: Grant County",557
+16825,"Exuma, The Bahamas: Staniel Cay",552
+12127,"Hawthorne, CA: Jack Northrop Field/Hawthorne Municipal",533
+15138,"Fort Leonard Wood, MO: Waynesville-St. Robert Regional Forney Field",522
+15855,"Westerly, RI: Westerly State",516
+12363,"El Centro, CA: Imperial County",503
+14918,"Shannon, Ireland: Shannon Airport",497
+10967,"Cape Girardeau, MO: Cape Girardeau Regional",492
+16091,"Detroit, MI: Willow Run",486
+14458,"Avarua, Cook Islands: Rarotonga International",483
+14745,"Sidney, MT: Sidney Richland Regional",479
+11447,"Devils Lake, ND: Devils Lake Regional",459
+11445,"Unalaska, AK: Unalaska Airport",458
+12798,"Kosrae, Federated States of Micronesia: Kosrae Airport",458
+10930,"Crescent City, CA: Jack McNamara Field",455
+15598,"Virgin Gorda, British Virgin Islands: Virgin Gorda Airport",454
+15994,"Yap, Federated States of Micronesia: Yap International",442
+13282,"Morgantown, WV: Morgantown Municipal Walter L Bill Hart Field",440
+12853,"Quinhagak, AK: Quinhagak Airport",436
+11588,"Eastsound, WA: Orcas Island",432
+10304,"Aniak, AK: Aniak Airport",429
+10589,"Bar Harbor, ME: Hancock County-Bar Harbor",426
+14081,"Page, AZ: Page Municipal",420
+12195,"Hooper Bay, AK: Hooper Bay Airport",406
+14054,"Pendleton, OR: Eastern Oregon Regional at Pendleton",405
+11123,"St. Louis, MO: Bi-State Parks",402
+11833,"Fort Yukon, AK: Fort Yukon Airport",396
+13983,"Owensboro, KY: Owensboro Daviess County Regional",395
+10621,"Bimini, The Bahamas: Bimini International",386
+11725,"Fort Dodge, IA: Fort Dodge Regional",386
+12779,"Kipnuk, AK: Kipnuk Airport",383
+10194,"Dallas/Fort Worth, TX: Perot Field Fort Worth Alliance",378
+13032,"Lancaster, PA: Lancaster Airport",372
+14819,"San Juan, PR: Isla Grande",368
+14718,"Scammon Bay, AK: Scammon Bay Airport",361
+12845,"Kwajalein, Marshall Islands: Bucholz AAF",355
+14539,"Rockland, ME: Knox County Regional",352
+13194,"Merced, CA: Merced Yosemite Regional",347
+15554,"Chevak, AK: Chevak Airport",346
+13002,"Seattle, WA: Lake Union Terminal",343
+11092,"Moab, UT: Canyonlands Regional",339
+14802,"Staunton, VA: Shenandoah Valley Regional",331
+12348,"Winston-Salem, NC: Smith Reynolds",330
+14131,"Parkersburg, WV: Mid-Ohio Valley Regional",329
+13109,"Kalaupapa, HI: Kalaupapa Airport",328
+14102,"Point Hope, AK: Point Hope Airport",324
+11441,"DuBois, PA: DuBois Regional",321
+10640,"Buckland, AK: Buckland Airport",317
+13121,"Lewisburg, WV: Greenbrier Valley",309
+14648,"Rutland, VT: Rutland - Southern Vermont Regional",305
+13520,"Kamuela, HI: Waimea-Kohala",303
+12553,"Ceiba, PR: Jose Aponte de la Torre",302
+10414,"Augusta/Waterville, ME: Augusta State",300
+14875,"Saranac Lake/Lake Placid, NY: Adirondack Regional",300
+12214,"Huslia, AK: Huslia Airport",299
+12855,"Kwethluk, AK: Kwethluk Airport",298
+13490,"Massena, NY: Massena International-Richards Field",294
+15991,"Yakutat, AK: Yakutat Airport",294
+11227,"Chefornak, AK: Chefornak Airport",292
+10241,"Akiak, AK: Akiak Airport",287
+14306,"Provincetown, MA: Provincetown Municipal",285
+10225,"Wainwright, AK: Wainwright Airport",283
+14967,"San Carlos, CA: San Carlos Airport",282
+12709,"Akiachak, AK: Akiachak Airport",281
+12807,"St. Mary's, AK: St. Mary's Airport",280
+10683,"Bloomington, IN: Monroe County",277
+13211,"Mason City, IA: Mason City Municipal",270
+15785,"Selawik, AK: Selawik Airport",270
+15862,"Tuntutuliak, AK: Tuntutuliak Airport",266
+11931,"Greenville, MS: Greenville Mid Delta",265
+14943,"Show Low, AZ: Show Low Regional",261
+13434,"Mountain Village, AK: Mountain Village Airport",258
+13832,"Ogdensburg, NY: Ogdensburg International",258
+15153,"Tuscaloosa, AL: Tuscaloosa National",256
+14561,"Ramstein, Germany: Ramstein AB",255
+11085,"Carlsbad, NM: Cavern City Air Terminal",253
+13182,"Manistee/Ludington, MI: Manistee County-Blacker",251
+13942,"Noorvik, AK: Robert/Bob/Curtis Memorial",251
+14942,"Seldovia, AK: Seldovia Airport",251
+13398,"Morristown, NJ: Morristown Municipal",250
+15167,"Teterboro, NJ: Teterboro Airport",246
+15861,"Noatak, AK: Noatak Airport",246
+11492,"Eek, AK: Eek Airport",240
+12708,"Kongiganak, AK: Kongiganak Airport",239
+10744,"Burlington, IA: Southeast Iowa Regional",238
+12375,"Kirksville, MO: Kirksville Regional",237
+12250,"Hyannis, MA: Cape Cod Gateway",232
+12321,"Iliamna, AK: Iliamna Airport",232
+13654,"Nevis, Saint Kitts and Nevis: Vance Winkworth Amory",230
+13467,"Anchorage, AK: Merrill Field",228
+12207,"Harrison, AR: Boone County",227
+13484,"Muscle Shoals, AL: Northwest Alabama Regional",227
+12174,"Hana, HI: Hana Airport",224
+15257,"Tuluksak, AK: Tuluksak Airport",223
+11726,"Topeka, KS: Topeka Regional",222
+14234,"Pilot Station, AK: Pilot Station Airport",222
+16233,"Victoria, Canada: Victoria Inner Harbour",221
+10247,"Anaktuvuk Pass, AK: Anaktuvuk Pass Airport",220
+12831,"Kasigluk, AK: Kasigluk Airport",220
+12492,"Kapalua, HI: Kapalua Airport",219
+13894,"Toksook, AK: Toksook Bay",216
+16879,"Llano, TX: Llano Municipal",216
+13348,"Jackson, TN: McKellar-Sipes Regional",215
+15417,"South Andos, The Bahamas: Congo Town",215
+12245,"Havre, MT: Havre City-County",212
+14805,"Shishmaref, AK: Shishmaref Airport",212
+11845,"Gambell, AK: Gambell Airport",211
+13768,"Nulato, AK: Nulato Airport",207
+10416,"Alakanuk, AK: Alakanuk Airport",205
+14627,"Russian Mission, AK: Russian Mission Airport",205
+15454,"Quincy, IL: Quincy Regional-Baldwin Field",205
+13862,"Wolf Point, MT: L. M. Clayton",200
+13770,"Nunapitchuk, AK: Nunapitchuk Airport",195
+12822,"Brevig Mission, AK: Brevig Mission Airport",194
+14738,"Sandpoint, AK: Sand Point",191
+14919,"St. Paul, AK: St. Paul Island",191
+15049,"Savoonga, AK: Savoonga Airport",187
+10165,"Adak Island, AK: Adak",183
+12171,"Hoonah, AK: Hoonah Airport",183
+12769,"Kotlik, AK: Kotlik Airport",183
+12851,"Kwigillingok, AK: Kwigillingok Airport",180
+15579,"Valdez, AK: Valdez Pioneer Field",180
+10557,"Bradford, PA: Bradford Regional",175
+15293,"Togiak, AK: Togiak Airport",173
+12649,"Nanwalek, AK: Nanwalek Airport",172
+12018,"Gallup, NM: Gallup Municipal",170
+12704,"Koyuk, AK: Koyuk Alfred Adams",170
+13369,"Marshall, AK: Marshall Don Hunter Sr.",168
+11908,"Glasgow, MT: Wokal Field Glasgow Valley County",162
+12268,"Kiana, AK: Bob Baker Memorial",161
+10322,"Altoona, PA: Altoona-Blair County",160
+13196,"McGrath, AK: McGrath Airport",160
+12175,"Haines, AK: Haines Airport",158
+12844,"Kivalina, AK: Kivalina Airport",158
+16567,"Akun, AK: Akun Airport",157
+14022,"Puebla, Mexico: Puebla International",156
+12610,"Kake, AK: Kake Seaplane Base",155
+11531,"El Dorado, AR: South Arkansas Regional at Goodwin Field",150
+10925,"Chadron, NE: Chadron Municipal",149
+11992,"Goldsboro, NC: Seymour Johnson AFB",147
+15721,"Stebbins, AK: Stebbins Airport",146
+11879,"Glendive, MT: Dawson Community",145
+12719,"Kalskag, AK: Kalskag Airport",145
+14125,"Point Lay, AK: Point Lay LRRS",140
+11214,"Coldfoot, AK: Coldfoot Airport",139
+10405,"Atmautluak, AK: Atmautluak Airport",138
+12748,"Kokhanok, AK: Kokhanok Airport",138
+12615,"Kaltag, AK: Kaltag Airport",137
+14288,"Pueblo, CO: Pueblo Memorial",137
+13072,"Las Cruces, NM: Las Cruces International",136
+13767,"Nuiqsut, AK: Nuiqsut Airport",136
+14856,"Shaktoolik, AK: Shaktoolik Airport",136
+14929,"Sofia, Bulgaria: Sofia Airport",135
+14895,"St. Michael, AK: St. Michael Airport",132
+13344,"Muskegon, MI: Muskegon County",131
+10349,"Arctic Village, AK: Arctic Village Airport",130
+12190,"Hot Springs, AR: Memorial Field",130
+15887,"Newtok, AK: Mertarvik",130
+10139,"Ambler, AK: Ambler River",128
+10396,"Atqasuk, AK: Atqasuk Edward Burnell Sr. Memorial",126
+15842,"Fort Dix, NJ: McGuire Field",124
+15124,"Tanana, AK: Ralph M Calhoun Memorial",122
+10216,"Athens, GA: Athens/Ben Epps",121
+14088,"Port Graham, AK: Port Graham Airport",120
+13068,"La Romana, Dominican Republic: Casa de Campo International",118
+14474,"Ruby, AK: Ruby Airport",118
+15232,"Truckee, CA: Truckee Tahoe",117
+11535,"Elim, AK: Elim Airport",115
+12902,"Liberal, KS: Liberal Mid-America Regional",115
+15245,"Teller, AK: Teller Airport",114
+11615,"New Bedford/Fall River, MA: New Bedford Regional",112
+10615,"El Paso, TX: Biggs AAF",108
+15581,"Venetie, AK: Venetie Airport",107
+11764,"East Farmingdale, NY: Republic",103
+15282,"Tununak, AK: Tununak Airport",103
+12755,"New Stuyahok, AK: New Stuyahok Airport",102
+10371,"Andros Town, The Bahamas: Andros Town International",99
+12455,"Jonesboro, AR: Jonesboro Municipal",99
+14804,"Shungnak, AK: Shungnak Airport",93
+12737,"Manokotak, AK: Manokatak Seaplane Base",92
+10775,"Barter Island, AK: Barter Island Airport",91
+13105,"Cincinnati, OH: Cincinnati Municipal Lunken Field",91
+11941,"Golovin, AK: Golovin Airport",89
+13579,"Mekoryuk, AK: Mekoryuk Airport",88
+10184,"Allakaket, AK: Allakaket Airport",87
+11997,"Gustavus, AK: Gustavus Airport",86
+13273,"Marietta, GA: Dobbins ARB",84
+15709,"Wales, AK: Wales Airport",84
+15794,"White Mountain, AK: White Mountain Airport",84
+10204,"Angoon, AK: Angoon Seaplane Base",81
+15085,"Sheldon Point, AK: Nunam Iqua",79
+14218,"Prospect Creek, AK: Prospect Creek Airport",75
+13697,"Cherry Point, NC: Cherry Point MCAS",73
+14130,"Napaskiak, AK: Napaskiak Airport",73
+14797,"Skagway, AK: Skagway Airport",73
+11411,"Deering, AK: Deering Airport",72
+13676,"Nikolai, AK: Nikolai Airport",72
+10916,"Chub Cay, The Bahamas: Chub Cay Airport",71
+10917,"Cold Bay, AK: Cold Bay Airport",71
+15618,"Van Nuys, CA: Van Nuys Airport",71
+12878,"Lafayette, IN: Purdue University",69
+13710,"Nightmute, AK: Nightmute Airport",69
+10783,"Bettles, AK: Bettles Airport",68
+15057,"Savannah, GA: Hunter AAF",68
+15406,"Tyonek, AK: Tyonek Airport",68
+11789,"Dallas/Fort Worth, TX: Fort Worth Meacham International",67
+12786,"Akutan, AK: Akutan Airport",62
+15725,"Beaver, AK: Beaver Airport",60
+16390,"Beluga, AK: Beluga Airport",59
+15798,"Napakiak, AK: Napakiak Airport",58
+13806,"Kobuk, AK: Kobuk Airport",56
+12235,"Hughes, AK: Hughes Airport",55
+12574,"Nashville, TN: John C Tune",51
+10478,"Westfield, MA: Westfield Barnes Regional",50
+12652,"Kenmore, WA: Kenmore Air Harbor",50
+11952,"Goodnews Bay, AK: Goodnews",49
+15205,"Tirana, Albania: Tirana International",49
+11834,"Fayetteville, AR: Drake Field",48
+12868,"Koyukuk, AK: Koyukuk Airport",48
+13341,"Kansas City, MO: Charles B. Wheeler Downtown",47
+12841,"King Cove, AK: King Cove Airport",46
+11859,"Galbraith Lake, AK: Galbraith Lake Airport",45
+12671,"Koliganek, AK: Koliganek Airport",41
+14682,"San Andros, The Bahamas: San Andros Airport",39
+16083,"Montreal, Canada: St. Hubert",38
+11463,"Eagle, AK: Eagle Airport",37
+11007,"Chalkyitsik, AK: Chalkyitsik Airport",36
+12676,"Grayling, AK: Grayling Airport",36
+12653,"Ekwok, AK: Ekwok Airport",34
+15385,"Twin Hills, AK: Twin Hills Airport",34
+14559,"Rampart, AK: Rampart Airport",28
+15171,"Tatitlek, AK: Tatitlek Airport",28
+10298,"Anniston, AL: Anniston Regional",27
+13629,"Chenega, AK: Chenega Bay",27
+12087,"Holy Cross, AK: Holy Cross Airport",26
+13024,"Klamath Falls, OR: Crater Lake Klamath Regional",25
+10237,"Atka, AK: Atka Airport",23
+14530,"Rifle, CO: Rifle Garfield County",23
+15147,"Treasure Cay, The Bahamas: Treasure Cay Airport",23
+15741,"Ketchikan, AK: Ketchikan Waterfront Seaplane Base",23
+11053,"Clarks Point, AK: Clarks Point Airport",22
+13731,"Newport, RI: Newport State",22
+14050,"Atlanta, GA: Dekalb Peachtree",21
+14062,"Pelican, AK: Pelican Seaplane Base",21
+15012,"St. George Island, AK: St. George Island Airport",20
+16254,"Whitehorse, Canada: Erik Nielsen International",20
+14282,"Platinum, AK: Platinum Airport",19
+15030,"Stuart, FL: Witham Field",19
+15061,"Stevens Village, AK: Stevens Village Airport",19
+12720,"Levelock, AK: Levelock Airport",17
+13715,"Nondalton, AK: Nondalton Airport",17
+11317,"Diomede Island, AK: Diomede Heliport",16
+12621,"Birch Creek, AK: Birch Creek Airport",16
+13439,"Miami, FL: Watson Island International",16
+10996,"Chuathbaluk, AK: Chuathbaluk Airport",15
+12370,"Circle, AK: Circle City",15
+12784,"Perryville, AK: Perryville Airport",14
+14898,"Santa Monica, CA: Santa Monica Municipal",14
+15160,"Takotna, AK: Takotna Airport",14
+13415,"Minto, AK: Minto Al Wright",13
+12294,"Igiugig, AK: Igiugig Airport",12
+14816,"Shageluk, AK: Shageluk Airport",12
+15231,"Tenakee, AK: Tenakee Airport",12
+13501,"Marathon, FL: The Florida Keys Marathon International",11
+13513,"Fairbanks, AK: Metro Field",11
+10313,"Anvik, AK: Anvik Airport",10
+13461,"Smyrna, TN: Smyrna Airport",10
+14273,"Port Heiden, AK: Port Heiden Airport",10
+14275,"Pontiac, MI: Oakland County International",10
+15246,"Toluca, Mexico: Toluca International",10
+11028,"Crooked Creek, AK: Crooked Creek Airport",9
+13424,"Modesto, CA: Modesto City-County-Harry Sham Field",9
+13771,"Mountain View, CA: Moffett Federal Airfield",9
+10958,"Clifton, AZ: Greenlee County",8
+11486,"Edenton, NC: Northeastern Regional",8
+11675,"Fishers Island, NY: Elizabeth Field",8
+12641,"Chignik, AK: Chignik Lake",8
+13016,"Lake Minchumina, AK: Lake Minchumina Airport",8
+13504,"Metlakatla, AK: Metlakatala",8
+14412,"Keyes Point, AK: Keyes Point Airport",8
+16745,"Houston, TX: Houston Executive",8
+16829,"West Palm Beach, FL: Palm Beach County Park",8
+10327,"Napa, CA: Napa County",7
+10569,"Beaufort, SC: Beaufort Executive",7
+12315,"Nikolski, AK: Nikolski AS",7
+15574,"Vidalia, GA: Vidalia Regional",7
+10014,"Fairbanks/Ft. Wainwright, AK: Blair Lake",6
+10329,"Naples, FL: Naples Municipal",6
+11421,"Destin, FL: Destin Executive",6
+11450,"Phoenix, AZ: Phoenix - Deer Valley",6
+11511,"Egegik, AK: Egegik Airport",6
+11924,"Gulkana, AK: Gulkana Airport",6
+12638,"Chignik Lagoon, AK: Chignik Lagoon Airport",6
+14119,"Pilot Point, AK: Pilot Point Airport",6
+14626,"Rock Sound, The Bahamas: Rock Sound Airport",6
+16256,"North Bay, Canada: North Bay Airport",6
+10722,"Bartow, FL: Bartow Executive",5
+10836,"Rock Hill, SC: Rock Hill/York County/Bryant Field",5
+10965,"Cleveland, OH: Cuyahoga County",5
+13111,"Cape Lisburne, AK: Cape Lisburne LRRS",5
+13381,"Manley Hot Springs, AK: Manley Hot Springs Airport",5
+13987,"Waterbury, CT: Waterbury Oxford",5
+14880,"Sleetmute, AK: Sleetmute Airport",5
+14987,"Stony River, AK: Stony River Airport",5
+15548,"Leesburg, VA: Leesburg Executive",5
+15853,"South Naknek, AK: South Naknek 2",5
+16215,"Toronto, Canada: Billy Bishop Toronto City",5
+10583,"Bagdad, AZ: Bagdad Airport",4
+11327,"Delta Junction, AK: Delta Junction Airport",4
+11496,"Newport, VT: Northeast Kingdom International",4
+11899,"Glens Falls, NY: Floyd Bennett Memorial",4
+13809,"Ocala, FL: Ocala International-Jim Taylor Field",4
+14477,"Roche Harbor, WA: Roche Harbor Airport",4
+14863,"Skwentna, AK: Skwentna Airport",4
+15260,"Miami, FL: Miami Executive",4
+15278,"Tin City, AK: Tin City LRRS",4
+16560,"Bend, OR: Bend Municipal",4
+16999,"Cabo Rojo, PR: Boqueron",4
+10325,"Denver, CO: Centennial",3
+11241,"Cape Romanzof, AK: Cape Romanzof LRRS",3
+13988,"Oxnard/Ventura, CA: Oxnard",3
+14052,"Maldonado, Uruguay: Capitan Corbeta C. A. Curbelo International",3
+16848,"Camilla, GA: Camilla Mitchell County",3
+10171,"Dallas, TX: Addison",2
+10857,"Camarillo, CA: Camarillo Airport",2
+11015,"Canouan, Saint Vincent and the Grenadines: Canouan Airport",2
+11387,"Springfield, TN: Springfield Robertson County",2
+11512,"Cape Newenham, AK: Cape Newenham LRRS",2
+12055,"Gary, IN: Gary/Chicago International",2
+12211,"Las Vegas, NV: Henderson Executive",2
+12247,"Hayward, CA: Hayward Executive",2
+12297,"Kingman, AZ: Kingman Airport",2
+12388,"Orlando, FL: Kissimmee Gateway",2
+13936,"Orlando, FL: Exec",2
+14044,"Princeton, NJ: Princeton Airport",2
+14268,"Port Alsworth, AK: Port Alsworth Airport",2
+14270,"Port Alexander, AK: Port Alexander Airport",2
+14553,"Rome, NY: Griffiss International",2
+14785,"Springfield, OH: Springfield-Beckley Municipal",2
+15307,"Tampa, FL: Peter O'Knight",2
+15325,"Thermal, CA: Jacqueline Cochran Regional",2
+15448,"Ugashik, AK: Ugashik Airport",2
+15615,"Venice, FL: Venice Municipal",2
+15879,"Augusta/Waterville, ME: Waterville Robert Lafleur",2
+16454,"Hamilton, NY: Hamilton Municipal",2
+16679,"Marfa, TX: Marfa Municipal",2
+17008,"Williamstown, NJ: Southern Cross",2
+10734,"Bequia, Saint Vincent and the Grenadines: J. F. Mitchell",1
+10961,"Craig, AK: Craig Seaplane Base",1
+11484,"Edna Bay, AK: Edna Bay Airport",1
+11545,"Elfin Cove, AK: Elfin Cove Seaplane Base",1
+11564,"Kenosha, WI: Kenosha Regional",1
+12068,"Hamilton, OH: Butler County Regional Hogan Field",1
+12252,"Hydaburg, AK: Hydaburg Seaplane Base",1
+12253,"Hollis, AK: Hollis Seaplane Base",1
+12587,"Portland, TN: Douglas Hunter Field",1
+12599,"Bennington, VT: William H. Morse State",1
+12635,"Chignik Bay, AK: Chignik Bay Airport",1
+12663,"False Pass, AK: False Pass Airport",1
+14046,"Pedro Bay, AK: Pedro Bay Airport",1
+14673,"Safford, AZ: Safford Regional",1
+15250,"Tatalina, AK: Tatalina LRRS",1
+15498,"Heber, UT: Heber Valley",1
+16527,"Monroeville, AL: Monroe County Aeroplex",1
+16666,"Dover-Cheswold, DE: Delware Airpark",1
+10040,"Pogo Mines, AK: Pogo Mines Airport",0
+10198,"Pittsburgh, PA: Allegheny County",0
+10480,"Manama, Bahrain: Bahrain International",0
+10817,"Brownwood, TX: Brownwood Regional",0
+10819,"Bowling Green, KY: Bowling Green-Warren County Regional",0
+10877,"Guangzhou, China: Baiyun",0
+10938,"Central, AK: Central Airport",0
+10970,"Cologne, Germany: Koeln Bonn",0
+11002,"Chico, CA: Chico Regional",0
+11030,"Chongqing, China: Jiangbei",0
+11050,"Port Angeles, WA: William R. Fairchild International",0
+11086,"Chino, CA: Chino Airport",0
+11160,"Changsha, China: Huanghua",0
+11198,"Corvallis, OR: Corvallis Municipal",0
+11348,"Deming, NM: Deming Municipal",0
+11375,"Dover, DE: Dover AFB",0
+11415,"Del Rio, TX: Del Rio International",0
+11430,"Denton, TX: Denton Enterprise",0
+11468,"Kearney, NE: Kearney Regional",0
+11548,"Derby, United Kingdom: East Midlands",0
+11711,"Farmington, NM: Four Corners Regional",0
+11938,"Gaylord, MI: Gaylord Regional",0
+12132,"Lake Havasu City, AZ: Lake Havasu City Airport",0
+12263,"Wichita, KS: McConnell AFB",0
+12324,"Wilmington, OH: Wilmington Air Park",0
+12337,"Indianapolis, IN: Indianapolis Executive",0
+12436,"Inyokern, CA: Inyokern Airport",0
+12496,"Djibouti, Djibouti: Ambouli International",0
+12598,"Arlington, TX: Arlington Municipal",0
+12633,"Coffman Cove, AK: Coffman Cove Seaplane Base",0
+12815,"Thorne Bay, AK: Thorne Bay Seaplane Base",0
+12857,"Kasaan, AK: Kasaan Seaplane Base",0
+12882,"Lakeland, FL: Lakeland Linder International",0
+12957,"Liege, Belgium: Liege Airport",0
+13087,"Las Vegas, NV: Nellis AFB",0
+13157,"Madera, CA: Madera Municipal",0
+13192,"Sacramento, CA: McClellan Airfield",0
+13200,"McCook, NE: McCook Ben Nelson Regional",0
+13246,"Manteo, NC: Dare County Regional",0
+13255,"Mansfield, OH: Mansfield Lahm Regional",0
+13295,"Sacramento, CA: Sacramento Mather",0
+13483,"Misawa, Japan: Misawa AB",0
+13537,"Mount Vernon, IL: Mount Vernon Airport",0
+13540,"Burlington/Mount Vernon, WA: Skagit Regional",0
+13618,"Guantanamo, Cuba: Guantanamo Bay NS",0
+13667,"Norfolk, VA: Norfolk NS",0
+13692,"Nanjing, China: Lukou",0
+13693,"Naukiti, AK: Naukiti Airport",0
+13704,"Nelson Lagoon, AK: Nelson Lagoon Airport",0
+13754,"Sigonella, Italy: Sigonella Airport",0
+13756,"Port Hueneme, CA: Point Mugu NAS",0
+13785,"Yuma, AZ: Yuma MCAS/Yuma International",0
+13856,"Tokyo, Japan: Yokota AB",0
+13890,"Newport, OR: Newport Municipal",0
+13947,"Oscoda, MI: Oscoda-Wurtsmith",0
+13954,"Osan, South Korea: Osan AB",0
+13957,"Ostend, Belgium: Oostende",0
+14030,"Zanderij, Suriname: Johan A. Pengel International",0
+14120,"Pierre, SD: Pierre Regional",0
+14229,"Port Protection, AK: Port Protection Airport",0
+14435,"San Marcos, TX: San Marcos Regional",0
+14447,"Racine, WI: Batten International",0
+14467,"Roseburg, OR: Roseburg Regional",0
+14493,"Red Devil, AK: Red Devil Airport",0
+14533,"Riverside, CA: March ARB",0
+14656,"Rocky Mount, NC: Rocky Mount-Wilson Regional",0
+14664,"Rzeszow, Poland: Jasionka",0
+14886,"Saltillo, Mexico: Saltillo International",0
+15018,"London, United Kingdom: London Stansted",0
+15022,"Stuttgart, Germany: Stuttgart Airport",0
+15043,"St. Louis, MO: Spirit of St. Louis",0
+15045,"Fairfield, CA: Travis AFB",0
+15113,"Shenzhen, China: Bao'an International",0
+15127,"Qingdao, China: Liuting",0
+15129,"Taranto, Italy: Taranto Grottaglie",0
+15174,"Lajes, Portugal: Lajes Airport",0
+15210,"Tijuana, Mexico: Tijuana International",0
+15277,"Jinan, China: Yaoqiang",0
+15381,"Thief River Falls, MN: Thief River Falls Regional",0
+15422,"Guam, TT: Andersen AFB",0
+15458,"Ukiah, CA: Ukiah Municipal",0
+15525,"Petaluma, CA: Petaluma Municipal",0
+15567,"Sao Paulo, Brazil: Viracopos International",0
+15601,"Visalia, CA: Visalia Municipal",0
+15754,"Hyder, AK: Hyder Seaplane Base",0
+15793,"Meyers Chuck, AK: Meyers Chuck Seaplane Base",0
+15877,"Watsonville, CA: Watsonville Municipal",0
+15885,"Whale Pass, AK: Whale Pass Airport",0
+15917,"Xiamen, China: Gaoqi",0
+15973,"Lakeport, CA: Lampson Field",0
+16078,"Hamilton, Canada: John C. Munro Hamilton International",0
+16085,"Halifax, Canada: Halifax Stanfield International",0
+16128,"Montreal, Canada: Montreal International",0
+16171,"Moncton, Canada: Greater Moncton Romeo Leblanc International",0
+16852,"Zumpango, Mexico: Santa Lucia",0
