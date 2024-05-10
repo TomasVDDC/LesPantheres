@@ -5,6 +5,8 @@ import airports from "../data/airports.json"
 import { ToastContainer, toast } from "react-toastify"
 // example based on https://gnithyanantham.medium.com/creating-maps-using-d3-js-in-react-f42b8a292580
 
+const mapRatio = 0.5
+
 export default function D3Example() {
 	useEffect(() => {
 		const width = parseInt(d3.select(".viz").style("width"))
