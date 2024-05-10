@@ -1,13 +1,14 @@
-import { Skeleton } from "@/components/ui/skeleton"
+import { Skeleton } from "@/components/ui/skeleton";
 
 export function SkeletonCard() {
-	return (
-		<Skeleton className=" w-100 rounded-xl" />
-		// 	<div className="space-y-2">
-		// 		<Skeleton className="h-4 w-[250px]" />
-		// 		<Skeleton className="h-4 w-[200px]" />
-		// 	</div>
-		// </div>
-	)
+  return (
+    <div className="flex flex-col space-y-3">
+      <Skeleton className="h-[325px] w-[450px] rounded-xl" />
+      <div className="space-y-2">
+        <Skeleton className="h-4 w-[250px]" />
+        <Skeleton className="h-4 w-[200px]" />
+      </div>
+    </div>
+  );
 }
-export default SkeletonCard
+export default SkeletonCard;

@@ -2,7 +2,8 @@ import { useEffect } from "react"
 import stateData from "../data/states.json"
 import airports from "../data/airports.json"
 
-const mapRatio = 0.5
+import { ToastContainer, toast } from "react-toastify"
+// example based on https://gnithyanantham.medium.com/creating-maps-using-d3-js-in-react-f42b8a292580
 
 export default function D3Example() {
 	useEffect(() => {
