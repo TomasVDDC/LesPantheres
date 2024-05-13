@@ -4,6 +4,7 @@ import airports from "../data/airports.json";
 
 import { ToastContainer, toast } from "react-toastify";
 // example based on https://gnithyanantham.medium.com/creating-maps-using-d3-js-in-react-f42b8a292580
+// tooltips based on https://d3-graph-gallery.com/graph/interactivity_tooltip.html
 
 const mapRatio = 0.5;
 
@@ -81,24 +82,29 @@ export default function D3Example() {
       .on("mouseout", hideAirportName);
 
     function displayAirportName(e, d) {
+      console.log(e);
       tooltip
-        .style("visibility", "visible")
+        .style("opacity", 1)
         .text(d.properties.name)
         .style("top", e.pageY + 10 + "px")
         .style("left", e.pageX + 10 + "px");
     }
 
     function hideAirportName(e, d) {
-      console.log(d.properties.name);
-      tooltip.style("visibility", "hidden");
+      tooltip.style("opacity", 0);
     }
 
     var tooltip = d3
       .select(".viz")
       .append("div")
       .style("position", "absolute")
-      .style("visibility", "hidden")
-      .style("color", "red");
+      .style("opacity", 0)
+      .style("color", "black")
+      .style("background-color", "white")
+      .style("border", "solid")
+      .style("border-width", "2px")
+      .style("border-radius", "5px")
+      .style("padding", "5px");
   }, []);
 
   return (
