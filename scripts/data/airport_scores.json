@@ -1,0 +1,5618 @@
+{
+    "10135": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.455587392550143,
+            29.59259012460852,
+            22.349570200573066,
+            1.290126735979358,
+            15.671968613427772
+        ]
+    },
+    "10136": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.9735099337748347,
+            27.677806868935782,
+            0.0,
+            0.538817636791379,
+            8.047533609875499
+        ]
+    },
+    "10140": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.803331542181622,
+            29.450333029254093,
+            1.3970983342289092,
+            7.027396220687562,
+            10.919539781588046
+        ]
+    },
+    "10141": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            19.672131147540984,
+            27.339687380861605,
+            0.0,
+            0.19731350079684298,
+            11.802283007299858
+        ]
+    },
+    "10146": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            33.48837209302326,
+            0.0,
+            0.20110799119678227,
+            8.422370021055011
+        ]
+    },
+    "10155": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            22.580645161290324,
+            42.418604651162795,
+            0.0,
+            0.3187371935949002,
+            16.329496751512004
+        ]
+    },
+    "10157": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.081081081081082,
+            36.79195474544312,
+            0.0,
+            0.5274341655915611,
+            10.85011749802894
+        ]
+    },
+    "10158": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.725190839694657,
+            19.45393218533641,
+            9.923664122137403,
+            0.9600060711846399,
+            9.015698304588277
+        ]
+    },
+    "10165": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            99.99999999999999,
+            39.44186046511628,
+            0.0,
+            0.0,
+            34.860465116279066
+        ]
+    },
+    "10170": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            16.071428571428573,
+            52.62458471760798,
+            0.0,
+            0.17834104879714655,
+            17.218588584458427
+        ]
+    },
+    "10185": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            15.483870967741936,
+            36.16744186046512,
+            0.0,
+            0.5539955983911361,
+            13.051327106649547
+        ]
+    },
+    "10208": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.497382198952879,
+            43.85048094484355,
+            6.806282722513089,
+            1.4153449191773544,
+            14.392372696371718
+        ]
+    },
+    "10245": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            66.5827633378933,
+            0.0,
+            0.030355923199514304,
+            16.6532798152732
+        ]
+    },
+    "10257": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.05892547660312,
+            34.144210229333765,
+            13.518197573656847,
+            4.344691507930485,
+            15.016506196881055
+        ]
+    },
+    "10268": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            36.20689655172414,
+            93.5364875701684,
+            0.0,
+            0.18593002959702512,
+            32.48232853787239
+        ]
+    },
+    "10275": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            62.903225806451616,
+            16.74418604651163,
+            0.0,
+            0.20110799119678227,
+            19.962129961040006
+        ]
+    },
+    "10279": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            18.510638297872344,
+            31.293814943097473,
+            0.0,
+            1.749260074372012,
+            12.888428328835458
+        ]
+    },
+    "10299": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            23.803009575923394,
+            45.138294149460755,
+            12.448700410396716,
+            5.5133945511117854,
+            21.72584967172316
+        ]
+    },
+    "10333": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            76.47058823529412,
+            38.08481532147743,
+            0.0,
+            0.1593685967974501,
+            28.67869303839225
+        ]
+    },
+    "10361": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            67.92452830188681,
+            32.47740236946029,
+            0.0,
+            0.16695757759732868,
+            25.142222062236108
+        ]
+    },
+    "10372": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            33.058702368692074,
+            60.23078581179796,
+            2.6776519052523167,
+            3.6502997647415953,
+            24.904359962620983
+        ]
+    },
+    "10397": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.0952471266547814,
+            36.138428682199944,
+            7.988468687175208,
+            100.0,
+            36.80553612400748
+        ]
+    },
+    "10408": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            16.415094339622645,
+            45.79692847740237,
+            4.90566037735849,
+            1.9769294983683692,
+            17.273653173187967
+        ]
+    },
+    "10423": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.073637702503683,
+            44.06260917217522,
+            4.594992636229749,
+            25.730439401988313,
+            21.11541972822424
+        ]
+    },
+    "10431": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.087936865839909,
+            35.43651189009203,
+            0.0,
+            3.331562571146695,
+            11.214002831769658
+        ]
+    },
+    "10434": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.552763819095478,
+            31.906509290639242,
+            13.065326633165828,
+            0.7209531759884648,
+            14.061388229722253
+        ]
+    },
+    "10466": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.457925636007828,
+            24.99503936649524,
+            15.26418786692759,
+            1.9048341807695226,
+            12.155496762550046
+        ]
+    },
+    "10469": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            25.58139534883721,
+            43.19740400216333,
+            0.0,
+            0.45533884799271457,
+            17.308534549748316
+        ]
+    },
+    "10529": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            11.28084606345476,
+            37.46290274096139,
+            6.110458284371328,
+            6.4240722470972145,
+            15.319569833971173
+        ]
+    },
+    "10551": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.000000000000002,
+            69.43255813953488,
+            0.0,
+            0.1935190103969037,
+            19.906519287482944
+        ]
+    },
+    "10558": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            11.764705882352942,
+            9.58686730506156,
+            0.0,
+            0.1593685967974501,
+            5.377735446052988
+        ]
+    },
+    "10561": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            17.66090684682344,
+            14.525139664804467,
+            0.645063367989679,
+            8.207777469904396
+        ]
+    },
+    "10577": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            46.875,
+            6.279069767441861,
+            0.0,
+            0.08727327919860363,
+            13.310335761660117
+        ]
+    },
+    "10581": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            26.821192052980134,
+            22.86523948868012,
+            0.0,
+            1.1117856871822114,
+            12.699554307210617
+        ]
+    },
+    "10599": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            11.514305652477322,
+            32.85739788052386,
+            7.257501744591766,
+            5.403354329513546,
+            14.258139901776623
+        ]
+    },
+    "10617": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            11.11111111111111,
+            47.13178294573643,
+            48.14814814814814,
+            0.17075206799726797,
+            26.64044856824824
+        ]
+    },
+    "10620": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.833333333333334,
+            30.790697674418603,
+            0.0,
+            1.33186613037869,
+            9.488974284532658
+        ]
+    },
+    "10627": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.830324909747292,
+            38.27587943917388,
+            0.0,
+            1.0169234271837293,
+            12.530781944026224
+        ]
+    },
+    "10631": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            54.56957682043463,
+            0.0,
+            0.19731350079684298,
+            13.691722580307868
+        ]
+    },
+    "10666": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            2.9411764705882355,
+            29.942544459644324,
+            12.745098039215685,
+            0.7399256279881612,
+            11.592186149359101
+        ]
+    },
+    "10676": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.000000000000002,
+            41.74883720930233,
+            0.0,
+            0.1935190103969037,
+            12.985589054924809
+        ]
+    },
+    "10685": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            29.26829268292683,
+            47.99455473624504,
+            12.682926829268292,
+            0.7437201183881005,
+            22.672373591707068
+        ]
+    },
+    "10693": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            20.635129793121624,
+            40.05895926478655,
+            4.796415865067861,
+            28.762237231539803,
+            23.563185538628957
+        ]
+    },
+    "10713": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.434250764525994,
+            34.25645402176232,
+            2.650356778797146,
+            7.41063975108143,
+            12.187925329041722
+        ]
+    },
+    "10721": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.666080843585238,
+            39.076960804348715,
+            9.138840070298768,
+            38.82902026257874,
+            24.177725495202864
+        ]
+    },
+    "10728": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.67741935483871,
+            50.23255813953488,
+            0.0,
+            0.20110799119678227,
+            15.027771371392594
+        ]
+    },
+    "10731": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            63.62790697674418,
+            0.0,
+            0.20110799119678227,
+            15.957253741985241
+        ]
+    },
+    "10732": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            1.3100436681222707,
+            34.10256931044989,
+            0.0,
+            0.8347878879866434,
+            9.0618502166397
+        ]
+    },
+    "10739": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            45.2093023255814,
+            0.0,
+            0.1631630871973894,
+            11.343116353194697
+        ]
+    },
+    "10747": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            14.042553191489363,
+            27.75972290945077,
+            0.0,
+            0.8575548303862791,
+            10.664957732831603
+        ]
+    },
+    "10754": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            77.14285714285714,
+            52.62458471760798,
+            0.0,
+            0.09865675039842149,
+            32.46652465271588
+        ]
+    },
+    "10779": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            11.840531561461795,
+            0.0,
+            0.17834104879714655,
+            3.0047181525647355
+        ]
+    },
+    "10781": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            13.404255319148938,
+            43.66313706086096,
+            22.127659574468083,
+            1.749260074372012,
+            20.236078007212498
+        ]
+    },
+    "10785": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            13.636363636363638,
+            31.052854122621568,
+            4.7272727272727275,
+            2.0528193063671547,
+            12.867327448156272
+        ]
+    },
+    "10792": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            41.73913043478261,
+            32.54099089989889,
+            4.521739130434782,
+            6.511345526295819,
+            21.328301497853023
+        ]
+    },
+    "10800": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.180257510729613,
+            26.362391456233155,
+            5.579399141630901,
+            8.807012218259088,
+            11.732265081713189
+        ]
+    },
+    "10821": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.885975367500993,
+            56.37985420073731,
+            5.509204078929943,
+            28.61804659634211,
+            25.34827006087759
+        ]
+    },
+    "10849": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.504634397528323,
+            38.20640433022777,
+            0.0,
+            3.6502997647415953,
+            13.090334623124422
+        ]
+    },
+    "10868": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.891752577319588,
+            28.352912970510673,
+            3.3505154639175254,
+            2.910374136753434,
+            10.876388787125304
+        ]
+    },
+    "10874": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            13.333333333333334,
+            34.05891472868217,
+            0.0,
+            0.9903619943841542,
+            12.095652514099914
+        ]
+    },
+    "10918": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            21.252236135957066,
+            0.0,
+            0.1631630871973894,
+            5.353849805788614
+        ]
+    },
+    "10926": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.000000000000002,
+            48.669767441860465,
+            86.66666666666667,
+            0.1935190103969037,
+            36.38248827973101
+        ]
+    },
+    "10980": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.76595744680851,
+            41.89609104403761,
+            4.609929078014185,
+            2.105942171966305,
+            15.344479935206651
+        ]
+    },
+    "10990": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.80487804878049,
+            26.21894498014748,
+            0.0,
+            1.8327388631706762,
+            10.214140473024662
+        ]
+    },
+    "10994": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.537946428571429,
+            32.81187707641196,
+            1.450892857142857,
+            6.765576383091751,
+            12.391573186304498
+        ]
+    },
+    "11003": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            34.12322274881517,
+            58.5755538410669,
+            0.0,
+            2.367762009562116,
+            23.766634649861047
+        ]
+    },
+    "11013": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            29.508196721311478,
+            47.762104460541366,
+            42.62295081967213,
+            0.19731350079684298,
+            30.022641375580452
+        ]
+    },
+    "11027": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            20.986046511627908,
+            0.0,
+            0.02276694239963573,
+            5.252203363506886
+        ]
+    },
+    "11042": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            16.352201257861637,
+            38.82003384943271,
+            3.1147050014974544,
+            12.63565303179783,
+            17.73064828514741
+        ]
+    },
+    "11049": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            16.129032258064516,
+            31.255813953488374,
+            0.0,
+            0.3187371935949002,
+            11.925895851286947
+        ]
+    },
+    "11057": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.48990902436474,
+            43.70577492224149,
+            6.932970825054899,
+            72.53927297563938,
+            32.166981936825124
+        ]
+    },
+    "11066": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.686376104846083,
+            29.62613497019485,
+            4.754647973178909,
+            12.415572588601352,
+            13.870682909205298
+        ]
+    },
+    "11067": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            39.024390243902445,
+            43.94327850255247,
+            0.0,
+            0.43257190559307884,
+            20.850060163011996
+        ]
+    },
+    "11076": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            63.93442622950819,
+            30.74342356080824,
+            0.0,
+            0.19731350079684298,
+            23.718790822778317
+        ]
+    },
+    "11092": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            19.35483870967742,
+            13.395348837209301,
+            0.0,
+            0.08347878879866434,
+            8.208416583921347
+        ]
+    },
+    "11097": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            24.193548387096776,
+            13.395348837209301,
+            0.0,
+            0.20110799119678227,
+            9.447501303875717
+        ]
+    },
+    "11109": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.482071713147411,
+            30.112850921893823,
+            7.768924302788845,
+            3.7755179479395915,
+            11.534841221442418
+        ]
+    },
+    "11111": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            52.25806451612903,
+            45.544186046511626,
+            0.0,
+            0.5539955983911361,
+            24.58906154025795
+        ]
+    },
+    "11122": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.064516129032258,
+            29.023255813953494,
+            0.0,
+            0.671624800789254,
+            9.439849185943752
+        ]
+    },
+    "11140": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.605042016806724,
+            32.99589603283174,
+            0.0,
+            1.7720270167716476,
+            11.843241266602526
+        ]
+    },
+    "11146": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            17.30769230769231,
+            57.98640429338104,
+            10.0,
+            0.9524170903847613,
+            21.561628422864526
+        ]
+    },
+    "11150": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.317073170731708,
+            46.47532614861032,
+            0.0,
+            0.27699779919556805,
+            13.5173492796344
+        ]
+    },
+    "11193": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.288187063467963,
+            30.18733183143949,
+            6.316428788338901,
+            12.461106473400623,
+            14.063263539161746
+        ]
+    },
+    "11203": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.096774193548388,
+            45.2093023255814,
+            0.0,
+            0.43636639599301813,
+            14.435610728780702
+        ]
+    },
+    "11233": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            21.05263157894737,
+            18.80048959608323,
+            0.0,
+            0.18213553919708583,
+            10.008814178556921
+        ]
+    },
+    "11252": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            2.985074626865672,
+            22.225616105518917,
+            12.935323383084576,
+            0.7285421567883433,
+            9.718639068064377
+        ]
+    },
+    "11259": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.58472751366573,
+            47.74575389747719,
+            5.168129865827397,
+            22.87318813083403,
+            21.592949851951083
+        ]
+    },
+    "11267": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.11855670103093,
+            32.36633900743227,
+            3.3505154639175254,
+            2.910374136753434,
+            11.686446327283539
+        ]
+    },
+    "11278": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            17.026542630366137,
+            37.142168703394596,
+            4.6598958777844155,
+            44.42589360248918,
+            25.813625203508582
+        ]
+    },
+    "11283": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            46.15384615384616,
+            17.25939177101968,
+            50.0,
+            0.1631630871973894,
+            28.394100253015807
+        ]
+    },
+    "11288": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            46.987951807228924,
+            30.82544130008406,
+            0.0,
+            0.28079228959550734,
+            19.52354634922712
+        ]
+    },
+    "11292": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.893877551020408,
+            49.26863977218794,
+            6.8979591836734695,
+            92.93086438491311,
+            40.49783522294873
+        ]
+    },
+    "11298": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.42774712546856,
+            53.7813975036951,
+            11.82664364233669,
+            90.05843515215906,
+            41.02355585591485
+        ]
+    },
+    "11308": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            26.790697674418603,
+            0.0,
+            0.20110799119678227,
+            6.747951416403846
+        ]
+    },
+    "11315": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            22.641509433962266,
+            24.6423870118473,
+            0.0,
+            0.16695757759732868,
+            11.862713505851724
+        ]
+    },
+    "11336": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.000000000000002,
+            62.511627906976734,
+            0.0,
+            0.07968429839872505,
+            18.14782805134387
+        ]
+    },
+    "11337": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.000000000000002,
+            55.5906976744186,
+            0.0,
+            0.5350231463914397,
+            16.53143020520251
+        ]
+    },
+    "11413": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.921052631578948,
+            35.64749082007344,
+            0.0,
+            1.11937466798209,
+            10.67197952990862
+        ]
+    },
+    "11423": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            24.865694551036068,
+            46.20521515643684,
+            0.0,
+            4.910070577521439,
+            18.995245071248586
+        ]
+    },
+    "11433": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.393258426966293,
+            45.900531312603434,
+            6.221389929255097,
+            36.43849131061698,
+            24.73841774486045
+        ]
+    },
+    "11447": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            48.21428571428572,
+            11.840531561461795,
+            46.42857142857142,
+            0.17834104879714655,
+            26.665432438279023
+        ]
+    },
+    "11470": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.838709677419355,
+            16.74418604651163,
+            0.0,
+            0.20110799119678227,
+            5.446000928781942
+        ]
+    },
+    "11481": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.560636182902584,
+            32.92912293679782,
+            0.0,
+            1.8744782575700083,
+            10.341059344317603
+        ]
+    },
+    "11503": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.3175355450236967,
+            57.91954149674859,
+            16.429699842022117,
+            2.367762009562116,
+            20.008634723339128
+        ]
+    },
+    "11525": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.67741935483871,
+            13.395348837209301,
+            0.0,
+            0.08347878879866434,
+            5.789061745211669
+        ]
+    },
+    "11537": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.9473684210526314,
+            77.99265605875152,
+            0.0,
+            0.2542308567959323,
+            20.54856383415002
+        ]
+    },
+    "11540": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.249999999999999,
+            28.604651162790695,
+            3.494623655913979,
+            5.612051301510207,
+            10.99033153005372
+        ]
+    },
+    "11577": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.67741935483871,
+            20.093023255813954,
+            0.0,
+            0.20110799119678227,
+            7.492887650462362
+        ]
+    },
+    "11587": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            17.30769230769231,
+            25.24508050089446,
+            0.0,
+            0.1631630871973894,
+            10.678983973946039
+        ]
+    },
+    "11603": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            44.843049327354265,
+            40.47637918448222,
+            3.8863976083707024,
+            2.5043636639599303,
+            22.927547446041782
+        ]
+    },
+    "11612": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.346938775510204,
+            33.13298528713811,
+            10.612244897959183,
+            0.895499734385672,
+            12.996917173748292
+        ]
+    },
+    "11617": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.563025210084033,
+            3.770959546609342,
+            43.69747899159664,
+            0.4173939439933217,
+            13.862214423070835
+        ]
+    },
+    "11618": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            19.693139220643364,
+            31.385240434422098,
+            7.70639002702467,
+            43.49244896410412,
+            25.569304661548564
+        ]
+    },
+    "11624": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.359813084112149,
+            53.69876113888286,
+            15.186915887850466,
+            3.213933368748577,
+            19.86485586989851
+        ]
+    },
+    "11630": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            13.223140495867769,
+            42.49240822602345,
+            0.0,
+            1.343249601578508,
+            14.26469958086743
+        ]
+    },
+    "11637": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.604519774011301,
+            34.74970437524635,
+            0.0,
+            1.9807239887683084,
+            11.583737034506491
+        ]
+    },
+    "11638": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            2.7554535017221586,
+            31.919686006461433,
+            2.9850746268656714,
+            3.2708507247476666,
+            10.232766214949232
+        ]
+    },
+    "11641": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.02092050209205,
+            23.70808601732023,
+            21.757322175732217,
+            0.8727327919860363,
+            12.839765371782633
+        ]
+    },
+    "11648": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            20.5607476635514,
+            42.46033470984569,
+            0.0,
+            1.183881004781058,
+            16.051240844544537
+        ]
+    },
+    "11695": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            25.390274841437634,
+            0.0,
+            0.3832435303938681,
+            6.443379592957876
+        ]
+    },
+    "11697": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.397163120567376,
+            60.03285502226621,
+            11.98581560283688,
+            32.06723836988692,
+            28.370768028889348
+        ]
+    },
+    "11699": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.838709677419355,
+            10.046511627906977,
+            41.93548387096774,
+            0.20110799119678227,
+            14.255453291872714
+        ]
+    },
+    "11721": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            11.587982832618028,
+            54.788701467212306,
+            0.0,
+            0.8499658495864005,
+            16.806662537354182
+        ]
+    },
+    "11725": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            40.38461538461539,
+            45.2093023255814,
+            50.0,
+            0.1631630871973894,
+            33.93927019934854
+        ]
+    },
+    "11775": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.857142857142858,
+            47.021926910299015,
+            0.0,
+            2.356378538362298,
+            15.558862076451044
+        ]
+    },
+    "11778": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            35.483870967741936,
+            44.651162790697676,
+            0.0,
+            0.3187371935949002,
+            20.11344273800863
+        ]
+    },
+    "11823": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            16.43002028397566,
+            56.47511675079013,
+            10.547667342799189,
+            1.8365333535706154,
+            21.322334432783897
+        ]
+    },
+    "11865": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            14.754098360655739,
+            23.935951200914985,
+            0.0,
+            0.19731350079684298,
+            9.721840765591892
+        ]
+    },
+    "11867": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            38.70967741935484,
+            30.139534883720934,
+            0.0,
+            0.20110799119678227,
+            17.262580073568138
+        ]
+    },
+    "11884": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.702457956015525,
+            29.294744125876232,
+            1.6817593790426908,
+            5.832131744706686,
+            11.627773301410283
+        ]
+    },
+    "11898": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            33.43208911471566,
+            0.0,
+            0.4173939439933217,
+            8.462370764677246
+        ]
+    },
+    "11905": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            14.754098360655739,
+            27.339687380861605,
+            0.0,
+            0.19731350079684298,
+            10.572774810578547
+        ]
+    },
+    "11921": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.88599348534202,
+            29.823195212483903,
+            0.0,
+            1.130758139181908,
+            8.959986709251957
+        ]
+    },
+    "11953": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.714285714285715,
+            28.236544850498344,
+            0.0,
+            1.1611140623814222,
+            8.77798615679137
+        ]
+    },
+    "11973": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            11.186440677966104,
+            32.71643673630272,
+            0.0,
+            1.0852242543826365,
+            11.247025417162865
+        ]
+    },
+    "11977": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            19.84732824427481,
+            44.54890821942128,
+            0.0,
+            1.4570843135766867,
+            16.463330194318193
+        ]
+    },
+    "11980": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            18.51851851851852,
+            47.13178294573643,
+            0.0,
+            0.27320330879562876,
+            16.480876193262645
+        ]
+    },
+    "11982": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            20.930232558139537,
+            43.19740400216333,
+            0.0,
+            0.45533884799271457,
+            16.1457438520739
+        ]
+    },
+    "11986": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            19.053549190535495,
+            43.59326942570014,
+            4.85678704856787,
+            6.059801168703043,
+            18.390851708376637
+        ]
+    },
+    "11995": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.00507614213198,
+            23.023680793294773,
+            2.6395939086294415,
+            3.703422630340745,
+            9.092943368599235
+        ]
+    },
+    "11996": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.283387622149839,
+            29.654117112339975,
+            8.469055374592834,
+            4.625483797525992,
+            13.00801097665216
+        ]
+    },
+    "12003": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.357142857142857,
+            33.15946843853821,
+            0.0,
+            0.815815435986947,
+            9.833106682917004
+        ]
+    },
+    "12007": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            29.03225806451613,
+            26.790697674418603,
+            0.0,
+            0.20110799119678227,
+            14.00601593253288
+        ]
+    },
+    "12012": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            13.740458015267174,
+            47.190484644061776,
+            19.847328244274806,
+            0.46292782879259314,
+            20.310299683099085
+        ]
+    },
+    "12016": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            3.3488372093023253,
+            0.0,
+            0.20110799119678227,
+            0.8874863001247769
+        ]
+    },
+    "12094": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.6944444444444444,
+            43.286821705426355,
+            0.0,
+            1.605069439174319,
+            11.39658389726128
+        ]
+    },
+    "12119": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            54.36935704514364,
+            0.0,
+            0.030355923199514304,
+            13.599928242085788
+        ]
+    },
+    "12124": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            24.193548387096776,
+            20.093023255813954,
+            0.0,
+            0.20110799119678227,
+            11.121919908526879
+        ]
+    },
+    "12129": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            29.942544459644324,
+            0.0,
+            0.1593685967974501,
+            7.525478264110443
+        ]
+    },
+    "12156": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.316770186335404,
+            41.018055756175066,
+            0.0,
+            0.5767625407907718,
+            12.727897120825311
+        ]
+    },
+    "12173": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.357515960533954,
+            41.10213392001512,
+            2.0119945830915067,
+            19.57957046368673,
+            17.762803731831827
+        ]
+    },
+    "12177": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            14.516129032258066,
+            33.48837209302326,
+            0.0,
+            0.20110799119678227,
+            12.051402279119527
+        ]
+    },
+    "12191": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.188925081433225,
+            45.78416786607076,
+            3.952225841476656,
+            17.439477878120968,
+            18.341199166775404
+        ]
+    },
+    "12197": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.05586592178771,
+            45.69260750941925,
+            9.683426443202979,
+            4.041132275935342,
+            17.36825803758632
+        ]
+    },
+    "12206": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.251101321585903,
+            28.974080524536422,
+            5.726872246696035,
+            1.6885482279729833,
+            11.410150580197834
+        ]
+    },
+    "12217": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            20.756756756756758,
+            39.54162162162162,
+            5.621621621621622,
+            3.475753206344388,
+            17.3489383015861
+        ]
+    },
+    "12223": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.370786516853933,
+            28.295793049385946,
+            0.0,
+            0.30355923199514306,
+            7.992534699558756
+        ]
+    },
+    "12255": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            34.42622950819672,
+            44.35836828059474,
+            0.0,
+            0.19731350079684298,
+            19.745477822397074
+        ]
+    },
+    "12264": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            16.889363976483168,
+            32.586280188433,
+            4.632104044183146,
+            21.26432420125977,
+            18.84301810258977
+        ]
+    },
+    "12265": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            15.789473684210526,
+            47.94124847001224,
+            68.42105263157893,
+            0.11004022159823935,
+            33.06545375184999
+        ]
+    },
+    "12266": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            18.65972977170368,
+            41.87996836140236,
+            10.498524615623543,
+            48.8312969568187,
+            29.967379926387068
+        ]
+    },
+    "12278": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.232711306256862,
+            35.23814872488704,
+            8.562019758507134,
+            3.422630340745238,
+            13.863877532599068
+        ]
+    },
+    "12280": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.0,
+            29.98325581395349,
+            0.0,
+            1.1041967063823328,
+            9.271863130083956
+        ]
+    },
+    "12323": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.191126279863482,
+            26.962139852369237,
+            4.436860068259386,
+            2.189420960764969,
+            10.444886790314268
+        ]
+    },
+    "12335": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.918032786885246,
+            64.78078536027449,
+            0.0,
+            0.19731350079684298,
+            17.474032911989145
+        ]
+    },
+    "12339": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.5418994413407825,
+            31.92807587371703,
+            5.810055865921787,
+            13.550125218183197,
+            14.7075390997907
+        ]
+    },
+    "12343": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.882352941176471,
+            13.658002735978112,
+            0.0,
+            0.1593685967974501,
+            4.924931068488008
+        ]
+    },
+    "12391": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.6367432150313155,
+            38.38228868281789,
+            5.427974947807932,
+            1.7834104879714654,
+            12.80760433340715
+        ]
+    },
+    "12397": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            21.95121951219512,
+            16.93477027793534,
+            0.0,
+            0.43257190559307884,
+            9.829640423930885
+        ]
+    },
+    "12402": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.015075376884422,
+            27.037513147131005,
+            0.0,
+            2.2311603551643016,
+            8.070937219794931
+        ]
+    },
+    "12441": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.856115107913669,
+            45.58273381294964,
+            9.352517985611511,
+            2.0755862487667907,
+            15.466738288810403
+        ]
+    },
+    "12448": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.898305084745763,
+            28.78675601103666,
+            7.344632768361581,
+            2.6523487895575624,
+            11.920510663425393
+        ]
+    },
+    "12451": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.734919286321156,
+            34.051727885242336,
+            6.627017841971113,
+            8.898079987857631,
+            13.82793625034806
+        ]
+    },
+    "12478": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.805828318023442,
+            36.44578677136818,
+            4.392355611867806,
+            35.90346816422554,
+            21.38685971637124
+        ]
+    },
+    "12511": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            35.294117647058826,
+            29.942544459644324,
+            0.0,
+            0.1593685967974501,
+            16.34900767587515
+        ]
+    },
+    "12519": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            42.857142857142854,
+            4.425249169435216,
+            46.42857142857142,
+            0.17834104879714655,
+            23.472326125986662
+        ]
+    },
+    "12523": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            13.47305389221557,
+            49.871605625957386,
+            31.137724550898206,
+            1.2332093799802686,
+            23.928898362262856
+        ]
+    },
+    "12544": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            36.04924760601916,
+            0.0,
+            0.223874933596418,
+            9.068280634903894
+        ]
+    },
+    "12559": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            43.5483870967742,
+            46.883720930232556,
+            0.0,
+            0.20110799119678227,
+            22.658304004550885
+        ]
+    },
+    "12758": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            15.620542082738943,
+            28.252529608864414,
+            1.854493580599144,
+            5.285725127115429,
+            12.753322599829483
+        ]
+    },
+    "12819": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            19.780219780219785,
+            37.794019933554814,
+            57.142857142857146,
+            0.6564468391894969,
+            28.84338592395531
+        ]
+    },
+    "12884": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            24.324324324324326,
+            56.43243243243244,
+            0.0,
+            0.5274341655915611,
+            20.321047730587082
+        ]
+    },
+    "12888": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            34.61538461538462,
+            9.273703041144904,
+            0.0,
+            0.1631630871973894,
+            11.013062685931729
+        ]
+    },
+    "12889": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.533382050089684,
+            38.24032604178415,
+            5.008968311964392,
+            57.084313576686654,
+            26.966747495131223
+        ]
+    },
+    "12891": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            16.483516483516485,
+            32.08995655507284,
+            0.0,
+            0.31114821279502164,
+            12.221155312846086
+        ]
+    },
+    "12892": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.386611042304935,
+            27.07011307288722,
+            7.965582426178215,
+            58.177126811869165,
+            25.649858338309883
+        ]
+    },
+    "12896": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.387791741472174,
+            35.051563609035114,
+            0.0,
+            2.07938073916673,
+            12.379684022418504
+        ]
+    },
+    "12898": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.67741935483871,
+            26.790697674418603,
+            0.0,
+            0.08347878879866434,
+            9.137898954513995
+        ]
+    },
+    "12899": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.882352941176471,
+            29.942544459644324,
+            0.0,
+            0.1593685967974501,
+            8.996066499404561
+        ]
+    },
+    "12902": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            54.545454545454554,
+            12.177589852008458,
+            0.0,
+            0.007588980799878576,
+            16.682658344565723
+        ]
+    },
+    "12915": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            18.367346938775512,
+            22.963455149501662,
+            0.0,
+            0.5236396751916218,
+            10.4636104408672
+        ]
+    },
+    "12917": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            29.728274173806607,
+            0.0,
+            0.18213553919708583,
+            7.477602428250924
+        ]
+    },
+    "12945": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.172995780590717,
+            40.90197232852517,
+            3.656821378340365,
+            2.66373226075738,
+            13.598880437053408
+        ]
+    },
+    "12951": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            22.522522522522525,
+            37.571338780641106,
+            7.807807807807808,
+            1.2294148895803294,
+            17.28277100013794
+        ]
+    },
+    "12953": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            13.901240346360872,
+            35.430431209487374,
+            7.098837662844216,
+            48.607422023222284,
+            26.259482810478687
+        ]
+    },
+    "12954": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.043712172158709,
+            27.93024819755713,
+            5.245460659045057,
+            5.608256811110268,
+            10.956919459967791
+        ]
+    },
+    "12982": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            1.8140589569160999,
+            37.87248853029584,
+            5.895691609977324,
+            4.985960385520225,
+            12.642049870677372
+        ]
+    },
+    "12992": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            11.062335381913961,
+            43.61426792167752,
+            0.0,
+            4.287774151931395,
+            14.74109436388072
+        ]
+    },
+    "13029": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            38.70967741935484,
+            43.056478405315616,
+            0.0,
+            0.7892540031873719,
+            20.638852456964454
+        ]
+    },
+    "13061": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.571428571428573,
+            33.83920265780731,
+            0.0,
+            0.7626925703877969,
+            10.793330949905922
+        ]
+    },
+    "13076": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            32.142857142857146,
+            48.91694352159468,
+            46.42857142857142,
+            0.17834104879714655,
+            31.916678285455102
+        ]
+    },
+    "13127": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.67741935483871,
+            49.11627906976744,
+            0.0,
+            0.3187371935949002,
+            14.778108904550262
+        ]
+    },
+    "13139": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.499999999999998,
+            19.25581395348837,
+            0.0,
+            0.421188434393261,
+            8.044250596970407
+        ]
+    },
+    "13158": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.725685785536161,
+            26.957721974134433,
+            3.2418952618453862,
+            3.0090308871518556,
+            10.73358347716696
+        ]
+    },
+    "13184": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            38.41463414634146,
+            69.26375496313103,
+            15.853658536585364,
+            0.5881460119905897,
+            31.030048414512112
+        ]
+    },
+    "13198": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            14.527286702536513,
+            39.796507159072625,
+            6.661542403279529,
+            14.775745617363588,
+            18.940270470563064
+        ]
+    },
+    "13204": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.771684387241187,
+            48.25923660545803,
+            6.183547845551203,
+            54.21188434393261,
+            29.356588295545755
+        ]
+    },
+    "13211": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            46.15384615384616,
+            49.20214669051879,
+            100.0,
+            0.1631630871973894,
+            48.87978898289058
+        ]
+    },
+    "13230": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.689024390243903,
+            26.21894498014748,
+            7.926829268292682,
+            2.4550352887607194,
+            11.322458481861196
+        ]
+    },
+    "13232": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            25.025484199796125,
+            44.06286892824123,
+            4.417261297995243,
+            22.300220080443196,
+            23.951458626618948
+        ]
+    },
+    "13241": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            34.61538461538462,
+            21.252236135957066,
+            0.0,
+            0.1631630871973894,
+            14.00769595963477
+        ]
+    },
+    "13244": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            11.551339285714286,
+            35.47674418604651,
+            5.803571428571428,
+            6.765576383091751,
+            14.899307820855993
+        ]
+    },
+    "13256": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.085308056872039,
+            31.679047724016314,
+            0.0,
+            1.5671245351749261,
+            11.33287007901582
+        ]
+    },
+    "13264": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.550295857988166,
+            22.78794550708683,
+            0.0,
+            1.8896562191697654,
+            7.056974396061191
+        ]
+    },
+    "13277": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.171314741035857,
+            41.28008894653943,
+            0.0,
+            0.9182666767853077,
+            12.342417591090149
+        ]
+    },
+    "13290": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            19.48051948051948,
+            47.23165206886137,
+            16.88311688311688,
+            0.5502011079911968,
+            21.036372385122235
+        ]
+    },
+    "13296": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.571428571428573,
+            32.70925486473659,
+            5.3061224489795915,
+            1.8251498823707977,
+            12.102988941878888
+        ]
+    },
+    "13303": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.577834345016644,
+            56.09482652629087,
+            11.454865870373995,
+            38.72277453138044,
+            28.462575318265486
+        ]
+    },
+    "13342": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            20.404649160568233,
+            39.24323999639601,
+            3.357727077055532,
+            8.780450785459513,
+            17.94651675486982
+        ]
+    },
+    "13360": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            32.40713317342789,
+            11.659192825112108,
+            0.8120209455870077,
+            11.21958673603175
+        ]
+    },
+    "13367": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            41.27764127764128,
+            48.39769156048226,
+            6.388206388206388,
+            1.5102071791758367,
+            24.39343660137644
+        ]
+    },
+    "13377": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            13.548387096774192,
+            48.22325581395349,
+            0.0,
+            0.5539955983911361,
+            15.581409627279704
+        ]
+    },
+    "13422": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.847184986595174,
+            31.15406197393853,
+            6.970509383378016,
+            1.381194505577901,
+            12.088237712372406
+        ]
+    },
+    "13433": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            25.396825396825395,
+            43.83610188261351,
+            82.53968253968253,
+            0.6830082719890719,
+            38.11390452277763
+        ]
+    },
+    "13459": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            17.39130434782609,
+            53.48432760364004,
+            37.68115942028985,
+            0.22766942399635728,
+            27.196115198938088
+        ]
+    },
+    "13476": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.9708737864077671,
+            23.539399412960037,
+            0.0,
+            1.1383471199817865,
+            6.412155079837398
+        ]
+    },
+    "13485": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            15.460526315789474,
+            44.526315789473685,
+            2.850877192982456,
+            3.426424831145177,
+            16.5660360323477
+        ]
+    },
+    "13486": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            21.621621621621625,
+            43.18290383406663,
+            7.807807807807808,
+            1.2294148895803294,
+            18.460437038269095
+        ]
+    },
+    "13487": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.623036649214661,
+            31.371065384147084,
+            8.43979057591623,
+            36.20323290582075,
+            20.40928137877468
+        ]
+    },
+    "13495": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.517350157728707,
+            43.83636845877327,
+            4.416403785488958,
+            15.602944524550352,
+            18.093266731635325
+        ]
+    },
+    "13502": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.183023872679045,
+            40.66572080685954,
+            0.0,
+            1.396372467177658,
+            11.31127928667906
+        ]
+    },
+    "13577": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.1301627033792245,
+            24.745350292516815,
+            0.0,
+            2.9976474159520374,
+            7.968290102962019
+        ]
+    },
+    "13795": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.2786885245901645,
+            14.85932138772398,
+            28.415300546448087,
+            0.6602413295894362,
+            11.803387947087918
+        ]
+    },
+    "13796": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.208625035004201,
+            33.30456585022761,
+            4.368524222906748,
+            13.515974804583744,
+            14.099422478180577
+        ]
+    },
+    "13830": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.726469288555016,
+            32.66263141127748,
+            21.829429960229785,
+            8.552781361463156,
+            18.94282800538136
+        ]
+    },
+    "13851": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.794844253490872,
+            26.977743361726578,
+            4.189044038668099,
+            7.031190711087501,
+            12.248205591243263
+        ]
+    },
+    "13871": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            17.873651771956858,
+            40.65044612462823,
+            4.006163328197227,
+            7.3537223950823405,
+            17.470995904966163
+        ]
+    },
+    "13873": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            30.0,
+            45.2093023255814,
+            43.333333333333336,
+            0.1935190103969037,
+            29.68403866732791
+        ]
+    },
+    "13891": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.60377358490566,
+            25.839403247038177,
+            1.3626834381551363,
+            7.205737269484708,
+            10.25289938489592
+        ]
+    },
+    "13930": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            21.50963085351537,
+            51.49483344574133,
+            11.417887734249316,
+            87.23533429460423,
+            42.91442158202756
+        ]
+    },
+    "13931": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.972477064220183,
+            26.446596970343506,
+            6.36085626911315,
+            6.169841390301283,
+            11.48744292349453
+        ]
+    },
+    "13933": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            26.73267326732673,
+            38.528206309003,
+            0.0,
+            0.3490931167944145,
+            16.402493173281037
+        ]
+    },
+    "13964": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            17.647058823529413,
+            29.942544459644324,
+            0.0,
+            0.030355923199514304,
+            11.904989801593313
+        ]
+    },
+    "13970": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            30.0,
+            38.288372093023256,
+            0.0,
+            0.1935190103969037,
+            17.12047277585504
+        ]
+    },
+    "14004": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            26.621160409556317,
+            27.31645368680054,
+            88.73720136518772,
+            1.077635273582758,
+            35.93811268378183
+        ]
+    },
+    "14025": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            65.97209302325581,
+            0.0,
+            0.11762920239811793,
+            16.522430556413482
+        ]
+    },
+    "14027": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.931591612237883,
+            45.61970468553886,
+            11.61911309728429,
+            11.004022159823936,
+            19.79360788872124
+        ]
+    },
+    "14057": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            25.551102204408817,
+            34.74468937875751,
+            4.68937875751503,
+            18.900356682097595,
+            20.97138175569474
+        ]
+    },
+    "14082": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.4444444444444455,
+            42.51782945736434,
+            19.25925925925926,
+            2.014874402367762,
+            17.05910189085895
+        ]
+    },
+    "14092": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.058823529411765,
+            12.843775649794802,
+            0.0,
+            0.2883812703953859,
+            5.047745112400489
+        ]
+    },
+    "14098": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            2.5641025641025643,
+            16.372093023255815,
+            44.44444444444444,
+            0.4098049631934431,
+            15.947611248749068
+        ]
+    },
+    "14100": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.471760797342194,
+            38.18818776834693,
+            10.488846701471287,
+            31.945814677088865,
+            22.273652486062318
+        ]
+    },
+    "14107": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.241571951454441,
+            35.11322369216847,
+            5.843446991588004,
+            59.057448584655084,
+            26.5639228049665
+        ]
+    },
+    "14108": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            33.97790055248619,
+            52.95233200565334,
+            7.182320441988949,
+            1.3394551111785686,
+            23.86300202782676
+        ]
+    },
+    "14109": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            17.30769230769231,
+            25.24508050089446,
+            50.0,
+            0.1631630871973894,
+            23.17898397394604
+        ]
+    },
+    "14112": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            2.586206896551724,
+            31.60609462710506,
+            4.482758620689655,
+            2.1666540183653336,
+            10.210428540677942
+        ]
+    },
+    "14113": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            6.697674418604651,
+            0.0,
+            0.20110799119678227,
+            1.7246956024503581
+        ]
+    },
+    "14122": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.275953859804791,
+            25.419863395307566,
+            3.0760130139012123,
+            12.79502162859528,
+            12.141712974402212
+        ]
+    },
+    "14150": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            69.23076923076924,
+            45.2093023255814,
+            0.0,
+            0.1631630871973894,
+            28.650808660887005
+        ]
+    },
+    "14193": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.596858638743456,
+            35.69755266041641,
+            10.890052356020943,
+            3.5895879183425667,
+            14.193512893380845
+        ]
+    },
+    "14222": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            34.827906976744195,
+            0.0,
+            0.003794490399939288,
+            8.707925366786034
+        ]
+    },
+    "14231": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            28.301886792452834,
+            28.559894690653795,
+            0.0,
+            0.16695757759732868,
+            14.257184765175989
+        ]
+    },
+    "14237": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            26.790697674418603,
+            41.93548387096774,
+            0.20110799119678227,
+            17.23182238414578
+        ]
+    },
+    "14252": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            11.15973741794311,
+            42.824080199480946,
+            0.0,
+            1.699931699172801,
+            13.920937329149213
+        ]
+    },
+    "14254": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.260869565217391,
+            29.411526794742166,
+            0.0,
+            0.3149427031949609,
+            8.246834765788629
+        ]
+    },
+    "14256": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            15.0,
+            34.827906976744195,
+            43.333333333333336,
+            0.1935190103969037,
+            23.338689830118607
+        ]
+    },
+    "14259": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            65.52072800808898,
+            0.0,
+            0.05312286559915003,
+            16.393462718422033
+        ]
+    },
+    "14262": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.072434607645874,
+            28.672874456038556,
+            1.743796109993293,
+            5.623434772710025,
+            12.028134986596937
+        ]
+    },
+    "14303": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            18.0,
+            49.36186046511629,
+            0.0,
+            0.3452986263944752,
+            16.92678977287769
+        ]
+    },
+    "14307": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.021371326803207,
+            37.30539046159581,
+            6.945681211041852,
+            4.227062305532367,
+            15.124876326243308
+        ]
+    },
+    "14314": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.6144578313253017,
+            27.073129728215186,
+            0.0,
+            0.5957349927904683,
+            7.8208306380827395
+        ]
+    },
+    "14321": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            18.992805755395683,
+            30.645474318219843,
+            3.741007194244604,
+            2.6030204143583515,
+            13.99557692055462
+        ]
+    },
+    "14457": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.58307210031348,
+            31.052854122621568,
+            8.150470219435736,
+            1.1762920239811794,
+            11.74067211658799
+        ]
+    },
+    "14487": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            20.150761828388134,
+            0.0,
+            0.40601047279350383,
+            5.13919307529541
+        ]
+    },
+    "14489": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            31.788079470198678,
+            44.17803788695518,
+            4.304635761589404,
+            2.2577217879638765,
+            20.632118726676786
+        ]
+    },
+    "14492": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.815236427320491,
+            33.39160184091558,
+            3.9842381786339756,
+            17.299081733323213,
+            15.622539545048314
+        ]
+    },
+    "14512": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            25.24508050089446,
+            0.0,
+            0.21249146239660013,
+            6.364392990822765
+        ]
+    },
+    "14520": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.918032786885246,
+            23.935951200914985,
+            0.0,
+            0.19731350079684298,
+            7.262824372149268
+        ]
+    },
+    "14524": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.906542056074766,
+            33.566615953053685,
+            7.593457943925233,
+            6.462017151096608,
+            13.132158276037574
+        ]
+    },
+    "14534": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            15.384615384615383,
+            9.273703041144904,
+            0.0,
+            0.11383471199817864,
+            6.193038284439616
+        ]
+    },
+    "14543": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            7.692307692307692,
+            9.273703041144904,
+            0.0,
+            0.11383471199817864,
+            4.269961361362694
+        ]
+    },
+    "14570": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.291044776119404,
+            31.13502256161055,
+            1.616915422885572,
+            6.067390149502922,
+            10.77759322752961
+        ]
+    },
+    "14574": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            13.490364025695932,
+            35.53926597281013,
+            0.0,
+            1.737876603172194,
+            12.691876650419564
+        ]
+    },
+    "14576": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            12.288512911843275,
+            39.33914556110087,
+            9.260908281389135,
+            4.227062305532367,
+            16.278907264966413
+        ]
+    },
+    "14588": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            14.516129032258066,
+            36.83720930232558,
+            0.0,
+            0.20110799119678227,
+            12.888611581445108
+        ]
+    },
+    "14633": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            28.662420382165607,
+            43.55621389423789,
+            0.0,
+            0.5615845791910147,
+            18.195054713898628
+        ]
+    },
+    "14635": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            11.565511852044803,
+            40.517528183817255,
+            12.867934357905703,
+            14.532898231767474,
+            19.870968156383807
+        ]
+    },
+    "14674": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            2.7649769585253456,
+            22.006644518272427,
+            11.981566820276496,
+            0.7892540031873719,
+            9.38561057506541
+        ]
+    },
+    "14679": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            15.027284175178396,
+            28.134543360199928,
+            5.820624038057926,
+            27.08507247476664,
+            19.016881012050725
+        ]
+    },
+    "14683": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.15826911677534,
+            30.101818282074966,
+            6.935388263189092,
+            12.768460195795704,
+            14.740983964458774
+        ]
+    },
+    "14685": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.691056910569106,
+            31.001701644923426,
+            7.046070460704606,
+            5.566517416710936,
+            12.326336608227018
+        ]
+    },
+    "14689": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            2.717391304347826,
+            27.530839231547024,
+            4.7101449275362315,
+            2.0604082871670335,
+            9.25469593764953
+        ]
+    },
+    "14696": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            27.810650887573967,
+            55.14022292555388,
+            5.128205128205128,
+            1.8896562191697654,
+            22.492183790125683
+        ]
+    },
+    "14698": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.806451612903226,
+            28.46511627906977,
+            0.0,
+            1.3774000151779615,
+            7.6622419767877386
+        ]
+    },
+    "14704": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            19.25581395348837,
+            43.333333333333336,
+            0.421188434393261,
+            15.752583930303741
+        ]
+    },
+    "14709": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            39.130434782608695,
+            20.38422649140546,
+            0.0,
+            0.14039614479775367,
+            14.913764354702979
+        ]
+    },
+    "14711": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            22.46696035242291,
+            29.888740907693887,
+            11.45374449339207,
+            0.8271989071867648,
+            16.15916116517391
+        ]
+    },
+    "14716": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            62.511627906976734,
+            0.0,
+            0.11383471199817864,
+            15.656365654743729
+        ]
+    },
+    "14730": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.65291387313048,
+            33.67144416325846,
+            5.363589479112945,
+            7.323366471882826,
+            13.252828496846178
+        ]
+    },
+    "14747": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            23.333333333333336,
+            41.43281299776999,
+            19.98477929984779,
+            49.82545344160279,
+            33.64409476813847
+        ]
+    },
+    "14761": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.032258064516129,
+            32.093023255813954,
+            10.483870967741934,
+            2.7889504439553767,
+            12.34952568300685
+        ]
+    },
+    "14771": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            16.80419376759538,
+            36.033241297412985,
+            6.562469663139501,
+            39.05289519617515,
+            24.613199981080754
+        ]
+    },
+    "14783": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            20.318725099601593,
+            49.55211711294357,
+            3.4528552456839305,
+            2.8231008575548304,
+            19.036699578945985
+        ]
+    },
+    "14794": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            17.37512639029323,
+            0.0,
+            0.7513090991879791,
+            4.531608872370302
+        ]
+    },
+    "14812": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            24.59016393442623,
+            23.935951200914985,
+            0.0,
+            0.19731350079684298,
+            12.180857159034515
+        ]
+    },
+    "14814": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            25.179856115107917,
+            26.164296469800902,
+            6.235011990407673,
+            1.5481520831752296,
+            14.78182916462293
+        ]
+    },
+    "14828": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            19.565217391304348,
+            36.182002022244696,
+            0.0,
+            0.3149427031949609,
+            14.015540529186001
+        ]
+    },
+    "14831": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            5.798969072164949,
+            25.677295612562936,
+            2.680412371134021,
+            14.688472338164985,
+            12.211287348506723
+        ]
+    },
+    "14842": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.451612903225808,
+            49.11627906976744,
+            0.0,
+            0.3187371935949002,
+            13.971657291647036
+        ]
+    },
+    "14843": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            2.7750247770069376,
+            50.096480512595946,
+            9.448298645523622,
+            11.451772027016771,
+            18.44289399053582
+        ]
+    },
+    "14869": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.2629355860612463,
+            35.33217750055255,
+            8.511087645195353,
+            35.8996736738256,
+            20.75146860140869
+        ]
+    },
+    "14877": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            34.42622950819672,
+            34.14715974075486,
+            0.0,
+            0.19731350079684298,
+            17.192675687437102
+        ]
+    },
+    "14893": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.263382283278068,
+            27.4807707137585,
+            5.542396968261487,
+            15.98618805494422,
+            13.318184505060568
+        ]
+    },
+    "14905": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            62.511627906976734,
+            0.0,
+            0.0,
+            15.627906976744184
+        ]
+    },
+    "14908": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.1664411366711773,
+            29.770664316958808,
+            4.925575101488498,
+            13.986491614176217,
+            12.962293042323674
+        ]
+    },
+    "14952": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            29.16666666666667,
+            100.0,
+            0.0,
+            0.23905289519617515,
+            32.35142989046572
+        ]
+    },
+    "14955": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            0.0,
+            0.0,
+            0.08347878879866434,
+            0.020869697199666085
+        ]
+    },
+    "14960": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            24.193548387096776,
+            50.23255813953488,
+            0.0,
+            0.20110799119678227,
+            18.65680362945711
+        ]
+    },
+    "14986": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            6.683168316831683,
+            41.354823854478475,
+            9.653465346534652,
+            6.097746072702436,
+            15.947300897636811
+        ]
+    },
+    "15008": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            50.97674418604652,
+            0.0,
+            0.034150413599453595,
+            12.752723649911493
+        ]
+    },
+    "15016": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            14.08341416100873,
+            42.15831998736833,
+            6.052376333656643,
+            19.526447598087575,
+            20.455139520030322
+        ]
+    },
+    "15023": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.800000000000001,
+            34.827906976744195,
+            0.0,
+            0.9144721863853684,
+            10.135594790782392
+        ]
+    },
+    "15024": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            1.08499095840868,
+            32.72534589343539,
+            47.01627486437613,
+            2.064202777566973,
+            20.722703623446794
+        ]
+    },
+    "15027": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            45.92035680152915,
+            17.80821917808219,
+            0.5198451847916825,
+            16.062105291100757
+        ]
+    },
+    "15041": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.9504950495049505,
+            31.67580013815335,
+            0.0,
+            1.1155801775821508,
+            9.435468841310113
+        ]
+    },
+    "15048": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            34.42622950819672,
+            40.95463210064812,
+            0.0,
+            0.19731350079684298,
+            18.89454377741042
+        ]
+    },
+    "15070": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            34.827906976744195,
+            0.0,
+            0.07968429839872505,
+            8.72689781878573
+        ]
+    },
+    "15074": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            24.193548387096776,
+            20.093023255813954,
+            0.0,
+            0.20110799119678227,
+            11.121919908526879
+        ]
+    },
+    "15096": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            8.08881839809675,
+            27.385574387252642,
+            2.0618556701030926,
+            4.7507019807239885,
+            10.571737609044119
+        ]
+    },
+    "15249": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.770318021201413,
+            29.252033856520672,
+            4.593639575971731,
+            2.1135311527661833,
+            10.182380651615
+        ]
+    },
+    "15295": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            42.47735618115055,
+            0.0,
+            0.11004022159823935,
+            10.646849100687197
+        ]
+    },
+    "15304": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.410729991204926,
+            36.64183592072161,
+            6.0979184989739075,
+            25.85186309478637,
+            19.500586876421703
+        ]
+    },
+    "15323": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            4.838709677419355,
+            30.809302325581395,
+            0.0,
+            1.1421416103817257,
+            9.19753840334562
+        ]
+    },
+    "15356": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            22.040816326530617,
+            33.98044613194115,
+            10.612244897959183,
+            0.895499734385672,
+            16.882251772704155
+        ]
+    },
+    "15370": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.4151212553495,
+            28.844905948313045,
+            1.854493580599144,
+            5.285725127115429,
+            11.35006147784428
+        ]
+    },
+    "15376": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            2.898550724637681,
+            28.03235591506572,
+            1.5700483091787438,
+            6.2495256887000075,
+            9.68762015939554
+        ]
+    },
+    "15380": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            25.087108013937286,
+            60.58244874807553,
+            0.0,
+            1.0548683311831222,
+            21.681106273298983
+        ]
+    },
+    "15389": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            9.67741935483871,
+            6.697674418604651,
+            0.0,
+            0.20110799119678227,
+            4.144050441160036
+        ]
+    },
+    "15401": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            26.08695652173913,
+            20.38422649140546,
+            0.0,
+            0.22766942399635728,
+            11.674713109285237
+        ]
+    },
+    "15411": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            25.80645161290323,
+            33.48837209302326,
+            0.0,
+            0.3187371935949002,
+            14.903390224880347
+        ]
+    },
+    "15412": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            17.303370786516854,
+            35.91659263130389,
+            1.947565543071161,
+            5.031494270319496,
+            15.049755807802853
+        ]
+    },
+    "15569": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            16.981132075471702,
+            20.724879333040807,
+            0.0,
+            0.16695757759732868,
+            9.46824224652746
+        ]
+    },
+    "15582": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            13.266547406082292,
+            0.0,
+            0.1631630871973894,
+            3.3574276233199205
+        ]
+    },
+    "15607": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            20.093023255813954,
+            41.93548387096774,
+            0.20110799119678227,
+            15.557403779494619
+        ]
+    },
+    "15624": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            3.79746835443038,
+            28.219857857773665,
+            9.403254972875226,
+            2.064202777566973,
+            10.871195990661562
+        ]
+    },
+    "15841": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            15.0,
+            38.288372093023256,
+            0.0,
+            0.1935190103969037,
+            13.37047277585504
+        ]
+    },
+    "15919": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            10.601719197707737,
+            39.50796295062304,
+            4.966571155682903,
+            3.938681035136981,
+            14.753733584787664
+        ]
+    },
+    "15991": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            20.000000000000004,
+            38.288372093023256,
+            86.66666666666667,
+            0.1935190103969037,
+            36.287139442521706
+        ]
+    },
+    "16101": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            19.35483870967742,
+            10.046511627906977,
+            41.93548387096774,
+            0.20110799119678227,
+            17.884485549937228
+        ]
+    },
+    "16218": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            0.0,
+            25.101194217473285,
+            0.0,
+            0.3870380207938074,
+            6.372058059566773
+        ]
+    },
+    "16869": {
+        "labels": [
+            "cancelled",
+            "delayed",
+            "diverted",
+            "airport size",
+            "composite_score"
+        ],
+        "data": [
+            16.107382550335572,
+            43.46745746839395,
+            0.0,
+            0.5312286559915004,
+            15.026517168680256
+        ]
+    }
+}

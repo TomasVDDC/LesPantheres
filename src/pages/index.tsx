@@ -1,22 +1,11 @@
-//import D3Example from "./components/D3Example";
 import Head from "next/head"
 import Header from "./components/Header"
-import ChartSketch from "./components/ChartSketch"
 import Footer from "./components/Footer"
-import SkeletonCard from "./components/SkeletonCard"
-import { Suspense } from "react"
 import React from "react"
-import dynamic from "next/dynamic"
+import D3Example from "./components/D3Example"
+import GeneralStatistics from "./components/GeneralStatistics"
 
 export default function IndexPage() {
-	const D3Example = dynamic(() => import("./components/D3Example"), {
-		loading: () => (
-			<div className="flex justify-center">
-				<SkeletonCard />{" "}
-			</div>
-		),
-		ssr: false,
-	})
 	return (
 		<>
 			<Head>
@@ -27,14 +16,29 @@ export default function IndexPage() {
 			<div>
 				<Header />
 				<div className="mb-[60px] md:mb-[120px] text-white container">
+					<div className="mb-[30px]">
+						<h1 className="text-4xl text-white  font-bold">
+							Step 1: Select an airport
+						</h1>
+					</div>
 					<D3Example />
-					<div className="ml-20">
-						<h1 className="text-4xl  font-bold">Charts and statistics</h1>
+
+					<div className="mt-[200px] mb-[50px] text-white ">
+						<h1 className="text-4xl  font-bold">
+							General Statistics on all Airports{" "}
+						</h1>
 						<p className="text-[20px] mt-3 italic text-zinc-300">
-							Currently a sketch of the charts we will produce
+							Here are some general statistics on all the airports in the
+							dataset.
 						</p>
 					</div>
-					<ChartSketch />
+					<div>
+						<h1 className="text-3xl font-semibold ">
+							Airports with the most diverted flights
+						</h1>
+						<GeneralStatistics />
+					</div>
+					{/* <ChartSketch /> */}
 				</div>
 				<Footer />
 			</div>

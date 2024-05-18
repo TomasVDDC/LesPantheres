@@ -1,0 +1,5618 @@
+{
+    "10135": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.25953150303279,
+            3.2541637256597733,
+            63.0364714808121,
+            0.9433962264150944,
+            10.506437064080243
+        ]
+    },
+    "10136": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            8.933763691152855,
+            12.535737744144402,
+            55.51844130785529,
+            0.0,
+            23.01205725684746
+        ]
+    },
+    "10140": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.38849540482286,
+            4.3762869241718985,
+            32.77222606604638,
+            0.0,
+            50.46299160495886
+        ]
+    },
+    "10141": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.87281228280786,
+            10.297316896301668,
+            0.5669737774627924,
+            0.0,
+            70.26289704342767
+        ]
+    },
+    "10146": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            39.84556057640574,
+            10.96096096096096,
+            7.675890869168181,
+            0.0,
+            41.51758759346512
+        ]
+    },
+    "10155": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            31.227155613132215,
+            13.834829078238227,
+            3.238340980634961,
+            0.0,
+            51.69967432799459
+        ]
+    },
+    "10157": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            10.595023507074783,
+            7.8312288588123975,
+            21.30863056855562,
+            0.0,
+            60.2651170655572
+        ]
+    },
+    "10158": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.557430203961504,
+            4.477611940298507,
+            103.50783626315747,
+            0.0,
+            -21.54287840741749
+        ]
+    },
+    "10165": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            0.0,
+            43.77880184331797,
+            100.0,
+            -43.77880184331798
+        ]
+    },
+    "10170": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.99270699484596,
+            12.183396568654638,
+            4.965287550426869,
+            0.0,
+            64.85860888607253
+        ]
+    },
+    "10185": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            26.356556568359032,
+            16.825585826499626,
+            60.18980702120486,
+            2.0408163265306123,
+            -5.412765742594126
+        ]
+    },
+    "10208": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            24.46071017412097,
+            12.92700056917881,
+            96.697431238172,
+            0.0,
+            -34.08514198147177
+        ]
+    },
+    "10245": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            9.765625,
+            0.0,
+            0.0,
+            0.0,
+            90.234375
+        ]
+    },
+    "10257": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.353151004465632,
+            6.769652913643509,
+            80.2372126310811,
+            0.4699738903394256,
+            -2.8299904395296682
+        ]
+    },
+    "10268": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            10.662884237464542,
+            2.9117936386490326,
+            23.174747291005037,
+            0.0,
+            63.25057483288139
+        ]
+    },
+    "10275": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            10.0,
+            20.0,
+            148.3035962652038,
+            0.0,
+            -78.30359626520378
+        ]
+    },
+    "10279": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.8767303285335,
+            3.5318834566440587,
+            59.30562740921888,
+            0.7751937984496124,
+            19.510565007153946
+        ]
+    },
+    "10299": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.683477518083404,
+            7.629768099318035,
+            52.49258522884832,
+            0.0,
+            22.194169153750238
+        ]
+    },
+    "10333": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            32.230547770109276,
+            33.98020476575294,
+            37.471609769051135,
+            0.0,
+            -3.6823623049133505
+        ]
+    },
+    "10361": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.378735340856473,
+            3.5623409669211195,
+            104.61280912971027,
+            0.0,
+            -19.553885437487864
+        ]
+    },
+    "10372": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.754053287004044,
+            13.148821577278824,
+            35.036388742806245,
+            3.0993849604631194,
+            33.96135143244777
+        ]
+    },
+    "10397": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            24.229447255581515,
+            3.145272226586727,
+            33.94106871470228,
+            0.07554379087611095,
+            38.60866801225337
+        ]
+    },
+    "10408": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            30.15658077234548,
+            13.73547767686451,
+            73.52152500027383,
+            0.009292816652727442,
+            -17.422876266136548
+        ]
+    },
+    "10423": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.032491711336668,
+            2.6010911028042445,
+            42.13998021721926,
+            0.29049788511213087,
+            38.9359390835277
+        ]
+    },
+    "10431": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.74956485623333,
+            4.289061843941256,
+            62.62683443640622,
+            0.18585140444831103,
+            13.148687458970882
+        ]
+    },
+    "10434": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.965507401560764,
+            6.957873665715374,
+            15.336413369633602,
+            0.0,
+            55.740205563090264
+        ]
+    },
+    "10466": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            25.086651541160627,
+            4.624799864443822,
+            10.367777019099053,
+            0.7874015748031497,
+            59.13337000049335
+        ]
+    },
+    "10469": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.63907838024407,
+            28.042316581493594,
+            41.91236415397431,
+            0.0,
+            8.406240884288028
+        ]
+    },
+    "10529": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.0724176939885,
+            3.434913236119573,
+            73.78017692983548,
+            0.697272122421823,
+            5.015220017634617
+        ]
+    },
+    "10551": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            3.408399269628728,
+            3.225806451612903,
+            29.498716906274222,
+            27.733678124602218,
+            36.133399247881925
+        ]
+    },
+    "10558": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            15.086206896551724,
+            22.938331005225308,
+            0.0,
+            61.97546209822297
+        ]
+    },
+    "10561": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            23.48685653199024,
+            4.031294452347084,
+            14.04495157865383,
+            0.0,
+            58.43689743700885
+        ]
+    },
+    "10577": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            3.925233644859813,
+            0.0,
+            8.598130841121495,
+            0.0,
+            87.47663551401868
+        ]
+    },
+    "10581": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.941728025225686,
+            3.1207598371777476,
+            102.136071939683,
+            0.0,
+            -22.19855980208643
+        ]
+    },
+    "10599": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.974791421003829,
+            4.043118317428047,
+            44.99750218783985,
+            0.0,
+            36.98458807372828
+        ]
+    },
+    "10617": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            10.767511177347242,
+            0.0,
+            22.9802963920611,
+            0.0,
+            66.25219243059166
+        ]
+    },
+    "10620": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.470885309843933,
+            21.223042803282322,
+            139.0747038084057,
+            0.0,
+            -80.76863192153196
+        ]
+    },
+    "10627": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            28.724663477256122,
+            12.625206629301418,
+            40.08434923975266,
+            1.0204081632653061,
+            17.545372490424494
+        ]
+    },
+    "10631": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            46.715897235263434,
+            17.562748433751725,
+            14.79469068600899,
+            0.0,
+            20.926663644975854
+        ]
+    },
+    "10666": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.578782936315204,
+            13.098722744794758,
+            133.13205862126551,
+            0.0,
+            -64.80956430237545
+        ]
+    },
+    "10676": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            5.792606058688145,
+            1.1857707509881423,
+            16.755285853936766,
+            0.0,
+            76.26633733638695
+        ]
+    },
+    "10685": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.023137767460815,
+            10.078733121722912,
+            81.78920475982481,
+            0.08771929824561404,
+            -5.978794947254145
+        ]
+    },
+    "10693": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.681540371428142,
+            5.242651757959387,
+            38.678231841665784,
+            0.053714684339030344,
+            41.34386134460766
+        ]
+    },
+    "10713": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.272860244866115,
+            9.095687743120305,
+            86.66126394073399,
+            0.04357298474945533,
+            -10.073384913469868
+        ]
+    },
+    "10721": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.65207744201098,
+            5.729534887502513,
+            77.71859765688181,
+            0.13447163179513455,
+            -6.2346816181904385
+        ]
+    },
+    "10728": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.458041697889596,
+            21.250000381326984,
+            8.583774250440916,
+            0.0,
+            55.7081836703425
+        ]
+    },
+    "10731": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            55.59365066914113,
+            28.09438612150686,
+            40.87090886550946,
+            0.0,
+            -24.558945656157448
+        ]
+    },
+    "10732": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.368126365665145,
+            0.43939002326182475,
+            44.03096827118004,
+            0.0,
+            42.161515339892986
+        ]
+    },
+    "10739": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            56.86159974911267,
+            17.032431252070722,
+            1.0123096857790734,
+            0.0,
+            25.09365931303753
+        ]
+    },
+    "10747": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            10.591830579337897,
+            3.783979641859311,
+            18.614904404220642,
+            1.4344262295081966,
+            65.57485914507396
+        ]
+    },
+    "10754": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            34.2716777204618,
+            31.034216474075336,
+            0.8270202020202021,
+            33.86708560344266
+        ]
+    },
+    "10779": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            41.162032127124526,
+            38.423645320197046,
+            26.179084073820913,
+            0.0,
+            -5.764761521142494
+        ]
+    },
+    "10781": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            23.44616768775561,
+            11.280449382420095,
+            48.13546769794577,
+            1.0115569406570575,
+            16.12635829122146
+        ]
+    },
+    "10785": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.38538714614215,
+            4.560021863283766,
+            53.04534794298658,
+            0.0,
+            22.0092430475875
+        ]
+    },
+    "10792": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.255506419438614,
+            7.4810907496984695,
+            84.49227685970637,
+            0.0,
+            -12.228874028843444
+        ]
+    },
+    "10800": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.310927858218234,
+            1.690575665068288,
+            34.94811911967621,
+            0.0,
+            51.05037735703727
+        ]
+    },
+    "10821": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.62822399627725,
+            1.6506224719313454,
+            51.05783435188804,
+            0.14521671755522192,
+            27.518102462348143
+        ]
+    },
+    "10849": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.27116656634307,
+            7.702643218980614,
+            97.07969782318403,
+            0.0,
+            -20.05350760850772
+        ]
+    },
+    "10868": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.40658131998575,
+            3.1357594733968748,
+            13.899135483758492,
+            0.0,
+            66.55852372285888
+        ]
+    },
+    "10874": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            25.732730025856903,
+            5.663171159708726,
+            38.01431432749779,
+            0.0,
+            30.58978448693658
+        ]
+    },
+    "10918": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.70124393843559,
+            52.0,
+            119.92766010157314,
+            0.0,
+            -90.62890404000872
+        ]
+    },
+    "10926": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.9313725490196079,
+            1.707317073170732,
+            17.33329454377716,
+            0.0,
+            80.0280158340325
+        ]
+    },
+    "10980": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.600711011890688,
+            4.634504204341588,
+            48.13842747004341,
+            0.007072135785007073,
+            33.61928517793931
+        ]
+    },
+    "10990": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.803086556287347,
+            8.119159578896433,
+            86.12142967336017,
+            0.22366522366522365,
+            -16.267341032209185
+        ]
+    },
+    "10994": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.54707591976336,
+            1.8178943491828505,
+            26.778352229745565,
+            0.15664887444882802,
+            55.70002862685939
+        ]
+    },
+    "11003": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.764780993427088,
+            13.855278982368942,
+            72.34599599992673,
+            0.0,
+            -3.966055975722754
+        ]
+    },
+    "11013": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            46.83890988147897,
+            19.20787678970584,
+            46.927546563447954,
+            0.0,
+            -12.974333234632763
+        ]
+    },
+    "11027": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            0.0,
+            16.871584699453553,
+            0.0,
+            83.12841530054645
+        ]
+    },
+    "11042": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.861008021461927,
+            4.056760111208198,
+            41.896824877104734,
+            0.0909605873766313,
+            35.094446402848504
+        ]
+    },
+    "11049": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.807684554912935,
+            22.22369461705156,
+            32.171270605851205,
+            0.0,
+            24.797350222184296
+        ]
+    },
+    "11057": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.072866093811363,
+            5.360433276068159,
+            37.36683048424699,
+            0.6356355312524029,
+            37.56423461462109
+        ]
+    },
+    "11066": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.657277656786473,
+            3.247086317091703,
+            49.27477271440423,
+            0.1756697408871322,
+            31.645193570830465
+        ]
+    },
+    "11067": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            9.35661095171261,
+            18.641357776795807,
+            37.87853506182347,
+            0.0,
+            34.12349620966812
+        ]
+    },
+    "11076": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            30.477601390665413,
+            11.576470588235296,
+            122.65136823960353,
+            0.0,
+            -64.70544021850424
+        ]
+    },
+    "11092": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            24.822695035460992,
+            0.0,
+            0.0,
+            0.0,
+            75.177304964539
+        ]
+    },
+    "11097": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            5.314683298873022,
+            0.0,
+            2.659532939906772,
+            0.0,
+            92.02578376122021
+        ]
+    },
+    "11109": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.192791665914086,
+            2.125760357052874,
+            45.54984569855188,
+            0.0,
+            34.13160227848116
+        ]
+    },
+    "11111": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.172811141768648,
+            16.62629735776022,
+            15.625527913289464,
+            0.0,
+            54.57536358718166
+        ]
+    },
+    "11122": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.92360402376517,
+            3.108042635658914,
+            24.494379191875144,
+            0.0,
+            52.473974148700776
+        ]
+    },
+    "11140": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.217542310584603,
+            8.68403178938706,
+            69.0057318189928,
+            0.0,
+            8.092694081035537
+        ]
+    },
+    "11146": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            27.612035257898242,
+            16.91081737982944,
+            32.092489003551115,
+            0.5539772727272727,
+            22.830681085993927
+        ]
+    },
+    "11150": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            57.68496854863182,
+            12.083333333333334,
+            233.2941775103085,
+            0.0,
+            -203.06247939227364
+        ]
+    },
+    "11193": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.722010541590663,
+            5.251904062090086,
+            59.571357271007095,
+            0.0,
+            17.45472812531215
+        ]
+    },
+    "11203": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.8467872810068,
+            11.549503267187124,
+            10.25118508663821,
+            0.0,
+            58.35252436516787
+        ]
+    },
+    "11233": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.11744236451635,
+            0.0,
+            0.0,
+            0.0,
+            80.88255763548365
+        ]
+    },
+    "11252": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.368263965388966,
+            3.2992801413854043,
+            7.47666267117068,
+            0.0,
+            75.85579322205494
+        ]
+    },
+    "11259": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.97553988890288,
+            0.5212113033975317,
+            26.962490541972564,
+            0.10549762569148675,
+            58.43526064003554
+        ]
+    },
+    "11267": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.224988418942697,
+            6.924545364896748,
+            40.12683027074653,
+            0.0,
+            31.723635945414024
+        ]
+    },
+    "11278": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.704497665790527,
+            7.145456904375496,
+            50.20951244244834,
+            0.1223411810274414,
+            25.818191806358186
+        ]
+    },
+    "11283": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            10.0,
+            19.672131147540984,
+            335.2287581699346,
+            0.0,
+            -264.9008893174756
+        ]
+    },
+    "11288": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.826086956521738,
+            0.0,
+            3.6024075637426294,
+            0.0,
+            81.57150547973563
+        ]
+    },
+    "11292": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.016431214080292,
+            1.8835239654623512,
+            30.756956433899745,
+            0.671011422518898,
+            45.672076964038716
+        ]
+    },
+    "11298": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.780887399233194,
+            6.6813557771044465,
+            47.051694326913406,
+            0.11310640699402567,
+            25.372956089754926
+        ]
+    },
+    "11308": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.9330900243309,
+            10.982905982905983,
+            197.76042686193716,
+            0.0,
+            -123.67642286917405
+        ]
+    },
+    "11315": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            24.14140484372443,
+            11.884615384615385,
+            11.25,
+            0.0,
+            52.72397977166018
+        ]
+    },
+    "11336": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            9.676483077645868,
+            7.242926155969634,
+            45.618096402849766,
+            7.142857142857143,
+            30.319637220677585
+        ]
+    },
+    "11337": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            30.412790652445366,
+            16.9031624271162,
+            9.462981349129574,
+            0.0,
+            43.22106557130886
+        ]
+    },
+    "11413": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            24.98398368923785,
+            8.953168044077135,
+            93.3349868717555,
+            0.0,
+            -27.27213860507048
+        ]
+    },
+    "11423": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            26.03855228093471,
+            10.300304742824892,
+            55.04256269633519,
+            0.8130081300813008,
+            7.805572149823908
+        ]
+    },
+    "11433": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            27.37706701970318,
+            10.892418007460002,
+            78.38496834864851,
+            0.0737798790316644,
+            -16.728233254843357
+        ]
+    },
+    "11447": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.513859275053305,
+            11.940298507462686,
+            0.0,
+            0.0,
+            76.54584221748402
+        ]
+    },
+    "11470": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            1.8412162162162162,
+            17.30769230769231,
+            58.7473272399743,
+            0.0,
+            22.10376423611718
+        ]
+    },
+    "11481": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.24713846574055,
+            3.0451650295662196,
+            17.45230101132228,
+            0.0,
+            66.25539549337095
+        ]
+    },
+    "11503": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            24.883933449390124,
+            3.511092550974956,
+            48.761333566274985,
+            0.0,
+            22.843640433359937
+        ]
+    },
+    "11525": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            61.47540983606558,
+            33.333333333333336,
+            50.88122605363984,
+            0.0,
+            -45.68996922303876
+        ]
+    },
+    "11537": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            46.99552412589102,
+            15.051780010301355,
+            3.171121499539103,
+            0.0,
+            34.781574364268515
+        ]
+    },
+    "11540": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.189653940425814,
+            2.0953395045734298,
+            14.96570358364647,
+            0.0,
+            67.74930297135428
+        ]
+    },
+    "11577": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            45.49413171862152,
+            2.3809523809523805,
+            115.71028932363336,
+            0.0,
+            -63.585373423207265
+        ]
+    },
+    "11587": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            60.038857500019525,
+            10.0,
+            31.077256077256077,
+            0.0,
+            -1.1161135772756068
+        ]
+    },
+    "11603": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.49247838948903,
+            7.579845949594079,
+            35.65426497423529,
+            0.4132231404958678,
+            37.860187546185735
+        ]
+    },
+    "11612": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.243571433552447,
+            5.819981838889402,
+            33.386345333988075,
+            0.0,
+            42.550101393570074
+        ]
+    },
+    "11617": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            0.0,
+            18.934531450577662,
+            0.0,
+            81.06546854942233
+        ]
+    },
+    "11618": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.18315137226315,
+            1.8782527405105691,
+            49.85655624623844,
+            0.06094736202268107,
+            29.02109227896516
+        ]
+    },
+    "11624": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.258610411164524,
+            1.711327466026889,
+            28.158462234668228,
+            2.245625386476268,
+            53.62597450166409
+        ]
+    },
+    "11630": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            9.200630407487667,
+            4.9026382136872915,
+            56.2679589716994,
+            0.0,
+            29.62877240712564
+        ]
+    },
+    "11637": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.797117273827348,
+            7.133709316411661,
+            50.21734510861382,
+            0.5012531328320802,
+            26.350575168315093
+        ]
+    },
+    "11638": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.658175306581555,
+            5.002404649810907,
+            21.55638550956935,
+            0.7143077540189453,
+            55.06872678001925
+        ]
+    },
+    "11641": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.040736286330322,
+            18.25566014682023,
+            24.694891827887766,
+            0.07765482430596,
+            40.93105691465573
+        ]
+    },
+    "11648": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.044843042067566,
+            15.835461880200917,
+            41.218481925768494,
+            0.8592592592592593,
+            22.041953892703766
+        ]
+    },
+    "11695": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            39.0694325934049,
+            25.0,
+            64.77760269526817,
+            0.0,
+            -28.847035288673066
+        ]
+    },
+    "11697": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.65085665382249,
+            0.7273056703808038,
+            39.84123091349841,
+            1.1874243213102023,
+            37.593182440988095
+        ]
+    },
+    "11699": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            2.647754137115839,
+            16.91056910569106,
+            1.4634146341463414,
+            0.0,
+            78.97826212304676
+        ]
+    },
+    "11721": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.056662878469606,
+            7.668323775266664,
+            70.21776501502102,
+            0.0,
+            0.05724833124271362
+        ]
+    },
+    "11725": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.357287449392715,
+            4.7368421052631575,
+            67.10526315789474,
+            0.0,
+            8.800607287449392
+        ]
+    },
+    "11775": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.06177073016126,
+            16.825173091669797,
+            84.55683376700716,
+            0.3875968992248062,
+            -20.831374488063027
+        ]
+    },
+    "11778": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            24.602464913004823,
+            22.467932094858106,
+            67.37048761083649,
+            0.0,
+            -14.440884618699414
+        ]
+    },
+    "11823": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            23.686171281173436,
+            9.254397169850751,
+            42.62077064103251,
+            0.0,
+            24.438660907943305
+        ]
+    },
+    "11865": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            36.36363636363637,
+            26.623376623376625,
+            82.14966024065899,
+            0.0,
+            -45.136673227671984
+        ]
+    },
+    "11867": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            47.196198826633605,
+            24.81156056587091,
+            27.315801444549095,
+            0.0,
+            0.6764391629463825
+        ]
+    },
+    "11884": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.982792119606838,
+            9.51070993745288,
+            53.24726595867679,
+            0.12803608605135322,
+            21.131195898212134
+        ]
+    },
+    "11898": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            29.614378937640865,
+            7.747417323797298,
+            40.64543655803859,
+            0.0,
+            21.99276718052325
+        ]
+    },
+    "11905": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            30.492030492030494,
+            44.871794871794876,
+            75.19205117944614,
+            0.0,
+            -50.55587654327151
+        ]
+    },
+    "11921": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.104820487451533,
+            5.7215123268693455,
+            13.65457599106714,
+            0.0,
+            60.51909119461199
+        ]
+    },
+    "11953": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.34866692813267,
+            1.1317602181554516,
+            4.32598843116356,
+            0.0,
+            79.19358442254831
+        ]
+    },
+    "11973": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            10.774941733652145,
+            13.568947129759282,
+            20.882573167415835,
+            0.0,
+            54.773537969172736
+        ]
+    },
+    "11977": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            27.599563638346773,
+            10.44922555308826,
+            94.98174575024503,
+            0.0,
+            -33.03053494168006
+        ]
+    },
+    "11980": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            46.571970510083354,
+            10.685714285714285,
+            208.0637893673235,
+            0.0,
+            -165.3214741631211
+        ]
+    },
+    "11982": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            30.737527703557156,
+            12.591431677406,
+            15.29013770054064,
+            0.0,
+            41.380902918496204
+        ]
+    },
+    "11986": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.105121461932374,
+            15.814692640838889,
+            107.63590981537004,
+            0.1697792869269949,
+            -43.7255032050683
+        ]
+    },
+    "11995": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.67382507554259,
+            1.4598065640763478,
+            42.38014398891343,
+            0.0,
+            36.486224371467635
+        ]
+    },
+    "11996": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.219313078145213,
+            4.428820157244591,
+            15.288023729455741,
+            0.23217247097844115,
+            62.831670564176015
+        ]
+    },
+    "12003": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.330908071926473,
+            21.09867498090332,
+            26.5608561592322,
+            1.6129032258064515,
+            34.39665756213156
+        ]
+    },
+    "12007": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            5.547337278106509,
+            7.6923076923076925,
+            12.336836700354066,
+            0.0,
+            74.42351832923174
+        ]
+    },
+    "12012": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.024368722517902,
+            6.330069359445124,
+            5.727376140669312,
+            1.9724042979856933,
+            74.94578147938196
+        ]
+    },
+    "12016": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.36460865337870685,
+            0.0,
+            0.0,
+            0.0,
+            99.63539134662129
+        ]
+    },
+    "12094": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.999696487532571,
+            3.789102242140916,
+            76.71416896213114,
+            0.0,
+            5.497032308195381
+        ]
+    },
+    "12119": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            37.8688637617209,
+            3.2967032967032965,
+            35.128205128205124,
+            0.0,
+            23.706227813370674
+        ]
+    },
+    "12124": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            5.913384860753282,
+            6.5774804905239685,
+            150.76350994543216,
+            0.0,
+            -63.2543752967094
+        ]
+    },
+    "12129": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            41.31726956182568,
+            15.384615384615385,
+            10.464535464535466,
+            0.0,
+            32.83357958902347
+        ]
+    },
+    "12156": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            31.2281740042063,
+            14.51867816091954,
+            50.0437154355542,
+            0.0,
+            4.20943239931997
+        ]
+    },
+    "12173": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.437122766732028,
+            3.1345555839790995,
+            5.36670415635733,
+            0.07144024106883531,
+            69.99017725186272
+        ]
+    },
+    "12177": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            43.910335155613105,
+            10.777157578359812,
+            7.7502091083805755,
+            0.0,
+            37.56229815764651
+        ]
+    },
+    "12191": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.26973580192492,
+            1.666781850850532,
+            35.83658378618455,
+            0.2017422621528759,
+            48.025156298887126
+        ]
+    },
+    "12197": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.429621464982926,
+            7.155681194245305,
+            50.10286489679044,
+            0.13730933825636402,
+            20.17452310572497
+        ]
+    },
+    "12206": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.842766714591765,
+            3.8381968322444173,
+            14.813126644724528,
+            0.0,
+            68.50590980843928
+        ]
+    },
+    "12217": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.057917686215088,
+            7.627863795389897,
+            23.56448116783943,
+            0.0,
+            48.74973735055559
+        ]
+    },
+    "12223": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.719380806459458,
+            4.545454545454546,
+            34.87639946260636,
+            0.0,
+            44.85876518547963
+        ]
+    },
+    "12255": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            5.357142857142858,
+            5.484558040468583,
+            8.849445671246038,
+            0.0,
+            80.30885343114252
+        ]
+    },
+    "12264": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.94499150609351,
+            6.312415506546159,
+            98.15272606151079,
+            0.06336377982879823,
+            -27.47349685397927
+        ]
+    },
+    "12265": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            36.67616535383416,
+            12.5,
+            157.3148185185362,
+            0.0,
+            -106.49098387237036
+        ]
+    },
+    "12266": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.597732641311637,
+            2.9348409908446658,
+            40.67402518549412,
+            0.02803213072206683,
+            35.76536905162751
+        ]
+    },
+    "12278": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.313766171692823,
+            6.300333383775082,
+            61.727664642597844,
+            0.0,
+            12.658235801934248
+        ]
+    },
+    "12280": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.67360929558561,
+            15.763541064362398,
+            32.034937933975115,
+            0.0,
+            37.52791170607687
+        ]
+    },
+    "12323": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.282537082587837,
+            6.934609826727502,
+            18.95099255990088,
+            0.0,
+            61.831860530783786
+        ]
+    },
+    "12335": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            48.74411519873959,
+            31.176339033035337,
+            14.96510060733104,
+            0.0,
+            5.114445160894027
+        ]
+    },
+    "12339": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.950027492987097,
+            2.729886819742064,
+            69.8504488268345,
+            0.08116883116883117,
+            9.388468029267516
+        ]
+    },
+    "12343": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            40.32458202716823,
+            9.722222222222223,
+            0.0,
+            0.0,
+            49.95319575060954
+        ]
+    },
+    "12391": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.629036552102828,
+            1.718918918918919,
+            40.94527008660195,
+            0.34873583260680036,
+            45.358038609769494
+        ]
+    },
+    "12397": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            5.147502090504249,
+            15.269758993564576,
+            29.313459801264678,
+            0.0,
+            50.26927911466649
+        ]
+    },
+    "12402": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.54680777100464,
+            14.131221593376127,
+            30.128836993339664,
+            6.438773024124882,
+            35.754360618154685
+        ]
+    },
+    "12441": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.58823098786149,
+            3.3550708510157525,
+            43.69469295780522,
+            0.0,
+            35.36200520331753
+        ]
+    },
+    "12448": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.794905511367558,
+            7.661977554418604,
+            47.13433346929265,
+            0.02884171665897554,
+            32.379941748262205
+        ]
+    },
+    "12451": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.184470529282287,
+            2.8253379284778974,
+            17.951388925154866,
+            0.0,
+            66.03880261708495
+        ]
+    },
+    "12478": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            26.76906881022004,
+            2.763918831164331,
+            67.48374749716508,
+            0.13638821356005884,
+            2.8468766478904826
+        ]
+    },
+    "12511": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            75.23199265997758,
+            0.0,
+            6.946477047121268,
+            0.0,
+            17.82153029290115
+        ]
+    },
+    "12519": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    "12523": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.158913068629463,
+            11.535934873053977,
+            94.61684554731472,
+            0.0,
+            -28.311693488998163
+        ]
+    },
+    "12544": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.104550200415025,
+            0.0,
+            4.86429512516469,
+            0.0,
+            83.03115467442029
+        ]
+    },
+    "12559": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.964135021097047,
+            3.2,
+            8.302975811760298,
+            0.0,
+            70.53288916714266
+        ]
+    },
+    "12758": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.864711807397345,
+            20.412118943616942,
+            29.27760955498483,
+            0.0,
+            31.44555969400088
+        ]
+    },
+    "12819": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            6.457097597964471,
+            3.2233009708737868,
+            44.34735102036525,
+            0.0,
+            45.97225041079649
+        ]
+    },
+    "12884": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            30.040281056683195,
+            8.618317341992613,
+            38.248595059949686,
+            0.0,
+            23.092806541374504
+        ]
+    },
+    "12888": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            0.0,
+            29.535749751737836,
+            20.0,
+            50.46425024826216
+        ]
+    },
+    "12889": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.257647651433317,
+            0.6021334480224633,
+            32.39647487847232,
+            0.036243980434899306,
+            50.707500041637
+        ]
+    },
+    "12891": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            31.963779999582364,
+            29.75599295219548,
+            6.513258187890541,
+            0.0,
+            31.76696886033161
+        ]
+    },
+    "12892": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.48333881911585,
+            1.8015088547911178,
+            52.077642942145104,
+            0.32041978567417695,
+            23.317089598273753
+        ]
+    },
+    "12896": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.426102294853544,
+            9.644177235574576,
+            17.26672035452053,
+            0.0,
+            61.66300011505135
+        ]
+    },
+    "12898": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            1.8214936247723132,
+            9.15032679738562,
+            8.105646630236794,
+            0.0,
+            80.92253294760528
+        ]
+    },
+    "12899": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.12996031746032,
+            0.0,
+            3.635828188384404,
+            0.0,
+            78.23421149415528
+        ]
+    },
+    "12902": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            50.0,
+            0.0,
+            15.384615384615385,
+            0.0,
+            34.61538461538461
+        ]
+    },
+    "12915": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.5557951138286,
+            16.186368778280542,
+            12.996126651816512,
+            0.0,
+            51.26170945607434
+        ]
+    },
+    "12917": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.42077332605283,
+            7.720227331438904,
+            16.57681724823075,
+            0.0,
+            63.282182094277516
+        ]
+    },
+    "12945": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            24.792279660872563,
+            7.229789091938889,
+            59.87858300939032,
+            0.036081544290095614,
+            8.063266693508131
+        ]
+    },
+    "12951": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            10.729192101219388,
+            15.627698701575504,
+            17.45649464632474,
+            0.2729044834307992,
+            55.91371006744957
+        ]
+    },
+    "12953": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.293527065320607,
+            2.8121870861770994,
+            50.29573205900038,
+            0.17658606271335564,
+            27.42196772678856
+        ]
+    },
+    "12954": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.632716646660777,
+            1.1113417170869193,
+            29.401912933990722,
+            0.0,
+            54.85402870226158
+        ]
+    },
+    "12982": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.408895491854636,
+            34.17660642954113,
+            32.93472853631281,
+            0.0,
+            18.479769542291415
+        ]
+    },
+    "12992": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.44671388865032,
+            10.464093592103982,
+            48.36210504083428,
+            0.0,
+            24.72708747841142
+        ]
+    },
+    "13029": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            25.776799270961074,
+            5.21078431372549,
+            170.42242847928833,
+            0.0,
+            -101.41001206397489
+        ]
+    },
+    "13061": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.240767921214612,
+            4.073649000466167,
+            17.094561388395533,
+            0.0,
+            66.59102168992368
+        ]
+    },
+    "13076": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            8.098913783407818,
+            4.0,
+            14.32121583893673,
+            0.0,
+            73.57987037765545
+        ]
+    },
+    "13127": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            37.26810691515801,
+            5.388257575757576,
+            29.446325009218377,
+            2.9733009708737863,
+            24.92400952899225
+        ]
+    },
+    "13139": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            11.537679250496915,
+            50.62758086983439,
+            0.0,
+            37.834739879668696
+        ]
+    },
+    "13158": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.813281339822938,
+            6.282625685798426,
+            15.216315929023168,
+            0.44730721059223477,
+            64.24046983476323
+        ]
+    },
+    "13184": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            37.27779776322524,
+            21.697848587963442,
+            79.97469830737973,
+            0.0,
+            -38.950344658568405
+        ]
+    },
+    "13198": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.92738339224733,
+            3.78390450341198,
+            79.2468011186681,
+            0.09901346583135306,
+            -5.057102480158767
+        ]
+    },
+    "13204": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.607213717726122,
+            1.2884925395898585,
+            39.4503921987272,
+            0.38411054555998003,
+            40.26979099839685
+        ]
+    },
+    "13211": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            5.226734656710981,
+            13.515605388670403,
+            28.318077803203664,
+            0.0,
+            52.93958215141495
+        ]
+    },
+    "13230": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.415398828844307,
+            6.557169771256224,
+            62.303310635430584,
+            0.0,
+            11.724120764468882
+        ]
+    },
+    "13232": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.257573513853046,
+            1.1262133866019193,
+            50.33373115244295,
+            0.0554374919411067,
+            29.227044455160975
+        ]
+    },
+    "13241": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            10.858299595141698,
+            0.0,
+            0.0,
+            0.0,
+            89.14170040485831
+        ]
+    },
+    "13244": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.74382385544716,
+            7.705514515346571,
+            98.87672671294597,
+            0.03436426116838488,
+            -25.360429344908095
+        ]
+    },
+    "13256": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            10.8394443496838,
+            3.915073310877749,
+            16.54307739737322,
+            2.438475390156062,
+            66.26392955190917
+        ]
+    },
+    "13264": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            23.455741142820013,
+            7.049956586969084,
+            11.246447573128577,
+            0.0,
+            58.24785469708232
+        ]
+    },
+    "13277": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.244642138358255,
+            9.169150725503766,
+            21.598321954343763,
+            0.0,
+            51.98788518179422
+        ]
+    },
+    "13290": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            9.236487247221438,
+            6.24041625660255,
+            18.066166494620603,
+            0.0,
+            66.4569300015554
+        ]
+    },
+    "13296": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.945254998487764,
+            2.404976813375375,
+            54.1523872823555,
+            0.0,
+            31.497380905781355
+        ]
+    },
+    "13303": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.00994027929102,
+            1.2514142119385332,
+            51.183187568876214,
+            0.2880200110271368,
+            25.267437928867093
+        ]
+    },
+    "13342": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.67238226441657,
+            8.699953570096781,
+            89.23630494754894,
+            0.0,
+            -17.608640782062285
+        ]
+    },
+    "13360": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.70978271948441,
+            2.7949907568555092,
+            7.944067017796654,
+            0.0,
+            77.55115950586344
+        ]
+    },
+    "13367": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.926694414340208,
+            18.346004122660784,
+            91.98626732041862,
+            0.15749271596188677,
+            -27.416458573381497
+        ]
+    },
+    "13377": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            27.148378767798533,
+            6.323529411764706,
+            123.93713680830564,
+            0.0,
+            -57.40904498786887
+        ]
+    },
+    "13422": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.55914354885101,
+            10.53171180681158,
+            38.286331317265095,
+            0.0,
+            39.622813327072315
+        ]
+    },
+    "13433": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            25.60096957336876,
+            16.091725475701416,
+            39.399343343463215,
+            1.36986301369863,
+            17.538098593767984
+        ]
+    },
+    "13459": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.578768956289027,
+            13.36554117656389,
+            10.752499209846007,
+            0.0,
+            60.30319065730108
+        ]
+    },
+    "13476": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.57053775414168,
+            0.683142455294354,
+            28.006827380918896,
+            0.0,
+            53.739492409645074
+        ]
+    },
+    "13485": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            30.01922087239732,
+            8.617352204628553,
+            81.22520456905832,
+            0.7037170696499458,
+            -20.565494715734133
+        ]
+    },
+    "13486": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.477030760613761,
+            16.587590325074746,
+            49.796829393122856,
+            0.1370632513200764,
+            19.00148626986856
+        ]
+    },
+    "13487": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            24.63874837763325,
+            5.17219345162987,
+            51.02578565590397,
+            0.0,
+            19.163272514832908
+        ]
+    },
+    "13495": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.876422129459757,
+            2.092861982446355,
+            45.109533148725866,
+            0.004932304125872401,
+            38.91625043524215
+        ]
+    },
+    "13502": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            9.840007360072633,
+            1.275260473761591,
+            33.03790439342274,
+            0.15154275996112732,
+            55.69528501278191
+        ]
+    },
+    "13577": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            7.492642258963231,
+            3.232197528144538,
+            14.559037118836006,
+            0.0,
+            74.71612309405623
+        ]
+    },
+    "13795": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            8.951123001032098,
+            7.442964248199665,
+            25.708217538984094,
+            0.0,
+            57.89769521178414
+        ]
+    },
+    "13796": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.514557242820178,
+            0.6306004401086772,
+            26.56160111932372,
+            0.0691085003455425,
+            58.224132697401885
+        ]
+    },
+    "13830": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.118669492589643,
+            9.404372612725178,
+            19.985737566876363,
+            0.024675264211555473,
+            48.46654506359726
+        ]
+    },
+    "13851": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.030391138012966,
+            5.946808202158018,
+            92.7568019650634,
+            0.0,
+            -16.734001305234386
+        ]
+    },
+    "13871": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.979504559244813,
+            9.604049781874117,
+            71.94630938622937,
+            0.0,
+            -2.529863727348298
+        ]
+    },
+    "13873": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            5.0,
+            3.4561403508771926,
+            11.236868327526558,
+            0.0,
+            80.30699132159626
+        ]
+    },
+    "13891": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.007716360772667,
+            3.8299838092500247,
+            13.484111024493796,
+            0.13883465660115404,
+            70.53935414888235
+        ]
+    },
+    "13930": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.40123187623919,
+            9.746387957060044,
+            64.61174488166454,
+            0.0705803569657788,
+            5.170054928070457
+        ]
+    },
+    "13931": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.329079955393064,
+            1.179009367222046,
+            33.8021107117321,
+            0.0,
+            50.68979996565279
+        ]
+    },
+    "13933": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.857331233396156,
+            2.9411764705882355,
+            99.29552632087814,
+            0.0,
+            -24.094034024862538
+        ]
+    },
+    "13964": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.285714285714286,
+            14.08016443987667,
+            0.0,
+            0.0,
+            71.63412127440904
+        ]
+    },
+    "13970": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            1.364365971107544,
+            6.069094304388422,
+            27.679074339763,
+            0.0,
+            64.88746538474103
+        ]
+    },
+    "14004": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.39905352920816,
+            4.450113378684807,
+            65.8446173109913,
+            0.0,
+            13.306215781115736
+        ]
+    },
+    "14025": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            2.136752136752137,
+            14.627039627039627,
+            21.562226447910835,
+            0.0,
+            61.67398178829741
+        ]
+    },
+    "14027": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.94605243132606,
+            0.8477541875175277,
+            33.408018169733495,
+            0.1380338280085542,
+            50.66014138341437
+        ]
+    },
+    "14057": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.334645011020804,
+            8.66257224047142,
+            43.43289526711038,
+            0.05211556581419595,
+            25.517771915583204
+        ]
+    },
+    "14082": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.89495267186845,
+            4.739002439523551,
+            4.254474509298599,
+            0.0,
+            74.1115703793094
+        ]
+    },
+    "14092": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.668619520609052,
+            0.0,
+            28.455431252255504,
+            0.0,
+            53.87594922713545
+        ]
+    },
+    "14098": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.541706624060506,
+            5.8999999999999995,
+            0.25,
+            0.0,
+            72.3082933759395
+        ]
+    },
+    "14100": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.6266245809839,
+            6.16446330012389,
+            94.21401398710107,
+            0.13316749809507236,
+            -21.13826936630393
+        ]
+    },
+    "14107": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.713342912080613,
+            0.7406832981689813,
+            31.9376654149678,
+            0.0967333433965534,
+            49.51157503138606
+        ]
+    },
+    "14108": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.24534737974681,
+            18.27232262582984,
+            30.67654811999948,
+            0.0,
+            34.805781874423865
+        ]
+    },
+    "14109": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.902297150744355,
+            0.0,
+            0.0,
+            0.0,
+            88.09770284925564
+        ]
+    },
+    "14112": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.91963323497442,
+            4.619224848878277,
+            22.236786131397537,
+            0.0,
+            59.22435578474976
+        ]
+    },
+    "14113": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            66.50246305418719,
+            575.5990137155186,
+            0.0,
+            -542.1014767697058
+        ]
+    },
+    "14122": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.596807014740337,
+            2.8759784498020156,
+            92.41925752987558,
+            0.0,
+            -8.892042994417935
+        ]
+    },
+    "14150": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            41.269768777076045,
+            33.38816229946849,
+            1.5544203850055567,
+            0.0,
+            23.787648538449904
+        ]
+    },
+    "14193": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.630954263937218,
+            3.6672158553811633,
+            28.910784626845718,
+            0.0,
+            54.7910452538359
+        ]
+    },
+    "14222": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            8.707264957264957,
+            0.0,
+            0.0,
+            0.0,
+            91.29273504273505
+        ]
+    },
+    "14231": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.37599909496072,
+            0.0,
+            18.41966173361522,
+            0.0,
+            69.20433917142405
+        ]
+    },
+    "14237": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.54491135454876,
+            12.5,
+            5.223607038123167,
+            0.0,
+            64.73148160732808
+        ]
+    },
+    "14252": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.992770662781062,
+            24.855181796310568,
+            49.26626183949258,
+            0.0,
+            7.885785701415794
+        ]
+    },
+    "14254": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            29.054230564293643,
+            0.0,
+            42.78137872714212,
+            0.0,
+            28.16439070856424
+        ]
+    },
+    "14256": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            8.991894630192501,
+            7.065217391304347,
+            23.845437648578486,
+            0.0,
+            60.09745032992466
+        ]
+    },
+    "14259": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.804036543166978,
+            9.090909090909092,
+            13.053213870698675,
+            0.0,
+            63.051840495225264
+        ]
+    },
+    "14262": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.9349118544393,
+            2.5274142504834787,
+            43.23652371245923,
+            0.0,
+            39.30115018261799
+        ]
+    },
+    "14303": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.188180397602956,
+            12.783333333333335,
+            131.93308112538344,
+            2.5,
+            -65.40459485631972
+        ]
+    },
+    "14307": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.371557759743178,
+            2.7111338391164748,
+            80.23863968655002,
+            0.010850694444444442,
+            3.667818020145884
+        ]
+    },
+    "14314": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            24.52139294791509,
+            12.63460949429374,
+            46.30308376157743,
+            0.0,
+            16.540913796213736
+        ]
+    },
+    "14321": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.016560219100281,
+            6.472372338341814,
+            49.18175261283855,
+            0.0,
+            30.329314829719355
+        ]
+    },
+    "14457": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.96040120788164,
+            15.153854296079222,
+            20.161522478436886,
+            0.0,
+            44.724222017602244
+        ]
+    },
+    "14487": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            10.526315789473685,
+            0.0,
+            0.8880117247795107,
+            0.0,
+            88.5856724857468
+        ]
+    },
+    "14489": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.026797014083446,
+            24.497045529401245,
+            37.97247488619365,
+            2.1424861495844874,
+            19.361196420737176
+        ]
+    },
+    "14492": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.578065313035086,
+            1.0440919095110857,
+            56.39888009809212,
+            0.05829545886605653,
+            24.920667220495652
+        ]
+    },
+    "14512": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.940664556962025,
+            5.3125,
+            35.7682555780933,
+            0.0,
+            43.97857986494467
+        ]
+    },
+    "14520": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.21559205430173,
+            12.444444444444446,
+            17.777777777777775,
+            0.0,
+            48.56218572347605
+        ]
+    },
+    "14524": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.13293103664999,
+            3.1659973612746404,
+            56.996064739411,
+            0.4563093117461968,
+            19.24869755091818
+        ]
+    },
+    "14534": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            39.03903903903904,
+            0.0,
+            320.0,
+            0.0,
+            -259.03903903903904
+        ]
+    },
+    "14543": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.0,
+            0.0,
+            108.88888888888889,
+            0.0,
+            -28.888888888888893
+        ]
+    },
+    "14570": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.959185045122805,
+            4.646941420938386,
+            22.85622178718337,
+            0.0,
+            60.53765174675544
+        ]
+    },
+    "14574": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.718094053331775,
+            3.9273949712957354,
+            83.53006224484989,
+            0.0,
+            -9.175551269477397
+        ]
+    },
+    "14576": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.245906931561873,
+            3.3369170447084655,
+            73.46823208183102,
+            0.2364066193853428,
+            4.712537322513296
+        ]
+    },
+    "14588": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            59.063859773411814,
+            5.895748987854251,
+            29.82360184177607,
+            0.0,
+            5.216789396957866
+        ]
+    },
+    "14633": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.0082014627985,
+            5.303318684842783,
+            16.993337611684122,
+            0.0,
+            63.6951422406746
+        ]
+    },
+    "14635": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.909769488954682,
+            1.1246167454267137,
+            34.389519498195575,
+            0.0,
+            52.576094267423024
+        ]
+    },
+    "14674": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.699123330810727,
+            18.22222222222222,
+            56.695697820058385,
+            0.0,
+            9.38295662690866
+        ]
+    },
+    "14679": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.27948152074191,
+            2.090899836492903,
+            38.45129973423652,
+            0.2939181182670962,
+            44.88440079026157
+        ]
+    },
+    "14683": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.977911844160827,
+            1.9000997684715792,
+            49.59869263587631,
+            0.10849909584086799,
+            35.41479665565042
+        ]
+    },
+    "14685": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.505431338209442,
+            2.4405868197399436,
+            21.588851085154623,
+            0.04440004440004439,
+            61.420730712495946
+        ]
+    },
+    "14689": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            9.062568573960087,
+            3.6421375243720187,
+            30.287795194493842,
+            0.6896551724137931,
+            56.31784353476025
+        ]
+    },
+    "14696": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            29.535813608971356,
+            19.06973116553747,
+            55.622016384169335,
+            0.0,
+            -4.227561158678164
+        ]
+    },
+    "14698": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            23.399935991237108,
+            1.8568840579710146,
+            27.1560889914742,
+            0.0,
+            47.58709095931768
+        ]
+    },
+    "14704": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.284673659673658,
+            0.0,
+            27.160401285967797,
+            0.0,
+            54.55492505435854
+        ]
+    },
+    "14709": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            0.0,
+            3.7053556678891204,
+            0.0,
+            96.29464433211088
+        ]
+    },
+    "14711": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.514790246739494,
+            4.262051653130537,
+            108.26981098795768,
+            0.0,
+            -31.046652887827715
+        ]
+    },
+    "14716": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            4.822954822954823,
+            1.9047619047619047,
+            43.782102487459625,
+            4.35374149659864,
+            45.136439288225006
+        ]
+    },
+    "14730": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            23.93676075054072,
+            5.25088663436538,
+            53.093178348215574,
+            0.0,
+            17.719174266878326
+        ]
+    },
+    "14747": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.8146160341127,
+            4.051407860165949,
+            35.372416917403484,
+            0.27937458148678884,
+            41.482184606831076
+        ]
+    },
+    "14761": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            23.076508689803152,
+            11.682440510732672,
+            15.469998384223915,
+            0.0,
+            49.77105241524026
+        ]
+    },
+    "14771": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.880547710088077,
+            1.2629250652439783,
+            39.42526425307084,
+            0.01834795053392536,
+            41.41291502106318
+        ]
+    },
+    "14783": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.63781088118868,
+            14.515985896385331,
+            54.158831174796916,
+            0.0,
+            12.68737204762907
+        ]
+    },
+    "14794": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            29.119913444107947,
+            11.56057661159702,
+            28.634403979015506,
+            0.0,
+            30.68510596527953
+        ]
+    },
+    "14812": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            26.044808061130478,
+            7.142857142857143,
+            41.473214285714285,
+            7.142857142857143,
+            18.196263367440952
+        ]
+    },
+    "14814": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.36324215749454,
+            4.46432383173006,
+            20.202257892871593,
+            0.0,
+            59.970176117903804
+        ]
+    },
+    "14828": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.336917562724015,
+            0.0,
+            19.344765656662386,
+            0.0,
+            66.3183167806136
+        ]
+    },
+    "14831": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.452688093441873,
+            0.7905851259658342,
+            24.695725505290042,
+            0.05804793100588771,
+            60.002953344296365
+        ]
+    },
+    "14842": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            5.944049879212579,
+            29.560061851859533,
+            16.09554946299172,
+            3.5714285714285716,
+            44.828910234507596
+        ]
+    },
+    "14843": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.029378148416345,
+            0.25533303307539956,
+            34.65416895691927,
+            0.22567356181290874,
+            42.83544629977607
+        ]
+    },
+    "14869": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            24.047748659934605,
+            6.023619710572714,
+            57.14379929451376,
+            0.12941048731862256,
+            12.6554218476603
+        ]
+    },
+    "14877": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            5.878496503496503,
+            9.166053017803183,
+            0.0,
+            84.95545047870031
+        ]
+    },
+    "14893": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.618367926111528,
+            1.1809730438636319,
+            16.180935113834035,
+            0.09582049306625579,
+            63.92390342312455
+        ]
+    },
+    "14905": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            33.134283918351144,
+            0.0,
+            0.0,
+            0.0,
+            66.86571608164886
+        ]
+    },
+    "14908": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.214745489005166,
+            1.2069914497110859,
+            25.60625148806844,
+            0.09832828450404409,
+            60.87368328871126
+        ]
+    },
+    "14952": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            6.719795205368928,
+            5.6576365614481325,
+            7.678632185247373,
+            0.0,
+            79.94393604793557
+        ]
+    },
+    "14955": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            48.275862068965516,
+            0.0,
+            0.0,
+            0.0,
+            51.724137931034484
+        ]
+    },
+    "14960": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            31.198203715043885,
+            40.504886696277424,
+            90.45525374901112,
+            0.0,
+            -62.15834416033242
+        ]
+    },
+    "14986": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.626853815089707,
+            1.4151820138708648,
+            20.279914363880344,
+            0.3248587570621469,
+            66.35319105009694
+        ]
+    },
+    "15008": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            1.4492753623188406,
+            10.864673738347797,
+            26.88378033205619,
+            0.0,
+            60.80227056727717
+        ]
+    },
+    "15016": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            18.2920305110461,
+            1.5107733587703094,
+            39.58128128530844,
+            0.038556517428463895,
+            40.57735832744669
+        ]
+    },
+    "15023": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            3.5624914372248258,
+            9.872763539677745,
+            17.67938816381228,
+            0.0,
+            68.88535685928515
+        ]
+    },
+    "15024": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.856059209152631,
+            1.0738456628462543,
+            50.837282964860414,
+            0.0,
+            33.2328121631407
+        ]
+    },
+    "15027": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.094671640089835,
+            0.0,
+            65.33464261032702,
+            12.782041687523774,
+            6.78864406205936
+        ]
+    },
+    "15041": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.955509329942107,
+            22.04126640702082,
+            30.700495460400568,
+            0.0,
+            25.302728802636505
+        ]
+    },
+    "15048": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.709291226028803,
+            5.0,
+            4.351859732743212,
+            0.0,
+            73.938849041228
+        ]
+    },
+    "15070": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.248666541328223,
+            8.261758691206545,
+            9.21928002869565,
+            0.0,
+            69.27029473876959
+        ]
+    },
+    "15074": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            22.22222222222222,
+            44.0,
+            23.701196717990232,
+            0.0,
+            10.076581059787546
+        ]
+    },
+    "15096": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.933363983864105,
+            4.858176053689679,
+            67.18515587492,
+            0.0,
+            12.023304087526219
+        ]
+    },
+    "15249": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            11.658244451488654,
+            0.6610683987555067,
+            26.85728706474586,
+            0.610886417256488,
+            60.212513667753484
+        ]
+    },
+    "15295": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.08108108108108,
+            1.9487179487179487,
+            26.526105651105652,
+            0.0,
+            50.444095319095325
+        ]
+    },
+    "15304": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            13.139334328528943,
+            0.4331556720138084,
+            30.082796048197405,
+            0.0029996250468691415,
+            56.34171432621297
+        ]
+    },
+    "15323": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            17.752779803600305,
+            4.948664622942122,
+            17.921443069961242,
+            0.0,
+            59.377112503496335
+        ]
+    },
+    "15356": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.414046471743596,
+            0.0,
+            41.00303197876688,
+            0.0,
+            42.582921549489534
+        ]
+    },
+    "15370": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            19.71228379693377,
+            4.23726651566493,
+            76.75510285532354,
+            0.0,
+            -0.7046531679222443
+        ]
+    },
+    "15376": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            14.827537530668204,
+            3.740413438705118,
+            18.192421768732338,
+            0.0,
+            63.23962726189434
+        ]
+    },
+    "15380": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            23.412196137259055,
+            11.05475030104159,
+            22.835267397013318,
+            0.0,
+            42.697786164686036
+        ]
+    },
+    "15389": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            28.703703703703706,
+            50.0,
+            114.11019536019536,
+            0.0,
+            -92.81389906389906
+        ]
+    },
+    "15401": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            23.092620356488425,
+            32.39544172932331,
+            46.396103389488964,
+            0.0,
+            -1.8841654753006931
+        ]
+    },
+    "15411": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.5826506247246,
+            22.334763060191882,
+            15.843285304100736,
+            0.0,
+            41.23930101098278
+        ]
+    },
+    "15412": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            20.1792509243302,
+            6.118677947677756,
+            69.88183810462992,
+            0.22203325774754346,
+            3.5981997656145723
+        ]
+    },
+    "15569": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            21.906565656565657,
+            0.0,
+            13.854427338599628,
+            0.0,
+            64.23900700483472
+        ]
+    },
+    "15582": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            28.571428571428573,
+            0.0,
+            207.76877670098165,
+            0.0,
+            -136.3402052724102
+        ]
+    },
+    "15607": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            9.370220422852,
+            0.0,
+            2.528935185185185,
+            0.0,
+            88.10084439196281
+        ]
+    },
+    "15624": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            12.648749149738771,
+            6.002846230299818,
+            36.43418410444703,
+            0.0,
+            44.91422051551439
+        ]
+    },
+    "15841": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            5.7375222816399285,
+            0.0,
+            31.365079365079364,
+            0.0,
+            62.897398353280714
+        ]
+    },
+    "15919": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            16.82223740435284,
+            17.670882431610202,
+            88.67618358078428,
+            1.4534883720930232,
+            -24.622791788840352
+        ]
+    },
+    "15991": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            0.0,
+            0.45454545454545453,
+            40.77462898937123,
+            0.0,
+            58.77082555608331
+        ]
+    },
+    "16101": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            15.548281505728314,
+            7.6923076923076925,
+            76.07389964532823,
+            0.0,
+            0.6855111566357747
+        ]
+    },
+    "16218": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            34.027211156512685,
+            4.166666666666667,
+            44.757716419297594,
+            0.0,
+            17.04840575752306
+        ]
+    },
+    "16869": {
+        "labels": [
+            "carier delay",
+            "weather delay",
+            "national airspace system error",
+            "security delay",
+            "other"
+        ],
+        "data": [
+            36.075376971738955,
+            9.949688725412479,
+            32.66299288865672,
+            0.0,
+            21.311941414191853
+        ]
+    }
+}
