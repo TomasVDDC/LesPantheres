@@ -18,7 +18,7 @@ export default function IndexPage() {
         <div className="mb-[60px] md:mb-[120px] text-white container">
           <div className="mb-[30px]">
             <h1 className="text-4xl text-white  font-bold">
-              Step 1: Select an airport
+              Select an airport
             </h1>
             <p className="text-lg text-white mt-2">
               Pick an airport on the map to see the biggest connections between
@@ -27,7 +27,7 @@ export default function IndexPage() {
           </div>
           <D3Example />
 
-          <div className="mt-[200px] mb-[50px] text-white ">
+          <div className="mt-[50px] mb-[50px] text-white ">
             <h1 className="text-4xl  font-bold">
               General Statistics on all Airports{" "}
             </h1>

@@ -7,7 +7,7 @@ import delayed_flights from "@/data/delayed_flights.json";
 import delay_types from "@/data/delay_types.json";
 import Chart from "chart.js/auto";
 
-const mapRatio = 0.6;
+const mapRatio = 0.4;
 
 export default function D3Example() {
   const [selectedAirportId, setSelectedAirportId] = useState(11292);
@@ -306,7 +306,7 @@ export default function D3Example() {
     <div>
       <div className="viz">
         {selectedAirportId && (
-          <div className="mt-5 airport-select top-1 ">
+          <div className="airport-select">
             <h2 className="font-bold">Currently Selected Airport</h2>
             <p className="text-xl mt-3">
               {"Name: "}
@@ -334,23 +334,45 @@ export default function D3Example() {
       </div>
       <div className="mb-[30px]">
         <h1 className="text-4xl text-white  font-bold">
-          Step 2: Statistics for{" "}
+          Statistics for{" "}
           {
             airports.filter((a) => a.AIRPORT_ID == selectedAirportId)[0]
               .DISPLAY_AIRPORT_NAME
           }
         </h1>
         <div className="canvas-position">
-          <div className="canvas-delayed">
-            <canvas id="delays-canva"></canvas>
-          </div>
           <div className="canvas-radar">
-            <canvas id="airport-score-canva"></canvas>
+            <canvas
+              id="delay-types-canva"
+              style={{
+                border: "1px solid white",
+                borderRadius: "20px",
+                padding: "10px",
+              }}
+            ></canvas>
+          </div>
+
+          <div className="canvas-radar">
+            <canvas
+              id="airport-score-canva"
+              style={{
+                border: "1px solid white",
+                borderRadius: "20px",
+                padding: "10px",
+              }}
+            ></canvas>
           </div>
         </div>
         <div className="canvas-position">
-          <div className="canvas-radar">
-            <canvas id="delay-types-canva"></canvas>
+          <div className="canvas-delayed">
+            <canvas
+              id="delays-canva"
+              style={{
+                border: "1px solid white",
+                borderRadius: "20px",
+                padding: "10px",
+              }}
+            ></canvas>
           </div>
         </div>
       </div>

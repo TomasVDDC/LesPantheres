@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  transform: scale(0.9);
+  transform-origin: top left;
+  width: 111.11%; /* To counter the scale down effect (1 / 0.9) */
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
 @layer base {
   :root {
     --background: 0 0% 0%;
@@ -85,11 +92,11 @@
 }
 
 .airport-select {
-  @apply absolute top-0 right-[200px] w-[300px] p-[30px] border-white border-2 rounded-3xl;
+  @apply absolute top-0 right-[0px] w-[300px] p-[30px] border-white border-2 rounded-3xl;
 }
 
 .canvas-position {
-  @apply flex justify-center mt-14;
+  @apply flex justify-center mt-14 gap-10;
 }
 
 .canvas-delayed {
@@ -98,6 +105,10 @@
 
 .canvas-radar {
   @apply w-[500px];
+}
+
+.canvas-clickable {
+  cursor: pointer;
 }
 
 .step2 {

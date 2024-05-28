@@ -123,8 +123,8 @@ const GeneralStatistics = () => {
   return (
     <div>
       <h1 className="text-3xl font-semibold ">{chartTitle}</h1>
-      <div className="w-[500px]" onClick={updateChart}>
-        <canvas id="dimensions"></canvas>
+      <div className="w-[500px] flex justify-center" onClick={updateChart}>
+        <canvas id="dimensions" className="canvas-clickable"></canvas>
       </div>
     </div>
   );
