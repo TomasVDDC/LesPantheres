@@ -340,6 +340,9 @@ export default function D3Example() {
               .DISPLAY_AIRPORT_NAME
           }
         </h1>
+        <p className="text-[20px] mt-3 italic text-zinc-300">
+          Hover over the chart to view the exact value!
+        </p>
         <div className="canvas-position">
           <div className="canvas-radar">
             <canvas
@@ -350,7 +353,7 @@ export default function D3Example() {
                 padding: "10px",
               }}
             ></canvas>
-            <h2 className="canvas-title"> Delay Types</h2>
+            <h2 className="canvas-title"> Breakdown of Delay Causes</h2>
           </div>
 
           <div className="canvas-radar">
@@ -362,7 +365,7 @@ export default function D3Example() {
                 padding: "10px",
               }}
             ></canvas>
-            <h2 className="canvas-title">Airport Score</h2>
+            <h2 className="canvas-title">Airport Performance Scores</h2>
           </div>
         </div>
         <div className="canvas-position">
@@ -375,7 +378,7 @@ export default function D3Example() {
                 padding: "10px",
               }}
             ></canvas>
-            <h2 className="canvas-title">Delay Duration</h2>
+            <h2 className="canvas-title">Distribution of Delay Durations</h2>
           </div>
         </div>
       </div>
