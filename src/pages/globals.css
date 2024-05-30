@@ -103,6 +103,10 @@ body {
   @apply w-[600px] me-[30px];
 }
 
+.canvas-title {
+  @apply text-xl text-white text-center;
+}
+
 .canvas-radar {
   @apply w-[500px];
 }

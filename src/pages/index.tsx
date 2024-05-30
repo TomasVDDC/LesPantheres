@@ -15,6 +15,7 @@ export default function IndexPage() {
       </Head>
       <div>
         <Header />
+
         <div className="mb-[60px] md:mb-[120px] text-white container">
           <div className="mb-[30px]">
             <h1 className="text-4xl text-white  font-bold">
@@ -32,8 +33,7 @@ export default function IndexPage() {
               General Statistics on all Airports{" "}
             </h1>
             <p className="text-[20px] mt-3 italic text-zinc-300">
-              Here are some general statistics on all the airports in the
-              dataset.
+              Click on the chart to update the data!
             </p>
           </div>
           <div>

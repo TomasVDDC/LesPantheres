@@ -350,6 +350,7 @@ export default function D3Example() {
                 padding: "10px",
               }}
             ></canvas>
+            <h2 className="canvas-title"> Delay Types</h2>
           </div>
 
           <div className="canvas-radar">
@@ -361,6 +362,7 @@ export default function D3Example() {
                 padding: "10px",
               }}
             ></canvas>
+            <h2 className="canvas-title">Airport Score</h2>
           </div>
         </div>
         <div className="canvas-position">
@@ -373,6 +375,7 @@ export default function D3Example() {
                 padding: "10px",
               }}
             ></canvas>
+            <h2 className="canvas-title">Delay Duration</h2>
           </div>
         </div>
       </div>
