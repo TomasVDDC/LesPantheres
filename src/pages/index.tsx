@@ -18,10 +18,16 @@ export default function IndexPage() {
 
         <div className="mb-[60px] md:mb-[120px] text-white container">
           <div className="mb-[30px]">
-            <h1 className="text-4xl text-white  font-bold">
+            <p className="text-[20px] mt-3 italic text-zinc-300">
+              Welcome to our interactive visualization project. We used a
+              dataset from the US Bureau of Transportation Statistics (On-Time:
+              Marketing Carrier On-Time Performance). Follow the different steps
+              on the website to discover statistics on the 100 biggest airports.
+            </p>
+            <h1 className="text-4xl mt-5 text-white  font-bold">
               Select an airport
             </h1>
-            <p className="text-lg text-white mt-2">
+            <p className="text-[20px] mt-3 italic text-zinc-300">
               Pick an airport on the map to see the biggest connections between
               that airport and others.
             </p>

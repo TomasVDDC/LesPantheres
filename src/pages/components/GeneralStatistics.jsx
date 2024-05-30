@@ -78,6 +78,12 @@ const GeneralStatistics = () => {
       ],
     };
 
+    //If we want to add extra information in the tooltip
+    const footer = (tooltipItems) => {
+      console.log(tooltipItems);
+      return " ";
+    };
+
     const config = {
       type: "bar",
       data: initialData,
@@ -85,6 +91,13 @@ const GeneralStatistics = () => {
         scales: {
           y: {
             beginAtZero: true,
+          },
+        },
+        plugins: {
+          tooltip: {
+            callbacks: {
+              footer: footer,
+            },
           },
         },
       },
