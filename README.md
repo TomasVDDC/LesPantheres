@@ -6,7 +6,8 @@
 | Tomas Valdivieso Damasio Da Costa | 300086 |
 | Armance Nouvel                    | 330729 |
 
-## Milestone 3
+## Milestone 3 Deliverables
+Please find the different deliverables for the final milestone of the project:
 
 **Live Website:** [Here](https://les-pantheres-git-master-tomas-projects-569b5f47.vercel.app/)
 
