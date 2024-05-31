@@ -12,8 +12,7 @@
 
 **Screencast:** [Here](https://drive.google.com/file/d/1XrGWmJZ20xG1mQbQpxmTEnCWgUEzQP1O/view?usp=sharing)
 
-**Process Book:**
-
+**Process Book:** [Here](https://github.com/TomasVDDC/LesPantheres/blob/master/ProcessBook.pdf)
 
 ## Launching the website locally
 
