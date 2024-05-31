@@ -8,9 +8,9 @@
 
 ## Milestone 3
 
-**Live Website:** https://les-pantheres-git-master-tomas-projects-569b5f47.vercel.app/
+**Live Website:** [Here](https://les-pantheres-git-master-tomas-projects-569b5f47.vercel.app/)
 
-**Screencast:** https://drive.google.com/file/d/1XrGWmJZ20xG1mQbQpxmTEnCWgUEzQP1O/view?usp=sharing
+**Screencast:** [Here](https://drive.google.com/file/d/1XrGWmJZ20xG1mQbQpxmTEnCWgUEzQP1O/view?usp=sharing)
 
 **Process Book:**
 
